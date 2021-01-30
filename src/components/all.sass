@@ -5,6 +5,8 @@
 $kaldi-red: #D64000
 $kaldi-red-invert: #fff
 
+$ba-blue: rgb(30,54,77)
+
 $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
@@ -114,27 +116,72 @@ $menu-label-color: $white-ter
 
 // blog roll
 .blog-list-item.is-featured
-  background-color: #d6400033;
+  background-color: #d6400033
 .blog-list-item header
-  display: flex;
-  margin-bottom: 1em;
+  display: flex
+  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  flex-basis: 35%
+  margin: 0 1.5em 0 0
+ 
 
+//navbar stuff
+$navbar-item-hover-color: rgba(102, 204, 255, 0.75)
+$navbar-dropdown-arrow: rgba(102, 204, 255, 0.75)
+$navbar-dropdown-item-hover-color: rgba(102, 204, 255, 0.75)
 
 @import "~bulma"
 
+.navbar,
+.navbar-dropdown
+  background-color: rgba(20,39,59,.9)
+.navbar-item
+  color: white
+.navbar-menu
+  background-color: inherit
+.navbar-brand
+  justify-content: center
+.navbar-burger
+  color: white
 
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    flex-basis: 50%
+  .navbar-brand
+    justify-content: center
+  .navbar-brand::before
+    content: ""
+    height: 3.25rem
+    position: relative
+    width: 3.25rem
+  .navbar-burger
+    margin-left: auto
+  .navbar-brand .navbar-item
+    position: absolute
+  .navbar-dropdown
+    background-color: inherit
+    display: none
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1em
+  .navbar-brand::before
+    content: ""
+    height: 3.25rem
+    position: relative
+    width: 3.25rem
+  .navbar-burger
+    margin-left: auto
+  .navbar-brand .navbar-item
+    position: absolute
+  .navbar-dropdown
+    background-color: inherit
+    display: none
+    transition: all 5s ease-in-out
+  .expand
+    display: block

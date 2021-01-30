@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import logo from '../img/logo.webp'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -9,6 +9,11 @@ const Navbar = class extends React.Component {
     this.state = {
       active: false,
       navBarActiveClass: '',
+      dbexpand: false,
+      dbDropdownActiveClass: '',
+      toolsexpand: false,
+      toolsDropdownActiveClass: '',
+
     }
   }
 
@@ -32,6 +37,43 @@ const Navbar = class extends React.Component {
     )
   }
 
+  toggleDBDropdown = () => {
+    this.setState(
+      {
+        dbexpand: !this.state.dbexpand,
+      },
+      () => {
+        this.state.dbexpand
+          ? this.setState({
+              dbDropdownActiveClass: 'expand',
+            })
+          : this.setState({
+            dbDropdownActiveClass: '',
+            })
+      }
+    )
+  }
+
+  toggleToolsDropdown = () => {
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        toolsexpand: !this.state.toolsexpand,
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.toolsexpand
+          ? this.setState({
+              toolsDropdownActiveClass: 'expand',
+            })
+          : this.setState({
+              toolsDropdownActiveClass: '',
+            })
+      }
+    )
+  }
+
   render() {
     return (
       <nav
@@ -42,13 +84,16 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="Blue Archive" style={{ width: '120px' }} />
             </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
+              onKeyDown={() => this.toggleHamburger()}
+              role="button"
+              tabIndex="0"
             >
               <span />
               <span />
@@ -60,26 +105,30 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
+              
+
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-item navbar-link" onClick={() => this.toggleDBDropdown()} onKeyDown={() => this.toggleDBDropdown()} role="button" tabIndex="0">Database</div>
+                <div className={`navbar-dropdown ${this.state.dbDropdownActiveClass}`}>
+                  <Link className="navbar-item dropdown-item" to="/">Students</Link>
+                </div>
+              </div>
+              
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-item navbar-link" onClick={() => this.toggleToolsDropdown()} onKeyDown={() => this.toggleToolsDropdown()} role="button" tabIndex="0">Tools</div>
+                <div className={`navbar-dropdown ${this.state.toolsDropdownActiveClass}`}>
+                  <Link className="navbar-item dropdown-item" to="/">EXP Calculator</Link>
+                </div>
+              </div>
+
               <Link className="navbar-item" to="/about">
                 About
-              </Link>
-              <Link className="navbar-item" to="/products">
-                Products
-              </Link>
-              <Link className="navbar-item" to="/blog">
-                Blog
-              </Link>
-              <Link className="navbar-item" to="/contact">
-                Contact
-              </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://github.com/dthx2710/Dolicon-Blue-Archive"
                 target="_blank"
                 rel="noopener noreferrer"
               >
