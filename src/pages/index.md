@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dolicon BA
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.webp
 heading: Great coffee with a conscience
 subheading: A Blue Archive Site
 mainpitch:
