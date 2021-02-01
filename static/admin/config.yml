@@ -10,6 +10,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+local_backend: true
 
 collections:
   - name: "blog"
@@ -26,6 +27,28 @@ collections:
       - {label: "Featured Image", name: "featuredimage", widget: image}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "student"
+    label: "Student"
+    folder: "src/pages/student"
+    create: true
+    identifier_field: "name"
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "student-info"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Image", name: "image", widget: image}
+      - {label: "Rarity", name: "rarity", widget: "select", options: ["1", "2", "3"]}
+      - {label: "Affiliation", name: "affiliation", widget: "select", options: ["Abydos", "Trinity", "Gehenna", "Millennium", "Red Winter", "Valkyrie", "Hyakkiyako", "Shanhaijing"]
+      - {label: "Student Type", name: "studentType", widget: "select", options: ["Striker", "Special"]}
+      - {label: "Weapon Type", name: "weaponType", widget: "select", options: ["HG", "SMG", "AR", "SR", "SG", "MG", "RG", "GL"]}
+      - {label: "Role", name: "role", widget: "select", options: ["Attacker", "Supporter", "Tank", "Healer"]}
+      - {label: "Position", name: "position", widget: "select", options: ["Front", "Middle", "Back"]}
+      - {label: "EX Skill", name: "exSkill", widget: "text"}
+      - {label: "Normal Skill", name: "normalSkill", widget: "text"}
+      - {label: "Enhanced Skill", name: "enhancedSkill", widget: "text"}
+      - {label: "Sub Skill", name: "subSkill", widget: "text"}
+      
 
   - name: "pages"
     label: "Pages"
