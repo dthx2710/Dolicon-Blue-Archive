@@ -39,15 +39,31 @@ collections:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: image}
       - {label: "Rarity", name: "rarity", widget: "select", options: ["1", "2", "3"]}
-      - {label: "Affiliation", name: "affiliation", widget: "select", options: ["Abydos", "Trinity", "Gehenna", "Millennium", "Red Winter", "Valkyrie", "Hyakkiyako", "Shanhaijing"]
+      - {label: "Affiliation", name: "affiliation", widget: "select", options: ["Abydos", "Trinity", "Gehenna", "Millennium", "Red Winter", "Valkyrie", "Hyakkiyako", "Shanhaijing"], required: false, default: {}}
       - {label: "Student Type", name: "studentType", widget: "select", options: ["Striker", "Special"]}
       - {label: "Weapon Type", name: "weaponType", widget: "select", options: ["HG", "SMG", "AR", "SR", "SG", "MG", "RG", "GL"]}
-      - {label: "Role", name: "role", widget: "select", options: ["Attacker", "Supporter", "Tank", "Healer"]}
-      - {label: "Position", name: "position", widget: "select", options: ["Front", "Middle", "Back"]}
-      - {label: "EX Skill", name: "exSkill", widget: "text"}
-      - {label: "Normal Skill", name: "normalSkill", widget: "text"}
-      - {label: "Enhanced Skill", name: "enhancedSkill", widget: "text"}
-      - {label: "Sub Skill", name: "subSkill", widget: "text"}
+      - {label: "Role", name: "role", widget: "select", options: ["Attacker", "Supporter", "Tank", "Healer"], required: false, default: {}}
+      - {label: "Position", name: "position", widget: "select", options: ["Front", "Middle", "Back", "None"], required: false, default: {}}
+      - {label: "ATK Type", name: "atkType", widget: "select", options: ["Penetration", "Explosion", "Mystic"]}
+      - {label: "DEF Type", name: "defType", widget: "select", options: ["Light Armour", "Heavy Armour"]}
+      - label: "Combat Environment"
+        name: "combatEnvironment"
+        widget: "object"
+        fields:
+        - {label: "Desert", name: "desert", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
+        - {label: "Indoor", name: "indoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
+        - {label: "Outdoor", name: "outdoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
+      - label: "EX Skill"
+        name: "exSkill"
+        widget: "object"
+        required: false
+        default: {}
+        fields:
+        - {label: "Cost", name: "exCost", widget: "number", value_type: "int", min: 1, max: 10, required: false, default: {}}
+        - {label: "EX Skill", name: "exText", widget: "text", required: false, default: {}}
+      - {label: "Normal Skill", name: "normalText", widget: "text", required: false, default: {}}
+      - {label: "Enhanced Skill", name: "enhancedText", widget: "text", required: false, default: {}}
+      - {label: "Sub Skill", name: "subText", widget: "text", required: false, default: {}}
       
 
   - name: "pages"
