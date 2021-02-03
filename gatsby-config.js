@@ -6,6 +6,15 @@ module.exports = {
     author: 'Dolicon'
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-123607375-5",
+        head: true,
+        anonymize: true,
+        respectDNT: true,
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
