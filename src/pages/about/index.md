@@ -15,7 +15,7 @@ I am a gacha/waifu/hololive addict. Currently pursuing a CS degree in SG. Newbie
 
 I'm a boring person, but feel free to say hi if you see me around. :wave:
 
-Donations via Ko-fi/PayPal will help DoliconBA's future expenditures while keeping me motivated!
+Donations via Ko-fi will help DoliconBA's future expenditures while keeping me motivated!
 
 Links:
 * [Ko-fi](https://ko-fi.com/dolicon)
