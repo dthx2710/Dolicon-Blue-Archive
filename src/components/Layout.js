@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/home-jumbotron.webp`}
+          content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
       <Navbar />
