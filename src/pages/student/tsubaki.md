@@ -16,7 +16,7 @@ combatEnvironment:
   outdoor: Terrible
 exSkill:
   exCost: 4
-  exText: Increases her defense power (M) and provokes the enemies to focus
+  exText: Increases her defense power (M) and provokes the enemies to focus on
     attacking her for (M) time.
 normalText: When her HP is low, she restores her HP (Maximum). (Activated only
   once during a battle.)
