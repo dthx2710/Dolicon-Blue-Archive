@@ -40,6 +40,12 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
+              <p>
+                You may contact me on Discord @ Dolicon#8638 or by filling up this form.
+              </p>
+              <p>
+                Feel free to send any suggestions or bug reports!
+              </p>
               <form
                 name="contact"
                 method="post"
@@ -58,7 +64,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Name / Discord Tag
                   </label>
                   <div className="control">
                     <input
@@ -82,7 +88,7 @@ export default class Index extends React.Component {
                       name={'email'}
                       onChange={this.handleChange}
                       id={'email'}
-                      required={true}
+                      required={false}
                     />
                   </div>
                 </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
+//import github from '../img/github-icon.svg'
 import logo from '../img/logo.webp'
 
 const Navbar = class extends React.Component {
@@ -110,7 +110,8 @@ const Navbar = class extends React.Component {
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-item navbar-link" onClick={() => this.toggleDBDropdown()} onKeyDown={() => this.toggleDBDropdown()} role="button" tabIndex="0">Database</div>
                 <div className={`navbar-dropdown ${this.state.dbDropdownActiveClass}`}>
-                  <Link className="navbar-item dropdown-item" to="/">Students</Link>
+                  <Link className="navbar-item dropdown-item" to="/strikers">Strikers</Link>
+                  <Link className="navbar-item dropdown-item" to="/specials">Specials</Link>
                 </div>
               </div>
               
@@ -125,6 +126,7 @@ const Navbar = class extends React.Component {
                 About
               </Link>
             </div>
+            {/*
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
@@ -136,7 +138,7 @@ const Navbar = class extends React.Component {
                   <img src={github} alt="Github" />
                 </span>
               </a>
-            </div>
+            </div>*/}
           </div>
         </div>
       </nav>
