@@ -76,7 +76,7 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
-       <iframe title="countdown" src="https://free.timeanddate.com/countdown/i7np57kh/n248/cf100/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cacfff/cpcfff/pc7fd3f9/tcfff/fs100/szw192/szh81/tatMight%20Release%20In/tacfff/tptTime%20since%20Event%20started%20in/tpc000/iso2021-02-04T15:00:00" frameBorder="0" width="192" height="81"></iframe>
+       <iframe title="countdown" src="https://free.timeanddate.com/countdown/i7np57kh/n248/cf100/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cacfff/cpcfff/pc7fd3f9/tcfff/fs100/szw192/szh81/tatBlue%20Archive%20Releases%20In/tacfff/tptTime%20since%20Event%20started%20in/tpc000/iso2021-02-04T13:00:00" frameBorder="0" width="192" height="81"></iframe>
 
                 </div>
               </div>
