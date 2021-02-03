@@ -5,7 +5,7 @@ image: /img/tsurugi_01.png
 rarity: "3"
 affiliation: Trinity
 studentType: Striker
-weaponType: SG
+weaponType: DualSG
 role: Attacker
 position: Front
 atkType: Explosion
