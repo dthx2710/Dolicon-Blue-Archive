@@ -30,26 +30,6 @@ module.exports = {
         name: 'images',
       },
     },
-    {
-      resolve: 'gatsby-plugin-manifest',
-      options: {
-         name: 'Dolicon Blue Archive',
-         short_name: 'DoliconBA',
-         start_url: '/',
-         background_color: '#6eccfa',
-         theme_color: '#2b3c4e',
-         icon: 'src/img/icon.png',
-         cache_busting_mode: 'none'
-      }
-   },
-   {
-      resolve: 'gatsby-plugin-offline',
-      options: {
-         workboxConfig: {
-            globPatterns: ['**/icon-path*']
-         }
-      }
-   },
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
     {
