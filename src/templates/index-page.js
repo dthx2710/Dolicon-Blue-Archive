@@ -1,8 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
+import Features from '../components/Features'
+import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   image,
@@ -56,7 +58,6 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
-            textAlign: 'center',
           }}
         >
           {subheading}
@@ -76,8 +77,33 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
-       <iframe title="countdown" src="https://free.timeanddate.com/countdown/i7np57kh/n248/cf100/cm0/cu3/ct0/cs1/ca0/co1/cr0/ss0/cacfff/cpcfff/pc7fd3f9/tcfff/fs100/szw192/szh81/tatMight%20Release%20In/tacfff/tptTime%20since%20Event%20started%20in/tpc000/iso2021-02-04T15:00:00" frameBorder="0" width="192" height="81"></iframe>
-
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h3 className="has-text-weight-semibold is-size-2">
+                      {heading}
+                    </h3>
+                    <p>{description}</p>
+                  </div>
+                </div>
+                <Features gridItems={intro.blurbs} />
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="/products">
+                      See all products
+                    </Link>
+                  </div>
+                </div>
+                <div className="column is-12">
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Latest stories
+                  </h3>
+                  <BlogRoll />
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to="/blog">
+                      Read more
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>

@@ -1,42 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About
+title: About our values
 ---
+### Shade-grown coffee
+Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-![About](../../img/arona.png "About")
+### Single origin
+Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
 
+### Sustainable farming
+Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### DoliconBA
-DoliconBA is a fan-made Blue Archive Progressive Web App developed upon the JAMstack architecture using Gatsbyjs (SSG) and NetlifyCMS (HeadlessCMS), hosted on Netlify Pages. Made this as a side-project to learn the JAMstack architecture :smile:
+### Direct sourcing
+Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Dolicon
-I am a gacha/waifu/hololive addict. Currently pursuing a CS degree in SG. Newbie @ webdev. I play plenty of other gacha games & make resources for them too, so you might find me familiar. Find me @ Dolicon#8638 or [/contact](http://localhost:8888/contact)
-
-I'm a boring person, but feel free to say hi if you see me around. :wave:
-
-Donations via Ko-fi/PayPal will help DoliconBA's future expenditures while keeping me motivated!
-
-Links:
-* [Ko-fi](https://ko-fi.com/dolicon)
-* [Blue Archive Discord](https://discord.com/invite/bluearchive)
-* [Github](https://github.com/dthx2710)
-* [AniList](https://anilist.co/user/bakacaterpie/)
-* [Twitch](https://www.twitch.tv/doliconn)
-
-
-### WIP / To do list ✔:
-- [x] Strikers & Specials List
-- [x] Individual Student Page
-- [ ] Filter/Sort for Student List
-- [ ] Proper landing page with news/update/banners
-- [ ] EXP Calculator (after we gather the formula and data!)
-- [ ] Gacha Simulator
-
-### Team, Contributors & Special Thanks
-* Dolicon
-> Site Owner & Programmer
-* Xeno, Lico, Dimbreath
-    > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
-* NeptuniaMX
-    > Sensei
+### Reinvest profits
+We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
