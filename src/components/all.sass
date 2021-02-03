@@ -104,7 +104,7 @@ $menu-label-color: $white-ter
   text-align: left
 .social
   padding: 2em
-.social a
+/*.social a
     padding: .5em .5em .3em .5em
     border-radius: 1em
     background-color: $white-ter
@@ -129,6 +129,19 @@ $menu-label-color: $white-ter
 $navbar-item-hover-color: rgba(102, 204, 255, 0.75)
 $navbar-dropdown-arrow: rgba(102, 204, 255, 0.75)
 $navbar-dropdown-item-hover-color: rgba(102, 204, 255, 0.75)
+
+//scrollbar styles
+html::-webkit-scrollbar-track
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3)
+	background-color: #F5F5F5
+html::-webkit-scrollbar
+	width: 6px
+	background-color: #F5F5F5
+html::-webkit-scrollbar-thumb
+	background-color: rgba(102, 204, 255, 0.75)
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(.5, rgba(255, 255, 255, .2)), color-stop(.5, transparent), to(transparent))
+
+
 
 @import "~bulma"
 
