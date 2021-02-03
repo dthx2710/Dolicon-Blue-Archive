@@ -50,9 +50,9 @@ collections:
         name: "combatEnvironment"
         widget: "object"
         fields:
-        - {label: "Desert", name: "desert", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
-        - {label: "Indoor", name: "indoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
-        - {label: "Outdoor", name: "outdoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible"]}
+        - {label: "Desert", name: "desert", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible", "Unknown"]}
+        - {label: "Indoor", name: "indoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible", "Unknown"]}
+        - {label: "Outdoor", name: "outdoor", widget: "select", options: ["Excellent", "Good", "Neutral", "Bad", "Terrible", "Unknown"]}
       - label: "EX Skill"
         name: "exSkill"
         widget: "object"
