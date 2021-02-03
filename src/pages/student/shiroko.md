@@ -20,6 +20,6 @@ exSkill:
 normalText: At regular intervals, she throws a hand grenade that causes (S)
   damage to enemies within range.
 enhancedText: Increases her critical rate (S).
-subText: When attack her normal attack, there is a low chance that her normal
+subText: During her normal attack, there is a low chance that her normal
   attack's speed will be increased (S) for (M) time.
 ---
