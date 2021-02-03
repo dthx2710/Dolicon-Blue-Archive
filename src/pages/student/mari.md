@@ -20,5 +20,5 @@ exSkill:
     Mystic attribute for a period of time.
 normalText: At regular intervals, she inflicts (S) damage to enemies within a circle.
 enhancedText: Increases her attack power (S).
-subText: Increase all allies's recovery rate (S).
+subText: Increases all allies' recovery rate (S).
 ---
