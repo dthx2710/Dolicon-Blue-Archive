@@ -75,6 +75,9 @@ module.exports = {
    },
    {
       resolve: 'gatsby-plugin-offline',
+      options: {
+        precachePages: [`/about/`, `strikers`, `specials`, `/student/*`],
+      },
    },
     {
       resolve: 'gatsby-plugin-netlify-cms',
