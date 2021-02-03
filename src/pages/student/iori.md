@@ -11,9 +11,9 @@ position: Middle
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Neutral
-  outdoor: Neutral
+  desert: Unknown
+  indoor: Unknown
+  outdoor: Unknown
 exSkill:
   exCost: 0
   exText: ""
