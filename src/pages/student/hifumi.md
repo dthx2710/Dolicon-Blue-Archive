@@ -19,7 +19,7 @@ exSkill:
   exText: Summons a Peroro stuffed animal within the specified area and deals (S)
     damage. Enemies will focus on it. it's HP will be affected by (M) Hifumi's
     maximum HP.
-normalText: At regular intervals, the accurancy of one enemy is reduced (M) for (M) time.
+normalText: At regular intervals, the accuracy of one enemy is reduced (M) for (M) time.
 enhancedText: Increases her maximum HP (S).
 subText: When using a skill, her normal attack's speed is increased (S) for (M) time.
 ---
