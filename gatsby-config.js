@@ -68,7 +68,9 @@ module.exports = {
          start_url: '/',
          background_color: '#6eccfa',
          theme_color: '#2b3c4e',
+         display: "standalone",
          icon: 'src/img/icon.png',
+         crossOrigin: `use-credentials`,
          cache_busting_mode: 'none'
       }
    },
