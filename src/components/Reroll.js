@@ -49,7 +49,7 @@ class Reroll extends React.Component {
         </p>
         <ol>
             <li>Link to Twitter</li>
-            <li>Link to Twitter</li>
+            <li>Unlink from Twitter</li>
             <li>Return to the title screen, then select guest account again</li>
             <li>Rinse and repeat</li>
         </ol>

@@ -34,16 +34,16 @@ export default class FAQIndexPage extends React.Component {
                 <hr/>
                 <h3>Q. I read the reroll page, but how do you actually bind your account?</h3>  
                 <h3>A.</h3>
-                <img src={`../../img/changename1.png`} alt="changename1" width="600"/>
-                <img src={`../../img/changename2.png`} alt="changename2" width="600"/>
+                <img src={`../../img/bind1.png`} alt="bind1" width="600"/>
+                <img src={`../../img/bind2.png`} alt="bind2" width="600"/>
                 <hr/>
                 <h3>Q. Which banner should I roll for?</h3>  
                 <h3>A. Left is rate up banner, with Shiroko and Hoshino on rate up. If you are not aiming for them, roll for right side's normal banner</h3>
                 <hr/>
                 <h3>Q. How to change name?</h3>  
                 <h3>A. First is username, second is katakana name (the one that Arona will call you by)</h3>
-                <img src={`../../img/bind1.png`} alt="bind1" width="600"/>
-                <img src={`../../img/bind2.png`} alt="bind2" width="600"/>
+                <img src={`../../img/changename1.jpg`} alt="changename1" width="600"/>
+                <img src={`../../img/changename2.png`} alt="changename2" width="600"/>
                 <hr/>
                 <h3>Q. WTF is FAQ???</h3>
                 <h3>A. Miko will explain...</h3>
