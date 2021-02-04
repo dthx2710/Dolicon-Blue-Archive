@@ -9,18 +9,18 @@ affiliation: Trinity
 weaponType: DualSG
 role: Attacker
 position: Front
-atkType: Explosion
+atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
   desert: Terrible
-  indoor: Neutral
-  outdoor: Excellent
+  indoor: Excellent
+  outdoor: Neutral
 exSkill:
   exCost: 3
-  exText: Reloads immediately, then her normal attack is enhanced and changed to a
-    fan range attack until she makes two reloads. In addition, the attack power
-    will be (M) increased.
-normalText: When she kills an enemy, she restores (M) her own HP.
-enhancedText: Increases her movement speed (S).
-subText: When she defeats an enemy, there is a (low) chance to add extra ammo (S).
+  exText: Reloads immediately and converts normal attack into a fan-shaped attack
+    that deals 138% damage while increasing her attack by 25.8% (until next
+    reload).
+normalText: Upon killing an enemy, recover 116% heal potency (CD 10 sec).
+enhancedText: Increases movement speed by 14%.
+subText: Upon killing an enemy, 30% chance to add 1 ammo.
 ---
