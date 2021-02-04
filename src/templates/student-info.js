@@ -179,6 +179,7 @@ const StudentInfo = ({ data }) => {
       <StudentInfoTemplate
         helmet={
           <Helmet titleTemplate="%s">
+            <meta name="description" content={info.frontmatter.name}/>
             <title>{`${info.frontmatter.name} | ${info.frontmatter.studentType}`}</title>
           </Helmet>
         }

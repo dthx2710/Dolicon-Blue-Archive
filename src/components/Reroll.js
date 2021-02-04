@@ -29,7 +29,7 @@ class Reroll extends React.Component {
         </h1>
 
         <h3>
-            How to Reroll:
+            How to Reroll
         </h3>
         <p>
             Method 1: Rerolling with Salted Email method (no clear data)
@@ -45,7 +45,7 @@ class Reroll extends React.Component {
             <li>Repeat</li>
         </ol>
         <p>
-            Method 2 Rename Folder (Android only)
+            Method 2: Rename Folder (Android only)
         </p>
         <ol>
             <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &amps; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
@@ -55,7 +55,7 @@ class Reroll extends React.Component {
         </ol>
 
         <h3>
-            Who to Reroll for:
+            Who to Reroll for
         </h3>
         <ul>
             <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
