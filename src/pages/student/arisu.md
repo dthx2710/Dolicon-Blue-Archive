@@ -8,13 +8,13 @@ rarity: "3"
 affiliation: Millennium
 weaponType: RG
 role: Attacker
-position: Middle
+position: Back
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
   desert: Good
-  indoor: Good
-  outdoor: Bad
+  indoor: Bad
+  outdoor: Good
 exSkill:
   exCost: 6
   exText: Fires a penetrating projectile at enemies in a straight line. The
