@@ -12,9 +12,9 @@ position: Back
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Excellent
+  desert: Bad
   indoor: Bad
-  outdoor: Bad
+  outdoor: Excellent
 exSkill:
   exCost: 7
   exText: Deals damage equal to 636% of her attack power against enemies within a
