@@ -9,7 +9,7 @@ affiliation: Millennium
 weaponType: AR
 role: Attacker
 position: Middle
-atkType: Penetration
+atkType: Mystic
 defType: Light Armour
 combatEnvironment:
   desert: Bad
@@ -17,10 +17,9 @@ combatEnvironment:
   outdoor: Good
 exSkill:
   exCost: 2
-  exText: Increases (L) evasion while using the skill and increases (M) speed of
-    her normal attack over (M) time.
-normalText: At regular intervals, she deals (M) damage to one enemy.
-enhancedText: Increases her critical damage (S).
-subText: When using her EX skill, her normal attack's speed is increased (S) for
-  (M) time.
+  exText: Increases evasion by 43.4% and attack speed by 30.2% (30 sec).
+normalText: Deals 219% damage to one enemy every 20 seconds.
+enhancedText: Increases her critical damage by 14%.
+subText: When using her EX skill, her normal attack speed is increased by 20.1%.
+  (30 sec).
 ---
