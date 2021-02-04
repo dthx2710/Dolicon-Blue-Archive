@@ -16,10 +16,12 @@ combatEnvironment:
   outdoor: Neutral
 exSkill:
   exCost: 4
-  exText: Damage to enemies within a circular area equal to 392% of attack power.
-normalText: During a normal attack, there is a 10% chance that her attack power
-  will be increased.
-enhancedText: Increase HP by 14%.
-subText: During a normal attack, there is a 10% chance that the attack power
-  will be increased.
+  exText: Deals damage equal to 392% of her attack power to enemies within a
+    circular area.
+normalText: During her normal attack, 10% chance to increase her attack power by
+  38.7% (20 sec) (CD 15sec).
+enhancedText: Increases the rate of her recovery received.
+subText: >
+  During her normal attack, 10% chance to increase her attack power by 34.4% (26
+  sec) (CD 18%)
 ---
