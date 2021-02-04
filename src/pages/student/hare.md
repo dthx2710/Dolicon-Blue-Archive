@@ -8,19 +8,18 @@ rarity: "2"
 affiliation: Millennium
 weaponType: AR
 role: Supporter
-position: None
+position: Back
 atkType: Explosion
-defType: Heavy Armour
+defType: Light Armour
 combatEnvironment:
-  desert: Bad
+  desert: Good
   indoor: Good
-  outdoor: Good
+  outdoor: Bad
 exSkill:
   exCost: 4
-  exText: Deals (M) damage to enemies in the specified area. Causes a stun effect
-    for a (very) short time.
-normalText: At regular intervals, she reduces the recovery rate (M) of the enemy
-  received for a (short) period of time.
-enhancedText: Increases her critical rate (S).
-subText: Increases all allies's evasion rate (S).
+  exText: Deals 271% damage to enemies in the circular area, stunning enemies for
+    2.7 seconds.
+normalText: Every 30 seconds, she reduces the recovery rate of an enemy by 26.7% (15 sec).
+enhancedText: Increases critical rate by 14%.
+subText: Increases allies' evasion by 9.1%.
 ---
