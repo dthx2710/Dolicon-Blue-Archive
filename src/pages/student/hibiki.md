@@ -10,15 +10,16 @@ weaponType: GL
 role: Supporter
 position: None
 atkType: Explosion
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
-  desert: Unknown
-  indoor: Unknown
-  outdoor: Unknown
+  desert: Excellent
+  indoor: Neutral
+  outdoor: Neutral
 exSkill:
-  exCost: 0
-  exText: ""
-normalText: ""
-enhancedText: ""
-subText: ""
+  exCost: 4
+  exText: Deals 311% damage to enemies with 5 AOE circles.
+normalText: Every 20 seconds, deal 144% damage to enemies within a circle of the
+  enemy with the lowest HP.
+enhancedText: Increases critical damage by 14%.
+subText: Increases allies' damage rate by 9.1%.
 ---
