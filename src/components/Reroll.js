@@ -48,7 +48,7 @@ class Reroll extends React.Component {
             Method 2: Rename Folder (Android only)
         </p>
         <ol>
-            <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &amps; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
+            <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &#38; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
             <li>Delete the app's data</li>
             <li>Rename the file back to com.YostarJP.BlueArchive</li>
             <li>Relaunch the game</li>
