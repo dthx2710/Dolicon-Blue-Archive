@@ -2,7 +2,7 @@
 templateKey: student-info
 studentType: Striker
 name: Suzumi
-portrait: /img/suzumi_01.png
+image: /img/suzumi_01.png
 portrait: /img/Student_Portrait_Suzumi_Collection.png
 rarity: "1"
 affiliation: Trinity
