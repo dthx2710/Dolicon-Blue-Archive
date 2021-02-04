@@ -12,14 +12,14 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Bad
+  desert: Good
   indoor: Good
-  outdoor: Good
+  outdoor: Terrible
 exSkill:
   exCost: 4
-  exText: Continuously heals her ally (L) for (M) time.
-normalText: At regular intervals, she increases the defense (M) of her ally with
-  the lowest current HP for (M) time.
-enhancedText: Increases her healing power (S).
-subText: Increases all allies's critical damage (S).
+  exText: Heals an ally for 54.1% healing power over time (20 sec).
+normalText: Every 25 seconds, increases the defense of an ally with the lowest
+  HP by 17.7% (20 sec).
+enhancedText: Increases healing power by 14%.
+subText: Increases allies' damage rate by 9.1%.
 ---
