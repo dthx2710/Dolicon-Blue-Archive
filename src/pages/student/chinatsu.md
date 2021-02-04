@@ -9,17 +9,17 @@ affiliation: Gehenna
 weaponType: HG
 role: Healer
 position: None
-atkType: Explosion
+atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Good
-  indoor: Bad
-  outdoor: Good
+  desert: Neutral
+  indoor: Neutral
+  outdoor: Neutral
 exSkill:
   exCost: 4
-  exText: Restores (L) the ally's HP.
-normalText: At regulars intervals, the evasion rate of her ally with lowest
-  current HP is increased (M) for (M) time.
-enhancedText: Increases her healing power (S).
-subText: Increases all allies's defense power (S).
+  exText: Restores ally's HP by 195% healing power.
+normalText: Every 40 seconds, increases the evasion rate of her ally with the
+  lowest current HP by 50.9% (30 sec).
+enhancedText: Increases her healing power by 14%.
+subText: Increases all allies' defense by 9.1%.
 ---
