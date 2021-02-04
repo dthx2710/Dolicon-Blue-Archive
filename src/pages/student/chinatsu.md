@@ -17,9 +17,9 @@ combatEnvironment:
   outdoor: Neutral
 exSkill:
   exCost: 4
-  exText: Restores ally's HP by 195% healing power.
+  exText: Restores ally's HP by 195% heal potency.
 normalText: Every 40 seconds, increases the evasion of her ally with the lowest
   current HP by 50.9% (30 sec).
-enhancedText: Increases healing power by 14%.
+enhancedText: Increases heal potency by 14%.
 subText: Increases allies' defense by 9.1%.
 ---
