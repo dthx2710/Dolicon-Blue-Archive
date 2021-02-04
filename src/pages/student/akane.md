@@ -22,5 +22,5 @@ normalText: Every 40 seconds, she deals damage equal to 396% of her attack power
   against one enemy.
 enhancedText: Increases movement speed by 14%.
 subText: When attacking, there is a 10% chance of reducing the enemy's evasion
-  value by 6.7% (for 30 seconds) (Cooldown 5 sec).
+  value by 6.7% (for 30 seconds) (CD 5 sec).
 ---
