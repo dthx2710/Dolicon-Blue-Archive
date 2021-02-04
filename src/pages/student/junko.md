@@ -12,16 +12,16 @@ position: Middle
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Good
+  desert: Neutral
+  indoor: Neutral
   outdoor: Good
 exSkill:
   exCost: 5
-  exText: Deals (L) damage to enemies in a straight. Using this skill will cause
-    Zunko to take (M) proportional damage to her current HP.
-normalText: When her HP is low, she becomes invulnerable for a (S) time.
-  (Activated only once during a battle.)
-enhancedText: Increases her evasion rate (S).
-subText: When attacking, she deals (S) additional damage proportional to the
-  amount of her HP lost.
+  exText: Deals 746% damage to enemies in a straight line. Reduces own current HP
+    by 25.7%.
+normalText: When HP is 20% or less, grants invulnerability (12.8 sec) (Only once
+  per battle).
+enhancedText: Increases her evasion by 14%.
+subText: While attacking, she deals an additional 0.9% ~ 4.9% damage
+  proportional to the amount of missing HP.
 ---
