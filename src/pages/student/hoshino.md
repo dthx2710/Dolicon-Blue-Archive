@@ -17,11 +17,10 @@ combatEnvironment:
   outdoor: Excellent
 exSkill:
   exCost: 4
-  exText: Moves forward and deals (M) damage to enemies within the fan-shaped and
-    are pushing them out. The attacked enemy will be stunned for a (very) short
-    time.
-normalText: When her HP becomes low, she recovers her own HP (XL). (Activates
-  only once during a battle)
-enhancedText: Increases her defense power (S).
-subText: While using her EX skill, it creates a (S) shield effect on her.
+  exText: Deals 435% damage against enemies in a fan-shaped area.
+normalText: When falls below 30%, recover 100% healing power over time (20 sec)
+  (Only once per battle).
+enhancedText: Increases defense by 14%.
+subText: While using her EX skill, creates a shield with strength equal to 108%
+  healing power.
 ---
