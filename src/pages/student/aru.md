@@ -21,6 +21,6 @@ exSkill:
     circular area.
 normalText: Every 25 seconds, she deals 152% damage to one enemy with a 50%
   chance to deal 251% damage to enemies near it in a circular area.
-enhancedText: Increased critical damage by 14%.
-subText: When using her EX skill, her critical rate is increased by 20.1%.
+enhancedText: Increases critical damage by 14%.
+subText: While using her EX skill, her critical rate is increased by 20.1%.
 ---
