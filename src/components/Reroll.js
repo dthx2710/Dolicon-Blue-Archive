@@ -32,7 +32,7 @@ class Reroll extends React.Component {
             How to Reroll:
         </h3>
         <p>
-            Rerolling with Salted Email method (no clear data)
+            Method 1: Rerolling with Salted Email method (no clear data)
         </p>
         <ol>
             <li>Login with guest account</li>
@@ -44,23 +44,37 @@ class Reroll extends React.Component {
             <li>Login using guest account</li>
             <li>Repeat</li>
         </ol>
+        <p>
+            Method 2 Rename Folder (Android only)
+        </p>
+        <ol>
+            <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &amps; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
+            <li>Delete the app's data</li>
+            <li>Rename the file back to com.YostarJP.BlueArchive</li>
+            <li>Relaunch the game</li>
+        </ol>
 
         <h3>
             Who to Reroll for:
         </h3>
         <ul>
-            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <Link to='/student/azusa'>Azusa</Link></li>
-            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <Link to='/student/cherino'>Cherino</Link> / <Link to='/student/hibiki'>Hibiki</Link></li>
-            <li>Nice to get: <Link to='/student/eimi'>Eimi</Link> <Link to='/student/shiroko'>Shiroko</Link> <Link to='/student/saya'>Saya</Link></li>
+            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
+            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link></li>
+            <li>Nice to get: <Link to='/student/eimi'>Eimi</Link> / <Link to='/student/shiroko'>Shiroko</Link> / <Link to='/student/saya'>Saya</Link></li>
             <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link></li>
         </ul>
+        <p>Take the reroll list with a grain of salt. Strikethrough means not in pool atm. Will be subjected to change as time goes</p>
+        <p>Sources: kamigame, gamewith, gamerch, Xeno's tier, Nep sensei's knowledge</p>
 
-        <p>
-            Take the reroll list with a grain of salt. Will be subjected to change as time goes
-        </p>
-        <p>
-            Sources: kamigame, gamewith, gamerch, Xeno's tier, Nep sensei's knowledge
-        </p>
+        <h3>Gacha Pool</h3>
+        <p>Here's the list of students in the gacha pool right now</p>
+        <p>☆☆☆ 2.5%</p>
+        <p>Hina, Iori, Haruna, Izumi, Aru, Sumire, Eimi, Karin, Neru, Maki, Hibiki, Saya, Shun, Shiroko, Hoshino, Hifumi, Tsurugi</p>
+        <p>☆☆ 18.5%</p>
+        <p>Akari, Junko, Mutsuki, Kayoko, Fuuka, Yuuka, Akane, Hare, Utaha, Chise, Tsubaki, Serika, Ayane, Hasumi, Hanae, Airi</p>
+        <p>☆ 79%</p>
+        <p>Chinatsu, Haruka, Juri, Kotama, Asuna, Kotori, Fina, Suzumi, Shimiko, Serina, Yoshimi</p>
+        <p>Credits to Lico#6969 for datamine</p>
       </div>
     )
   }
