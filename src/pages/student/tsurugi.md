@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Tsurugi
 image: /img/tsurugi_01.png
+portrait: /img/Student_Portrait_Tsurugi_Collection.png
 rarity: "3"
 affiliation: Trinity
-studentType: Striker
 weaponType: DualSG
 role: Attacker
 position: Front

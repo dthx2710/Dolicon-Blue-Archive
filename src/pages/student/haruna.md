@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Haruna
 image: /img/haruna_01.png
+portrait: /img/Student_Portrait_Haruna_Collection.png
 rarity: "3"
 affiliation: Gehenna
-studentType: Striker
 weaponType: SR
 role: Attacker
 position: Back

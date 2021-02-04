@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Erika
 image: /img/erika_01.png
+portrait: /img/Student_Portrait_Erika_Collection.png
 rarity: "1"
 affiliation: Gehenna
-studentType: Striker
 weaponType: SG
 role: Attacker
 position: Front

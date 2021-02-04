@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Arisu
 image: /img/arisu_01.png
+portrait: /img/Student_Portrait_Arisu_Collection.png
 rarity: "3"
 affiliation: Millennium
-studentType: Striker
 weaponType: RG
 role: Attacker
 position: Middle

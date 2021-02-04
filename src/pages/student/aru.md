@@ -1,7 +1,9 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Aru
 image: /img/aru_01.png
+portrait: /img/Student_Portrait_Aru_Collection.png
 rarity: "3"
 affiliation: Gehenna
 studentType: Striker

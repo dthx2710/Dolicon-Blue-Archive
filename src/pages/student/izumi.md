@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Izumi
 image: /img/izumi_01.png
+portrait: /img/Student_Portrait_Izumi_Collection.png
 rarity: "2"
 affiliation: Gehenna
-studentType: Striker
 weaponType: MG
 role: Tank
 position: Middle

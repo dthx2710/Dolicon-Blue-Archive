@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Serika
 image: /img/serika_01.png
+portrait: /img/Student_Portrait_Serika_Collection.png
 rarity: "1"
 affiliation: Abydos
-studentType: Striker
 weaponType: AR
 role: Attacker
 position: Middle

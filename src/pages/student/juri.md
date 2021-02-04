@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Juri
 image: /img/juri_01.png
+portrait: /img/Student_Portrait_Juri_Collection.png
 rarity: "2"
 affiliation: Gehenna
-studentType: Special
 weaponType: SG
 role: Supporter
 position: None

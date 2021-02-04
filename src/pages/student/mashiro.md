@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Mashiro
 image: /img/mashiro_01.png
+portrait: /img/Student_Portrait_Mashiro_Collection.png
 rarity: "3"
 affiliation: Trinity
-studentType: Special
 weaponType: SR
 role: Attacker
 position: None

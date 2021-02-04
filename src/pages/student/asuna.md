@@ -1,7 +1,9 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Asuna
 image: /img/asuna_01.png
+portrait: /img/Student_Portrait_Asuna_Collection.png
 rarity: "1"
 affiliation: Millennium
 studentType: Striker

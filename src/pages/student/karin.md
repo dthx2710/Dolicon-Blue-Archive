@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Karin
 image: /img/karin_01.png
+portrait: /img/Student_Portrait_Karin_Collection.png
 rarity: "3"
 affiliation: Millennium
-studentType: Special
 weaponType: SR
 role: Attacker
 position: None

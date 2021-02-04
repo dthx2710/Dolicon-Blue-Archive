@@ -30,10 +30,10 @@ class Strikers extends React.Component {
             
             <div className="column is-narrow has-text-centered" key={striker.id}>
                 <header>
-                  {striker.frontmatter.image ? (
+                  {striker.frontmatter.portrait ? (
                     <div className="card-image">
                       <Link to={striker.fields.slug}>
-                        <Img width="140" fixed={striker.frontmatter.image.childImageSharp.fixed} draggable={false}/>
+                        <Img width="140" fixed={striker.frontmatter.portrait.childImageSharp.fixed} draggable={false}/>
                       </Link>
                     </div>
                   ) : null}
@@ -88,7 +88,7 @@ export default () => (
                 affiliation
                 studentType
                 weaponType
-                image {
+                portrait {
                   childImageSharp {
                     fixed(width: 140, quality: 100) {
                       ...GatsbyImageSharpFixed

@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Momoi
 image: /img/momoi_01.png
+portrait: /img/Student_Portrait_Momoi_Collection.png
 rarity: "2"
 affiliation: Millennium
-studentType: Striker
 weaponType: AR
 role: Attacker
 position: Middle

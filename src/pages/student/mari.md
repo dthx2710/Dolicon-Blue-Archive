@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Mari
 image: /img/mari_01.png
+portrait: /img/Student_Portrait_Maki_Collection.png
 rarity: "2"
 affiliation: Trinity
-studentType: Special
 weaponType: HG
 role: Supporter
 position: None

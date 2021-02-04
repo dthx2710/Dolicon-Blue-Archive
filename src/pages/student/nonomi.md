@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Nonomi
 image: /img/nonomi_01.png
+portrait: /img/Student_Portrait_Nonomi_Collection.png
 rarity: "1"
 affiliation: Abydos
-studentType: Striker
 weaponType: MG
 role: Attacker
 position: Back

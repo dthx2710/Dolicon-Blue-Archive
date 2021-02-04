@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Mutsuki
 image: /img/mutsuki_01.png
+portrait: /img/Student_Portrait_Mutsuki_Collection.png
 rarity: "1"
 affiliation: Gehenna
-studentType: Striker
 weaponType: MG
 role: Attacker
 position: Back

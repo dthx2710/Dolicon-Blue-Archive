@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Hasumi
 image: /img/hasumi_01.png
+portrait: /img/Student_Portrait_Hasumi_Collection.png
 rarity: "2"
 affiliation: Trinity
-studentType: Striker
 weaponType: SR
 role: Attacker
 position: Back

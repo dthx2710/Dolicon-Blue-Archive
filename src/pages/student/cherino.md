@@ -1,7 +1,9 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Cherino
 image: /img/cherino_01.png
+portrait: /img/Student_Portrait_Cherino_Collection.png
 rarity: "3"
 affiliation: Red Winter
 studentType: Striker

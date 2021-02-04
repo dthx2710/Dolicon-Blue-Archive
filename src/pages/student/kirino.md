@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Kirino
 image: /img/kirino_01.png
+portrait: /img/Student_Portrait_Kirino_Collection.png
 rarity: "1"
 affiliation: Valkyrie
-studentType: Striker
 weaponType: HG
 role: Attacker
 position: Middle

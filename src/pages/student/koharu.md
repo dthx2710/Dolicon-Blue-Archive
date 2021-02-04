@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Koharu
 image: /img/koharu_01.png
+portrait: /img/Student_Portrait_Koharu_Collection.png
 rarity: "3"
 affiliation: Trinity
-studentType: Striker
 weaponType: SR
 role: Supporter
 position: Back

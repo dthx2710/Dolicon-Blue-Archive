@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Fina
-image: /img/pina_01.png
+image: /img/fina_01.png
+portrait: /img/Student_Portrait_Fina_Collection.png
 rarity: "1"
 affiliation: Hyakkiyako
-studentType: Striker
 weaponType: MG
 role: Attacker
 position: Front

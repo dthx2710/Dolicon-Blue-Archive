@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Suzumi
-image: /img/suzumi_01.png
+portrait: /img/suzumi_01.png
+portrait: /img/Student_Portrait_Suzumi_Collection.png
 rarity: "1"
 affiliation: Trinity
-studentType: Striker
 weaponType: AR
 role: Attacker
 position: Middle

@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Fuuka
 image: /img/fuuka_01.png
+portrait: /img/Student_Portrait_Fuuka_Collection.png
 rarity: "2"
 affiliation: Gehenna
-studentType: Special
 weaponType: SMG
 role: Healer
 position: None

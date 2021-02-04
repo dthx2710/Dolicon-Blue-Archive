@@ -30,10 +30,10 @@ class Specials extends React.Component {
             
             <div className="column is-narrow has-text-centered" key={special.id}>
                 <header>
-                  {special.frontmatter.image ? (
+                  {special.frontmatter.portrait ? (
                     <div className="card-image">
                       <Link to={special.fields.slug}>
-                        <Img width="140" fixed={special.frontmatter.image.childImageSharp.fixed} draggable={false}/>
+                        <Img width="140" fixed={special.frontmatter.portrait.childImageSharp.fixed} draggable={false}/>
                       </Link>
                     </div>
                   ) : null}
@@ -88,7 +88,7 @@ export default () => (
                 affiliation
                 studentType
                 weaponType
-                image {
+                portrait {
                   childImageSharp {
                     fixed(width: 140, quality: 100) {
                       ...GatsbyImageSharpFixed

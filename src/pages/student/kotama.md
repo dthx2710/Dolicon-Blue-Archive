@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Kotama
 image: /img/kotama_01.png
+portrait: /img/Student_Portrait_Kotama_Collection.png
 rarity: "1"
 affiliation: Millennium
-studentType: Special
 weaponType: HG
 role: ""
 position: None

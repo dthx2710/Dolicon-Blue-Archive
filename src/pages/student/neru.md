@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Neru
 image: /img/neru_01.png
+portrait: /img/Student_Portrait_Neru_Collection.png
 rarity: "3"
 affiliation: Millennium
-studentType: Striker
 weaponType: DualSMG
 role: Attacker
 position: Front

@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Akane
 image: /img/akane_01.png
+portrait: /img/Student_Portrait_Akane_Collection.png
 rarity: "2"
 affiliation: Millennium
-studentType: Striker
 weaponType: HG
 role: Supporter
 position: Middle

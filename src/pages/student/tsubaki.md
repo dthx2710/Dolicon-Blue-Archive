@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Tsubaki
 image: /img/tsubaki_01.png
+portrait: /img/Student_Portrait_Tsubaki_Collection.png
 rarity: "2"
 affiliation: Hyakkiyako
-studentType: Striker
 weaponType: SMG
 role: Tank
 position: Front

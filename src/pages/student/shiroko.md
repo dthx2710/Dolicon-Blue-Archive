@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Shiroko
 image: /img/shiroko_01.png
+portrait: /img/Student_Portrait_Shiroko_Collection.png
 rarity: "3"
 affiliation: Abydos
-studentType: Striker
 weaponType: AR
 role: Attacker
 position: Middle

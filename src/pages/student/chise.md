@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Chise
 image: /img/chise_01.png
+portrait: /img/Student_Portrait_Chise_Collection.png
 rarity: "2"
 affiliation: Hyakkiyako
-studentType: Striker
 weaponType: GL
 role: Attacker
 position: Middle

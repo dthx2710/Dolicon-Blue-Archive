@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Yuuka
 image: /img/yuuka_01.png
+portrait: /img/Student_Portrait_Yuuka_Collection.png
 rarity: "1"
 affiliation: Millennium
-studentType: Striker
 weaponType: SMG
 role: Tank
 position: Front

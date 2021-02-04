@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Iori
 image: /img/iori_01.png
+portrait: /img/Student_Portrait_Iori_Collection.png
 rarity: "2"
 affiliation: Gehenna
-studentType: Striker
 weaponType: SG
 role: Attacker
 position: Middle

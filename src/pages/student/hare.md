@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Hare
 image: /img/hare_01.png
+portrait: /img/Student_Portrait_Hare_Collection.png
 rarity: "2"
 affiliation: Millennium
-studentType: Special
 weaponType: AR
 role: Supporter
 position: None

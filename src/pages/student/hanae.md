@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Hanae
 image: /img/hanae_01.png
+portrait: /img/Student_Portrait_Hanae_Collection.png
 rarity: "2"
 affiliation: Trinity
-studentType: Special
 weaponType: AR
 role: Healer
 position: None

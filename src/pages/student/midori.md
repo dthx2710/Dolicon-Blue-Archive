@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Striker
 name: Midori
 image: /img/midori_01.png
+portrait: /img/Student_Portrait_Midori_Collection.png
 rarity: "2"
 affiliation: Millennium
-studentType: Striker
 weaponType: SR
 role: Attacker
 position: Back

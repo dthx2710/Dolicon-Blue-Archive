@@ -1,10 +1,11 @@
 ---
 templateKey: student-info
+studentType: Special
 name: Airi
 image: /img/airi_01.png
+portrait: /img/Student_Portrait_Airi_Collection.png
 rarity: "2"
 affiliation: Trinity
-studentType: Special
 weaponType: SMG
 role: Supporter
 position: None
