@@ -42,10 +42,19 @@ class Reroll extends React.Component {
             <li>Go back to title screen</li>
             <li>Click the lower left button</li>
             <li>Login using guest account</li>
-            <li>Repeat</li>
+            <li>Rinse and repeat</li>
         </ol>
         <p>
-            Method 2: Rename Folder (Android only)
+            Method 2: Twitter link
+        </p>
+        <ol>
+            <li>Link to Twitter</li>
+            <li>Link to Twitter</li>
+            <li>Return to the title screen, then select guest account again</li>
+            <li>Rinse and repeat</li>
+        </ol>
+        <p>
+            Method 3: Rename Folder (Android only)
         </p>
         <ol>
             <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &#38; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
