@@ -5,7 +5,7 @@ image: /img/neru_01.png
 rarity: "3"
 affiliation: Millennium
 studentType: Striker
-weaponType: SMG
+weaponType: DualSMG
 role: Attacker
 position: Front
 atkType: Penetration
