@@ -19,7 +19,7 @@ exSkill:
   exCost: 4
   exText: Inflicts 56% damage over time to enemies within a circular area (10 sec).
 normalText: Every 25 seconds, deals 219% damage against enemies within a circular area.
-enhancedText: Increase attack by 14%.
+enhancedText: Increases attack by 14%.
 subText: During her normal attack, 10% chance of 53.7% damage over time (20 sec)
   (CD 5 sec)
 ---
