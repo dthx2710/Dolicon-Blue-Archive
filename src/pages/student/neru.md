@@ -21,5 +21,5 @@ exSkill:
     angry.
 normalText: Every 30 seconds, she gets angry, increasing evasion by 17.8% (20 sec).
 enhancedText: Increases critical damage by 14%.
-subText: When angry, attack is increased by 16.8% (30 sec).
+subText: When angry, her attack is increased by 16.8% (30 sec).
 ---
