@@ -4,7 +4,7 @@ studentType: Striker
 name: Hifumi
 image: /img/hifumi_01.png
 portrait: /img/Student_Portrait_Hifumi_Collection.png
-rarity: "2"
+rarity: "3"
 affiliation: Trinity
 weaponType: AR
 role: Supporter
