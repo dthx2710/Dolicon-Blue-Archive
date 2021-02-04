@@ -8,7 +8,7 @@ rarity: "2"
 affiliation: Millennium
 weaponType: AR
 role: Supporter
-position: Back
+position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
