@@ -91,13 +91,13 @@ export const StudentInfoTemplate = ({
                     <p className="has-text-weight-bold is-bold-light">Desert</p>
                     <img src={`../../img/Combat_${desert}.png`} alt={desert} title={desert} width="40"/>
                   </div>
-                  <div className="column">
-                    <p className="has-text-weight-bold is-bold-light">Indoor</p>
-                    <img src={`../../img/Combat_${indoor}.png`} alt={indoor} title={indoor} width="40"/>
-                  </div>
                     <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Outdoor</p>
                     <img src={`../../img/Combat_${outdoor}.png`} alt={outdoor} title={outdoor} width="40"/>
+                  </div>
+                  <div className="column">
+                    <p className="has-text-weight-bold is-bold-light">Indoor</p>
+                    <img src={`../../img/Combat_${indoor}.png`} alt={indoor} title={indoor} width="40"/>
                   </div>
                 </div>
                 <hr/>

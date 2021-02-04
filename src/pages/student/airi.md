@@ -12,8 +12,8 @@ atkType: Explosion
 defType: Light Armour
 combatEnvironment:
   desert: Good
-  indoor: Bad
-  outdoor: Good
+  outdoor: Bad
+  indoor: Good
 exSkill:
   exCost: 4
   exText: Restores (L) the ally's HP.

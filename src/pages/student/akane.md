@@ -12,8 +12,8 @@ atkType: Penetration
 defType: Light Armour
 combatEnvironment:
   desert: Good
-  indoor: Good
-  outdoor: Bad
+  outdoor: Good
+  indoor: Bad
 exSkill:
   exCost: 2
   exText: Deals (M) damage to one enemy and reduces the enemy's defense (M) for
