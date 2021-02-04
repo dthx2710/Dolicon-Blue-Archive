@@ -17,10 +17,9 @@ combatEnvironment:
   outdoor: Terrible
 exSkill:
   exCost: 3
-  exText: Deals (M) damage to the specified target. Her damage is increased more
-    if she is angry.
-normalText: At regular intervals, she becomes angry and her evasion rate is
-  increased (S) for (M) time.
-enhancedText: Increases her critical damage (S).
-subText: When she is angry, her attack power is increased (M) for (S) time.
+  exText: Deals 476% damage to an enemy. Her damage is increased by 1.5x if she is
+    angry.
+normalText: Every 30 seconds, she gets angry, increasing evasion by 17.8% (20 sec).
+enhancedText: Increases critical damage by 14%.
+subText: When angry, her attack is increased by 16.8% (30 sec).
 ---

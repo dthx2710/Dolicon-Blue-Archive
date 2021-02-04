@@ -4,21 +4,21 @@ studentType: Striker
 name: Iori
 image: /img/iori_01.png
 portrait: /img/Student_Portrait_Iori_Collection.png
-rarity: "2"
+rarity: "3"
 affiliation: Gehenna
-weaponType: SG
+weaponType: SR
 role: Attacker
-position: Middle
+position: Back
 atkType: Penetration
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
-  desert: Unknown
-  indoor: Unknown
-  outdoor: Unknown
+  desert: Bad
+  indoor: Excellent
+  outdoor: Bad
 exSkill:
-  exCost: 0
-  exText: ""
-normalText: ""
-enhancedText: ""
-subText: ""
+  exCost: 3
+  exText: Deals 350% damage to an enemy and the enemy behind it in a fan-shape.
+normalText: Deals 229% damage to an enemy every 25 seconds.
+enhancedText: Increases accuracy by 14%.
+subText: While not hidden, increases damage by 22.6% of attack.
 ---

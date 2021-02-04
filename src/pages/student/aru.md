@@ -13,14 +13,14 @@ atkType: Explosion
 defType: Light Armour
 combatEnvironment:
   desert: Bad
-  indoor: Excellent
-  outdoor: Bad
+  indoor: Bad
+  outdoor: Excellent
 exSkill:
   exCost: 4
-  exText: Deals (M) damage to a specified target and (L) damage to surrounding enemies.
-normalText: Every set amount of time, she deals (S) damage to one enemy and a
-  certain percentage of bullets explode, dealing additional (M) damage to
-  surrounding enemies.
-enhancedText: Increases her critical damage (S).
-subText: When using her EX skill, her critical rate is increased (S).
+  exText: Deals 274% damage to one enemy and 292% damage to enemies near it in a
+    circular area.
+normalText: Every 25 seconds, she deals 152% damage to one enemy with a 50%
+  chance to deal 251% damage to enemies near it in a circular area.
+enhancedText: Increases critical damage by 14%.
+subText: While using her EX skill, her critical rate is increased by 20.1%.
 ---

@@ -12,14 +12,14 @@ position: Middle
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Good
-  outdoor: Neutral
+  desert: Excellent
+  indoor: Neutral
+  outdoor: Terrible
 exSkill:
   exCost: 3
-  exText: Restores her own HP (L).
-normalText: During her normal attack, there is a certain chance that will cause
-  (S) damage to one enemy.
-enhancedText: Increases the recovery rate that she receives (S).
-subText: When attacking, it inflicts (S) proportional damage to her current HP.
+  exText: Restores HP by 145% heal potency.
+normalText: While attacking, 20% chance to deal 275% damage to an enemy (CD 10 sec).
+enhancedText: Increases the recovery rate received by 14%.
+subText: While attacking, deal additional 0.4% damage equivalent to 2.2% attack
+  proportional to her current HP.
 ---

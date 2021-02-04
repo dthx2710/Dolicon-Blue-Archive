@@ -13,14 +13,14 @@ atkType: Penetration
 defType: Special Armour
 combatEnvironment:
   desert: Good
-  indoor: Good
-  outdoor: Terrible
+  indoor: Terrible
+  outdoor: Good
 exSkill:
   exCost: 4
-  exText: Increases her defense power (M) and provokes the enemies to focus on
-    attacking her for (M) time.
-normalText: When her HP is low, she restores her HP (Maximum). (Activated only
-  once during a battle.)
-enhancedText: Increases her defense power (S).
-subText: While reloading, she reduces her damage taken (M).
+  exText: Increases defense by 28.1% (30 sec) and taunts enemies in a circular
+    area (47 sec).
+normalText: When her HP falls below 30%, she restores her HP by 349% heal
+  potency. (Only once per battle.)
+enhancedText: Increases defense by 14%.
+subText: Reduces damage taken while reloading by 24%.
 ---

@@ -7,20 +7,21 @@ portrait: /img/Student_Portrait_Kayoko_Collection.png
 rarity: "2"
 affiliation: Gehenna
 weaponType: HG
-role: Attacker
+role: Supporter
 position: Middle
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
+  desert: Good
   indoor: Good
-  outdoor: Neutral
+  outdoor: Terrible
 exSkill:
   exCost: 6
-  exText: Causes (M) damage to enemies around her, enemies leaving her in fear for
-    a (very) short time.
-normalText: At regular intervals, she inflicts (S) damage to the enemy and has a
-  (low) chance of causing fear for a (very) short time.
-enhancedText: Increases her crowd control power (S).
-subText: When attacking an enemy in crowd controlled, she deals (S) additional damage.
+  exText: Deals 349% damage and fear on enemies around her in a circular area (3.9
+    sec).
+normalText: Every 20 seconds, deals 132% damage to one enemy, 30% chance of
+  inflicting fear (3.6 sec).
+enhancedText: Increases crowd control power by 14%.
+subText: When attacking an enemy in crowd controlled state, deal additional
+  damage equivalent to 74.8% of attack.
 ---

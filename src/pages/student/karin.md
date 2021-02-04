@@ -12,15 +12,15 @@ position: None
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Excellent
-  indoor: Terrible
-  outdoor: Neutral
+  desert: Terrible
+  indoor: Neutral
+  outdoor: Excellent
 exSkill:
   exCost: 4
-  exText: Deals (XL) damage to the specified target. If the target is very large,
-    it deals additional (L) damage.
-normalText: At regular intervals, she inflicts (M) damage to one enemy and has a
-  (M) chance of stun over a (short) time period.
-enhancedText: Increases her attack power (S).
-subText: Increases all allies's attack power (S).
+  exText: Deals 687% damage to the specified target. If the target is very large,
+    it deals 481% additional damage.
+normalText: Every 40 seconds, deals 223% damage to an enemy, 50% chance to
+  inflict stun (3.1s).
+enhancedText: Increases attack by 14%.
+subText: Increases allies' attack by 9.1%.
 ---

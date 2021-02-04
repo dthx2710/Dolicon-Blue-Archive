@@ -10,17 +10,16 @@ weaponType: SR
 role: Attacker
 position: Back
 atkType: Penetration
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Good
-  outdoor: Bad
+  desert: Good
+  indoor: Neutral
+  outdoor: Neutral
 exSkill:
   exCost: 5
-  exText: Deals (XL) damage to the specified target.
-normalText: When she defeat an enemy, it reloads immediately and increases her
-  critical damage rate (M) for (S) time.
-enhancedText: Increases her critical rate (S).
-subText: When she defeats an enemy, her critical rate is increased (L) until her
-  next normal attack.
+  exText: Deals 574% damage to an enemy.
+normalText: Upon defeating an enemy, reloads immediately and increases her
+  critical damage rate by 30%. (13 sec)
+enhancedText: Increases critical rate by 14%.
+subText: After reloading, increases critical rate by 50% for one attack.
 ---

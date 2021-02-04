@@ -13,8 +13,8 @@ atkType: Explosion
 defType: Light Armour
 combatEnvironment:
   desert: Bad
-  indoor: Good
-  outdoor: Bad
+  indoor: Neutral
+  outdoor: Good
 exSkill:
   exCost: 3
   exText: Reloads immediately after the skill is activated and then the normal

@@ -13,15 +13,14 @@ atkType: Penetration
 defType: Light Armour
 combatEnvironment:
   desert: Good
-  indoor: Good
-  outdoor: Bad
+  indoor: Bad
+  outdoor: Neutral
 exSkill:
   exCost: 4
-  exText: Ignores her normal attack's delay time (M) and increases her attack
-    power (S). When she uses the skill, she will reload immediately.
-normalText: When her HP is low, she restores her HP (Maximum). (Activated only
-  once during a battle.)
-enhancedText: Increases her critical rate (S).
-subText: If she doesn't move, her normal attack speed will be increased (S)
-  after a period of time.
+  exText: Ignores her attack delay 3 times and increases her attack by 29.1% (30
+    sec). Reloads immediately upon using this skill.
+normalText: When her HP is below 20%, she restores her HP by 355% healing power
+  (Only once per battle).
+enhancedText: Increases critical rate by 14%.
+subText: Attack speed increased by 20.1% if not moving.
 ---

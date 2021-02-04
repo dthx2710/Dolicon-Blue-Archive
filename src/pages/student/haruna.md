@@ -10,15 +10,16 @@ weaponType: SR
 role: Attacker
 position: Back
 atkType: Mystic
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
-  desert: Unknown
-  indoor: Unknown
-  outdoor: Unknown
+  desert: Excellent
+  indoor: Neutral
+  outdoor: Terrible
 exSkill:
-  exCost: 0
-  exText: ""
-normalText: ""
-enhancedText: ""
-subText: ""
+  exCost: 4
+  exText: Deals 506% damage to enemies in a straight line. Damage is reduced by
+    10% for each enemy pierced (30% min).
+normalText: Deals 200% damage to an enemy every 30 seconds.
+enhancedText: Increases HP by 14%.
+subText: Increases attack by 10% while not moving.
 ---

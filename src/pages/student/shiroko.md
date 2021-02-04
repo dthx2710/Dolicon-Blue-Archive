@@ -12,15 +12,14 @@ position: Middle
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Good
-  outdoor: Neutral
+  desert: Excellent
+  indoor: Neutral
+  outdoor: Terrible
 exSkill:
   exCost: 2
-  exText: Deals (L) damage to the specified target.
-normalText: At regular intervals, she throws a hand grenade that causes (S)
-  damage to enemies within range.
-enhancedText: Increases her critical rate (S).
-subText: During her normal attack, there is a low chance that her normal
-  attack's speed will be increased (S) for (M) time.
+  exText: Deals 400% damage to an enemy.
+normalText: Every 25 seconds, deals 193% damage to enemies in a specific circular area.
+enhancedText: Increases her critical rate by 14%.
+subText: While attacking, 20% chance to increase attack speed by 30.2% (30 sec)
+  (CD 25 sec).
 ---
