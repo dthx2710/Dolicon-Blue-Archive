@@ -13,8 +13,8 @@ atkType: Penetration
 defType: Special Armour
 combatEnvironment:
   desert: Excellent
-  indoor: Neutral
-  outdoor: Terrible
+  indoor: Terrible
+  outdoor: Neutral
 exSkill:
   exCost: 3
   exText: Deals (S) consecutive damage to the target and then (M) additional
