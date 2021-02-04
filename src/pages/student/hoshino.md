@@ -18,7 +18,7 @@ combatEnvironment:
 exSkill:
   exCost: 4
   exText: Deals 435% damage against enemies in a fan-shaped area.
-normalText: When falls below 30%, recover by 100% heal potency over time (20
+normalText: When falls below 30%, recovering by 100% heal potency over time (20
   sec) (Only once per battle).
 enhancedText: Increases defense by 14%.
 subText: While using her EX skill, creates a shield with strength equal to 108%
