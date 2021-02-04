@@ -13,8 +13,8 @@ atkType: Penetration
 defType: Light Armour
 combatEnvironment:
   desert: Terrible
-  indoor: Neutral
-  outdoor: Excellent
+  indoor: Excellent
+  outdoor: Neutral
 exSkill:
   exCost: 8
   exText: Deals (M) damage to enemies around her. Deals additional damage
