@@ -21,5 +21,5 @@ exSkill:
     HP over time (20 sec).
 normalText: Every 15 seconds, she deals 297% damage to enemies within a fan-shaped area.
 enhancedText: Increases recovery rate by 14%.
-subText: If her HP falls below 50%, her crowd control resistance is increased by 20.1%.
+subText: When HP falls below 50%, crowd control resistance is increased by 20.1%.
 ---
