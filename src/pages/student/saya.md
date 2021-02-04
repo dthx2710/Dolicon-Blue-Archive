@@ -10,16 +10,17 @@ weaponType: HG
 role: Supporter
 position: None
 atkType: Explosion
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
-  desert: Terrible
-  indoor: Neutral
-  outdoor: Excellent
+  desert: Neutral
+  indoor: Excellent
+  outdoor: Terrible
 exSkill:
   exCost: 6
-  exText: Inflicts continuous (S) damage to enemies within the specified range.
-normalText: At regular intervals, she decreases enemies' critical rate (S) and
-  inflicts continuous (S) poison damage in a circular area over (M) time.
-enhancedText: Increases her attack power (S).
-subText: Increases critical rate (S) of all allies.
+  exText: Inflicts 126% damage over time to enemies within a specific circular
+    area (8 sec).
+normalText: Every 20 seconds, reduces an enemy's critical rate by 12.1% (20 sec)
+  while inflicting 36.5% damage over time (20 sec).
+enhancedText: Increases her attack by 14%.
+subText: Increases allies' critical rate by 9.1%.
 ---
