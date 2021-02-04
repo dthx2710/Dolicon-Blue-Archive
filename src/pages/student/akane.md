@@ -16,11 +16,11 @@ combatEnvironment:
   indoor: Bad
 exSkill:
   exCost: 2
-  exText: Deals (M) damage to one enemy and reduces the enemy's defense (M) for
-    (M) time.
-normalText: Deals (M) damage on a single enemy every (M) time and reduces (S)
-  defense for (M) duration time.
-enhancedText: Increases her movement speed (S).
-subText: When attacking, there is a (M) chance that the enemy's evasion stats
-  will be reduced (S).
+  exText: Deals damage equal to 547% of her attack power against one enemy. Also
+    reduces defense by 29% (30 sec).
+normalText: Every 40 seconds, she deals damage equal to 396% of her attack power
+  against one enemy.
+enhancedText: Increases movement speed by 14%.
+subText: When attacking, there is a 10% chance of reducing the enemy's evasion
+  value by 6.7% (for 30 seconds) (Cooldown 5 sec).
 ---
