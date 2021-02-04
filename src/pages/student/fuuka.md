@@ -17,10 +17,10 @@ combatEnvironment:
   outdoor: Good
 exSkill:
   exCost: 5
-  exText: Distributes food to her allies and they move to eat it, recovering 109%
-    healing power.
+  exText: Distributes food to her allies and they move to eat it, recovering by
+    109% heal potency.
 normalText: Every 20 seconds, increases the defense of an ally with the highest
   maximum HP by 18.1% (16 sec).
-enhancedText: Increases healing power by 14%.
+enhancedText: Increases heal potency by 14%.
 subText: Increases allies' resistance by 9.1%.
 ---
