@@ -20,6 +20,6 @@ exSkill:
   exText: Restores ally's HP by 195% healing power.
 normalText: Every 40 seconds, increases the evasion rate of her ally with the
   lowest current HP by 50.9% (30 sec).
-enhancedText: Increases her healing power by 14%.
-subText: Increases all allies' defense by 9.1%.
+enhancedText: Increases healing power by 14%.
+subText: Increases allies' defense by 9.1%.
 ---
