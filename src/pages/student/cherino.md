@@ -6,7 +6,6 @@ image: /img/cherino_01.png
 portrait: /img/Student_Portrait_Cherino_Collection.png
 rarity: "3"
 affiliation: Red Winter
-studentType: Striker
 weaponType: HG
 role: Attacker
 position: Middle

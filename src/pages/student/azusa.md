@@ -6,7 +6,6 @@ image: /img/azusa_01.png
 portrait: /img/Student_Portrait_Azusa_Collection.png
 rarity: "3"
 affiliation: Trinity
-studentType: Striker
 weaponType: AR
 role: Attacker
 position: Middle
