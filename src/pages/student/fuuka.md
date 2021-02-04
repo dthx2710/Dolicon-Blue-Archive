@@ -13,15 +13,14 @@ atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
   desert: Good
-  indoor: Good
-  outdoor: Bad
+  indoor: Bad
+  outdoor: Good
 exSkill:
   exCost: 5
-  exText: Distributes food to her allies and they move to eat it. Her allies who
-    have acquired food will be restored their HP (M).
-normalText: For a set amount of time, the ally's defense stats with the highest
-  maximum HP will be increased (S) for a (S) period of time.
-enhancedText: "Increases her healing power
-  (S).                                                        "
-subText: Increases all allies's attack power (S).
+  exText: Distributes food to her allies and they move to eat it, recovering 109%
+    healing power.
+normalText: Every 20 seconds, increases the defense of an ally with the highest
+  maximum HP by 18.1% (16 sec).
+enhancedText: Increases healing power by 14%.
+subText: Increases allies' resistance by 9.1%.
 ---
