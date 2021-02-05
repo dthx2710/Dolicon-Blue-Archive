@@ -54,13 +54,26 @@ class Reroll extends React.Component {
             <li>Rinse and repeat</li>
         </ol>
         <p>
-            Method 3: Rename Folder (Android only)
+          Method 3: Delete shared_prefs (Rooted Android only, example via BStweaker method)
+        </p>
+        <ol>
+            <li>Open BSTweeker and press the play button on the instance menu on the left (broken chain icon)</li>
+            <li>When emulator is running, go back to BSTweaker then go to Root submenu on the right and click unpatch</li>
+            <li>Go to Info submenu and click File Manager which will open a new window</li>
+            <li>Navigate File explorer at the right till you get to /data/data/com/YostarJP.BlueArchive or /data/data/com/YostarEN.BlueArchive when Global get released</li>
+            <li>Relaunch the game with guest account and do your standard reroll procedure</li>
+            <li>If you fail to get what you want, close the game, go back to the file explorer from earlier and delete the shared_prefs folder.</li>
+            <li>Open game again and reroll. Remember to refresh the file manager and delete the shared_prefs folder before every new reroll attempt.</li>
+            <li>Rinse and repeat</li>
+        </ol><p>
+          Method 4: Rename Folder (Android only - not recommended as might cause brick)
         </p>
         <ol>
             <li>Go to Android &gt; Data &gt; com.YostarJP.BlueArchive &#38; rename it with a random character behind it (e.g. com.YostarJP.BlueArchive1)</li>
             <li>Delete the app's data</li>
             <li>Rename the file back to com.YostarJP.BlueArchive</li>
             <li>Relaunch the game</li>
+            <li>Rinse and repeat</li>
         </ol>
 
         <h3>

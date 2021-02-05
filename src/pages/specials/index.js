@@ -21,7 +21,6 @@ export default class SpecialsIndexPage extends React.Component {
           >
             Specials
           </h1>
-              Filter tabs goes here
               <Specials />
             </div>
           </div>

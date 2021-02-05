@@ -21,7 +21,6 @@ export default class StrikersIndexPage extends React.Component {
           >
             Strikers
           </h1>
-              Filter tabs goes here
               <Strikers />
             </div>
           </div>
