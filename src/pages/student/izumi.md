@@ -4,7 +4,7 @@ studentType: Striker
 name: Izumi
 image: /img/izumi_01.png
 portrait: /img/Student_Portrait_Izumi_Collection.png
-rarity: "2"
+rarity: "3"
 affiliation: Gehenna
 weaponType: MG
 role: Tank
