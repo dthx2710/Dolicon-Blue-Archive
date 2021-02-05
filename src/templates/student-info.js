@@ -70,11 +70,11 @@ export const StudentInfoTemplate = ({
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Role</p>
-                <p>{role}</p>
+                <p>{studentType}</p>
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Position</p>
-                <p>{position}</p>
+                <p>{role} / {position}</p>
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Attack Type</p>
@@ -88,11 +88,11 @@ export const StudentInfoTemplate = ({
               <hr/>
                 <div className="columns">
                   <div className="column">
-                    <p className="has-text-weight-bold is-bold-light">Desert</p>
+                    <p className="has-text-weight-bold is-bold-light">Outdoor</p>
                     <img src={`../../img/Combat_${desert}.png`} alt={desert} title={desert} width="40"/>
                   </div>
                     <div className="column">
-                    <p className="has-text-weight-bold is-bold-light">Outdoor</p>
+                    <p className="has-text-weight-bold is-bold-light">Urban</p>
                     <img src={`../../img/Combat_${outdoor}.png`} alt={outdoor} title={outdoor} width="40"/>
                   </div>
                   <div className="column">
