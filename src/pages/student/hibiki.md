@@ -4,7 +4,7 @@ studentType: Special
 name: Hibiki
 image: /img/hibiki_01.png
 portrait: /img/Student_Portrait_Hibiki_Collection.png
-rarity: "2"
+rarity: "3"
 affiliation: Millennium
 weaponType: GL
 role: Supporter
