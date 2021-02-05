@@ -40,10 +40,17 @@ export default class FAQIndexPage extends React.Component {
                 <h3>Q. Which banner should I roll for?</h3>  
                 <h3>A. Left is rate up banner, with Shiroko and Hoshino on rate up. If you are not aiming for them, roll for right side's normal banner</h3>
                 <hr/>
+                <h3>Q. Server reset time?</h3>  
+                <h3>A. 0300 JST</h3>
+                <hr/>
                 <h3>Q. How to change name?</h3>  
                 <h3>A. First is username, second is katakana name (the one that Arona will call you by)</h3>
                 <img src={`../../img/changename1.jpg`} alt="changename1" width="600"/>
                 <img src={`../../img/changename2.png`} alt="changename2" width="600"/>
+                <hr/>
+                <h3>Q. Crafting nodes?</h3>  
+                <h3>A. </h3>
+                <img src={`../../img/Crafting.jpg`} alt="Crafting" width="600"/>
                 <hr/>
                 <h3>Q. WTF is FAQ???</h3>
                 <h3>A. Miko will explain...</h3>
