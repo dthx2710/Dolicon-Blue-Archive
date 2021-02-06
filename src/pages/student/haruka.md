@@ -4,7 +4,7 @@ studentType: Striker
 name: Haruka
 image: /img/haruka_01.png
 portrait: /img/Student_Portrait_Haruka_Collection.png
-rarity: "2"
+rarity: "1"
 affiliation: Gehenna
 weaponType: SG
 role: Tank

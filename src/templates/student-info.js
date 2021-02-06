@@ -69,7 +69,7 @@ export const StudentInfoTemplate = ({
                 <img src={`../../img/Weapon_Icon_${weaponType}.png`} alt={weaponType} title={weaponType} width="160"/>
               </div>
               <div className="column is-4">
-                <p className="has-text-weight-bold is-bold-light">Role</p>
+                <p className="has-text-weight-bold is-bold-light">Type</p>
                 <p>{studentType}</p>
               </div>
               <div className="column is-4">

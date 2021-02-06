@@ -22,5 +22,5 @@ exSkill:
 normalText: Every 20 seconds, increases the defense of an ally with the highest
   maximum HP by 18.1% (16 sec).
 enhancedText: Increases heal potency by 14%.
-subText: Increases allies' resistance by 9.1%.
+subText: Increases allies' critical resistance by 9.1%.
 ---

@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import Img from "gatsby-image"
+//import Img from "gatsby-image"
 
 class Reroll extends React.Component {
   renderRarity(rarity){
@@ -19,14 +19,29 @@ class Reroll extends React.Component {
 
 
   render() {
-    const { data } = this.props
-    const { edges: specials } = data.allMarkdownRemark
 
     return (
       <div className="">
-        <h1>
-            This page will be updated with images and proper styling soon!
-        </h1>
+        <h3>
+            Who to Reroll for
+        </h3>
+        <ul>
+            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
+            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link></li>
+            <li>Nice to get: <Link to='/student/eimi'>Eimi</Link> / <Link to='/student/shiroko'>Shiroko</Link> / <Link to='/student/saya'>Saya</Link></li>
+            <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link></li>
+        </ul>
+        <p>Take the reroll list with a grain of salt. Strikethrough means not in pool atm. Will be subjected to change as time goes</p>
+        <p>Sources: kamigame, gamewith, gamerch, Xeno archive, Nep sensei</p>
+
+        <h3>Gacha Pool</h3>
+        <p>Here's the list of students in the gacha pool right now:</p>
+        <p>☆☆☆ 2.5%</p>
+        <p>Hina, Iori, Haruna, Izumi, Aru, Sumire, Eimi, Karin, Neru, Maki, Hibiki, Saya, Shun, Shiroko, Hoshino, Hifumi, Tsurugi</p>
+        <p>☆☆ 18.5%</p>
+        <p>Akari, Junko, Mutsuki, Kayoko, Fuuka, Yuuka, Akane, Hare, Utaha, Chise, Tsubaki, Serika, Ayane, Hasumi, Hanae, Airi</p>
+        <p>☆ 79%</p>
+        <p>Chinatsu, Haruka, Juri, Kotama, Asuna, Kotori, Fina, Suzumi, Shimiko, Serina, Yoshimi</p>
 
         <h3>
             How to Reroll
@@ -75,28 +90,6 @@ class Reroll extends React.Component {
             <li>Relaunch the game</li>
             <li>Rinse and repeat</li>
         </ol>
-
-        <h3>
-            Who to Reroll for
-        </h3>
-        <ul>
-            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
-            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link></li>
-            <li>Nice to get: <Link to='/student/eimi'>Eimi</Link> / <Link to='/student/shiroko'>Shiroko</Link> / <Link to='/student/saya'>Saya</Link></li>
-            <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link></li>
-        </ul>
-        <p>Take the reroll list with a grain of salt. Strikethrough means not in pool atm. Will be subjected to change as time goes</p>
-        <p>Sources: kamigame, gamewith, gamerch, Xeno's tier, Nep sensei's knowledge</p>
-
-        <h3>Gacha Pool</h3>
-        <p>Here's the list of students in the gacha pool right now</p>
-        <p>☆☆☆ 2.5%</p>
-        <p>Hina, Iori, Haruna, Izumi, Aru, Sumire, Eimi, Karin, Neru, Maki, Hibiki, Saya, Shun, Shiroko, Hoshino, Hifumi, Tsurugi</p>
-        <p>☆☆ 18.5%</p>
-        <p>Akari, Junko, Mutsuki, Kayoko, Fuuka, Yuuka, Akane, Hare, Utaha, Chise, Tsubaki, Serika, Ayane, Hasumi, Hanae, Airi</p>
-        <p>☆ 79%</p>
-        <p>Chinatsu, Haruka, Juri, Kotama, Asuna, Kotori, Fina, Suzumi, Shimiko, Serina, Yoshimi</p>
-        <p>Credits to Lico#6969 for datamine</p>
       </div>
     )
   }
@@ -121,24 +114,6 @@ export default () => (
           edges {
             node {
               id
-              fields {
-                slug
-              }
-              frontmatter {
-                name
-                templateKey
-                rarity
-                affiliation
-                studentType
-                weaponType
-                image {
-                  childImageSharp {
-                    fixed(width: 140, quality: 100) {
-                      ...GatsbyImageSharpFixed
-                    }
-                  }
-                }
-              }
             }
           }
         }
