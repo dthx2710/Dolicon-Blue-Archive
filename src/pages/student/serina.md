@@ -16,7 +16,7 @@ combatEnvironment:
   outdoor: Bad
   indoor: Neutral
 exSkill:
-  exCost: 0
+  exCost: 2
   exText: Moves one ally to a specified area and recover 120% heal potency.
 normalText: Every 35 seconds, recover 94% heal potency to one ally.
 enhancedText: Increases heal potency by 14%.
