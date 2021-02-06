@@ -44,24 +44,6 @@ export default class MenuTL extends React.Component {
         </div>
         <div className="column is-6">
             <p className="has-text-weight-bold is-bold-light">
-                Formation Effect - Balance
-            </p>
-            <img src={`../../img/Formation_Effect_-_Balance.png`} alt="Formation Effect - Balance" title="Formation Effect - Balance"/>
-        </div>
-        <div className="column is-6">
-            <p className="has-text-weight-bold is-bold-light">
-                Formation Effect - Breakthrough
-            </p>
-            <img src={`../../img/Formation_Effect_-_Breakthrough.png`} alt="Formation Effect - Breakthrough" title="Formation Effect - Breakthrough"/>
-        </div>
-        <div className="column is-6">
-            <p className="has-text-weight-bold is-bold-light">
-                Formation Effect - Vigilance
-            </p>
-            <img src={`../../img/Formation_Effect_-_Vigilance.png`} alt="Formation Effect - Vigilance" title="Formation Effect - Vigilance"/>
-        </div>
-        <div className="column is-6">
-            <p className="has-text-weight-bold is-bold-light">
                 Options - Graphics
             </p>
             <img src={`../../img/Options1.png`} alt="Options - Graphics" title="Options - Graphics"/>
@@ -71,6 +53,12 @@ export default class MenuTL extends React.Component {
                 Options - Game
             </p>
             <img src={`../../img/Options2.png`} alt="Options - Game" title="Options - Game"/>
+        </div>
+        <div className="column is-6">
+            <p className="has-text-weight-bold is-bold-light">
+                Daily Quests
+            </p>
+            <img src={`../../img/DailiesTL.png`} alt="Dailies" title="Dailies"/>
         </div>
 
 
