@@ -1,4 +1,5 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css')
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -113,6 +114,13 @@ $menu-label-color: $white-ter
     height: 1em
     vertical-align: middle
     display: inline
+.social a
+    padding: .5em .5em .3em .5em
+    margin: .5em
+    width: 1em
+    height: 1em
+    vertical-align: middle
+    display: inline
 
 // blog roll
 .blog-list-item.is-featured
@@ -125,13 +133,13 @@ $menu-label-color: $white-ter
   margin: 0 1.5em 0 0
  
 
-//navbar stuff
+//navbar colors
 $navbar-item-hover-color: rgba(102, 204, 255, 0.75)
 $navbar-dropdown-arrow: rgba(102, 204, 255, 0.75)
 $navbar-dropdown-item-hover-color: rgba(102, 204, 255, 0.75)
 $navbar-item-hover-background-color: rgba(20,39,59,0.5)
 
-//scrollbar styles
+//scrollbar
 html::-webkit-scrollbar-track
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3)
 	background-color: #F5F5F5
@@ -142,10 +150,16 @@ html::-webkit-scrollbar-thumb
 	background-color: rgba(102, 204, 255, 0.75)
 	background-image: -webkit-gradient(linear, 0 0, 0 100%, color-stop(.5, rgba(255, 255, 255, .2)), color-stop(.5, transparent), to(transparent))
 
+//student list
+.studentlist-header
+  display: flex
+  justify-content: space-between
+  margin-bottom: 20px
 
 
 @import "~bulma"
 
+//navbar styles
 .navbar,
 .navbar-dropdown
   background-color: rgba(20,39,59,.9)

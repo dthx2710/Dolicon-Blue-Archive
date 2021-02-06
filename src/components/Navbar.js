@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 //import github from '../img/github-icon.svg'
 import logo from '../img/logo.webp'
+import kofi from '../img/social/BuyMeACoffee_blue@2x.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -138,19 +139,16 @@ const Navbar = class extends React.Component {
                 About
               </Link>
             </div>
-            {/*
+            
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/dthx2710/Dolicon-Blue-Archive"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+            
+              <a className="navbar-item" title="ko-fi" href="https://ko-fi.com/dolicon" target="_blank" rel="noopener noreferrer">
+                <img
+                  src={kofi}
+                  alt="Ko-fi"
+                />
               </a>
-            </div>*/}
+            </div>
           </div>
         </div>
       </nav>

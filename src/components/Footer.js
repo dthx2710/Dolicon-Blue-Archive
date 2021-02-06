@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import discord from '../img/social/discord.svg'
+import kofi from '../img/social/Ko-fi_Icon_RGB_rounded.png'
+import github from '../img/github-icon.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -33,16 +35,6 @@ const Footer = class extends React.Component {
                         EXP Calculator
                       </Link>
                     </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
@@ -64,45 +56,27 @@ const Footer = class extends React.Component {
               </div>
               
               <div className="column is-4 social">
-              
-              <a title="discord" href="https://discord.gg/bluearchive">
-                  <img
-                    src={discord}
-                    alt="Discord"
-                    style={{ width: '2em', height: '2em' }}
-                  />
-                </a>
-                {/*
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                */}
+                <a title="discord" href="https://discord.gg/bluearchive">
+                    <img
+                      src={discord}
+                      alt="Discord"
+                      style={{ width: '2em', height: '2em' }}
+                    />
+                  </a>
+                  <a title="ko-fi" href="https://ko-fi.com/dolicon">
+                    <img
+                      src={kofi}
+                      alt="Ko-fi"
+                      style={{ width: '2em', height: '2em' }}
+                    />
+                  </a>
+                  <a title="github" href="https://github.com/dthx2710">
+                    <img
+                      src={github}
+                      alt="Github"
+                      style={{ width: '2em', height: '2em' }}
+                    />
+                  </a>
               </div>
               
             </div>

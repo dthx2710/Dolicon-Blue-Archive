@@ -23,37 +23,51 @@ class Strikers extends React.Component {
     const { edges: strikers } = data.allMarkdownRemark
 
     return (
-      <div className="columns is-multiline is-centered is-vcentered is-mobile">
-        {strikers &&
-          strikers.map(({ node: striker }) => (
-            true ? (
-            
-            <div className="column is-narrow has-text-centered" key={striker.id}>
-                <header>
-                  {striker.frontmatter.portrait ? (
-                    <div className="card-image">
-                      <Link to={striker.fields.slug}>
-                        <Img width="140" fixed={striker.frontmatter.portrait.childImageSharp.fixed} draggable={false}/>
+      <div style={{backgroundColor:'#'}}>
+        <div className="studentlist-header">
+          <button className="button is-info is-light">Show Filters</button>
+          <p className="control has-icons-left">
+            <input className="input" type="search" placeholder="Search Student"/>
+            <span className="icon is-left">
+              <i className="fas fa-search"></i>
+            </span>
+          </p>
+        </div>
+        <div className="studentlist-filters">
+          Filter and search will be ready soon!
+        </div>
+        <div className="columns is-multiline is-centered is-vcentered is-mobile">
+          {strikers &&
+            strikers.map(({ node: striker }) => (
+              true ? (
+              
+              <div className="column is-narrow has-text-centered" key={striker.id}>
+                  <header>
+                    {striker.frontmatter.portrait ? (
+                      <div className="card-image">
+                        <Link to={striker.fields.slug}>
+                          <Img width="140" fixed={striker.frontmatter.portrait.childImageSharp.fixed} draggable={false}/>
+                        </Link>
+                      </div>
+                    ) : null}
+                    <p className="">
+                      <Link
+                        className="title has-text-primary is-size-4"
+                        to={striker.fields.slug}
+                      >
+                        {striker.frontmatter.name}
                       </Link>
-                    </div>
-                  ) : null}
-                  <p className="">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={striker.fields.slug}
-                    >
-                      {striker.frontmatter.name}
-                    </Link>
-                  </p>
-                  {this.renderRarity(striker.frontmatter.rarity)}
-                </header>
-                <img src={`../../img/Weapon_Icon_${striker.frontmatter.weaponType}.png`} alt={striker.frontmatter.weaponType} title={striker.frontmatter.weaponType} width="50"/>
-            </div>
+                    </p>
+                    {this.renderRarity(striker.frontmatter.rarity)}
+                  </header>
+                  <img src={`../../img/Weapon_Icon_${striker.frontmatter.weaponType}.png`} alt={striker.frontmatter.weaponType} title={striker.frontmatter.weaponType} width="50"/>
+              </div>
 
 
 
-            ) : null
-          ))}
+              ) : null
+            ))}
+        </div>
       </div>
     )
   }
