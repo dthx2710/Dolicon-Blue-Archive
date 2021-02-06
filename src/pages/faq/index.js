@@ -50,7 +50,7 @@ export default class FAQIndexPage extends React.Component {
                 <hr/>
                 <h3>Q. Crafting nodes?</h3>  
                 <h3>A. </h3>
-                <img src={`../../img/Crafting.jpg`} alt="Crafting" width="600"/>
+                <img src={`../../img/Crafting.png`} alt="Crafting" width="600"/>
                 <hr/>
                 <h3>Q. WTF is FAQ???</h3>
                 <h3>A. Miko will explain...</h3>
