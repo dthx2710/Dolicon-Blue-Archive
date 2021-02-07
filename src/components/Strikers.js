@@ -36,7 +36,7 @@ class Strikers extends React.Component {
         continue;
       }
       else if (key === "name" && key !== ""){
-        if (check[key].toLowerCase()==="fridge" && s[key]==="Arisu"){
+        if ((check[key].toLowerCase()==="fridge" || check[key].toLowerCase()==="refrigerator") && s[key]==="Arisu"){
           bool = true;
           continue;
         }
