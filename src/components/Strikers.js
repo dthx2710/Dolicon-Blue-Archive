@@ -51,7 +51,6 @@ class Strikers extends React.Component {
           bool = false
         }
       }
-      console.log(key,s[key])
     }
     return bool
   }

@@ -7,7 +7,7 @@ const Filter = (props) => {
 
     useEffect(()=>{
         props.changeFilter(values);
-    }, [values, props])
+    }, [values])
 
     return(
     <div>

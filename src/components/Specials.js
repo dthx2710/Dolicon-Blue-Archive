@@ -41,15 +41,16 @@ class Specials extends React.Component {
         }
       }
       else if (key === "combatEnvironment" && key !== ""){
-        console.log(s[key][check[key]])
-
+        let env = (s[key][check[key]])
+        if (env === "B" || env === "C" ||env === "D"){
+          bool = false
+        }
       }
       else if (key !== ""){
         if (s[key] !== check[key]){
           bool = false
         }
       }
-      console.log(key,s[key])
     }
     return bool
   }
