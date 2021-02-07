@@ -36,19 +36,23 @@ class Strikers extends React.Component {
         continue;
       }
       else if (key === "name" && key !== ""){
-        if (!(s[key].toLowerCase()).includes(check[key].toLowerCase())){
-          bool = false
+        if (check[key].toLowerCase()==="fridge" && s[key]==="Arisu"){
+          bool = true;
+          continue;
+        }
+        else if (!(s[key].toLowerCase()).includes(check[key].toLowerCase())){
+          bool = false;
         }
       }
       else if (key === "combatEnvironment" && key !== ""){
         let env = (s[key][check[key]])
         if (env === "B" || env === "C" ||env === "D"){
-          bool = false
+          bool = false;
         }
       }
       else if (key !== ""){
         if (s[key] !== check[key]){
-          bool = false
+          bool = false;
         }
       }
     }
