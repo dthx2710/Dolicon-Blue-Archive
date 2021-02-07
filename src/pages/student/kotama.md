@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Good
-  indoor: Neutral
-  outdoor: Bad
+  outdoor: A
+  indoor: B
+  urban: C
 exSkill:
   exCost: 3
   exText: Increases allies' attack in a circle by 24.9% (30 sec).

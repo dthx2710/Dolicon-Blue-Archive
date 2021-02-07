@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Good
-  outdoor: Neutral
+  outdoor: C
+  indoor: A
+  urban: B
 exSkill:
   exCost: 3
   exText: Tosses food that attracts 4 enemies to the location, poisoning and

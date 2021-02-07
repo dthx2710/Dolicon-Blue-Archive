@@ -12,9 +12,9 @@ position: Front
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Neutral
-  outdoor: Good
+  outdoor: C
+  indoor: B
+  urban: A
 exSkill:
   exCost: 3
   exText: Reloads immediately after the skill is activated and then the normal

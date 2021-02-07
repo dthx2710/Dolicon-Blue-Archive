@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  outdoor: Neutral
-  indoor: Neutral
+  outdoor: B
+  urban: B
+  indoor: B
 exSkill:
   exCost: 4
   exText: After moving 4 allies within a specified circular range, activate a

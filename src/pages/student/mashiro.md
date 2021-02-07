@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Terrible
-  indoor: Neutral
-  outdoor: Excellent
+  outdoor: D
+  indoor: B
+  urban: S
 exSkill:
   exCost: 3
   exText: Deals (M) damage to the specified target. There is a (M) chance that she

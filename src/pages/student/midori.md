@@ -12,9 +12,9 @@ position: Back
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Neutral
-  outdoor: Good
+  outdoor: B
+  indoor: B
+  urban: A
 exSkill:
   exCost: 3
   exText: Inflicts (M) damage on up to 5 enemies in order. If Momoi is present in

@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Neutral
-  outdoor: Neutral
+  outdoor: B
+  indoor: B
+  urban: B
 exSkill:
   exCost: 4
   exText: Restores ally's HP by 195% heal potency.

@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  outdoor: Good
-  indoor: Neutral
+  outdoor: C
+  urban: A
+  indoor: B
 exSkill:
   exCost: 3
   exText: Generates a shield and increases allies' defense within a specified

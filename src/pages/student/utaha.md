@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Good
-  outdoor: Terrible
-  indoor: Good
+  outdoor: A
+  urban: D
+  indoor: A
 exSkill:
   exCost: 4
   exText: Summon a turret that deals 81.4% attack (30 sec).

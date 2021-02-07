@@ -12,9 +12,9 @@ position: Middle
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Good
-  outdoor: Neutral
+  outdoor: B
+  indoor: A
+  urban: B
 exSkill:
   exCost: 3
   exText: Throws a smoke grenade in the specified area and reduces the enemy's

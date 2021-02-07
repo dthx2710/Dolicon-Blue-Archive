@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Special Armour
 combatEnvironment:
-  desert: Good
-  indoor: Terrible
-  outdoor: Good
+  outdoor: A
+  indoor: D
+  urban: A
 exSkill:
   exCost: 4
   exText: Increases defense by 28.1% (30 sec) and taunts enemies in a circular

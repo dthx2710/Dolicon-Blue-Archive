@@ -2,8 +2,14 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import Img from "gatsby-image"
+import Filter from '../components/Filter'
 
 class Strikers extends React.Component {
+  constructor() {
+    super()
+    this.state = {filter:null};
+    this.changeFilter=this.changeFilter.bind(this);
+  }
   renderRarity(rarity){
     switch(rarity){
       case '1':
@@ -17,6 +23,38 @@ class Strikers extends React.Component {
     }
   }
 
+  changeFilter(filter){
+    this.setState({filter:filter});
+  }
+
+  evaluateFilter(student){
+    const s = student['frontmatter'];
+    const check = this.state.filter
+    let bool = true
+    for (let key in check){
+      if (!check[key]){
+        continue;
+      }
+      else if (key === "name" && key !== ""){
+        if (!(s[key].toLowerCase()).includes(check[key].toLowerCase())){
+          bool = false
+        }
+      }
+      else if (key === "combatEnvironment" && key !== ""){
+        let env = (s[key][check[key]])
+        if (env === "B" || env === "C" ||env === "D"){
+          bool = false
+        }
+      }
+      else if (key !== ""){
+        if (s[key] !== check[key]){
+          bool = false
+        }
+      }
+      console.log(key,s[key])
+    }
+    return bool
+  }
 
   render() {
     const { data } = this.props
@@ -25,108 +63,11 @@ class Strikers extends React.Component {
     return (
       //Filter fields: Rarity/Weapon/Affiliation/Position/Role/ATK/DEF/Combat Advantage
       <div style={{backgroundColor:'#'}}>
-        <div className="studentlist-header">
-          <button className="button is-info is-light">Show Filters</button>
-          <p className="control has-icons-left">
-            <input className="input" type="search" placeholder="Search Student"/>
-            <span className="icon is-left">
-              <i className="fas fa-search"></i>
-            </span>
-          </p>
-        </div>
-        <div className="studentlist-filters">
-          <div className="select is-info filter-item">
-            <select id="rarity">
-              <option value=''>Rarity</option>
-              <option value='3'>3*</option>
-              <option value='2'>2*</option>
-              <option value='1'>1*</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select id="weapon">
-              <option value=''>Weapon</option>
-              <option value=''>HG</option>
-              <option value=''>SMG</option>
-              <option value=''>AR</option>
-              <option value=''>SR</option>
-              <option value=''>SG</option>
-              <option value=''>MG</option>
-              <option value=''>GL</option>
-              <option value=''>RG</option>
-              <option value=''>RF</option>
-              <option value=''>RL</option>
-              <option value=''>DualSMG</option>
-              <option value=''>DualMG</option>
-              <option value=''>MountMG</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select id="affiliation">
-              <option value=''>Affiliation</option>
-              <option value='Abydos'>Abydos</option>
-              <option value='Trinity'>Trinity</option>
-              <option value='Gehenna'>Gehenna</option>
-              <option value='Millennium'>Millennium</option>
-              <option value='Red Winter'>Red Winter</option>
-              <option value='Valkyrie'>Valkyrie</option>
-              <option value='Hyakkiyako'>Hyakkiyako</option>
-              <option value='Shanhaijing'>Shanhaijing</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select>
-              <option value=''>Position</option>
-              <option value=''>Front</option>
-              <option value=''>Middle</option>
-              <option value=''>Back</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select>
-              <option value=''>Role</option>
-              <option value=''>Attacker</option>
-              <option value=''>Supporter</option>
-              <option value=''>Tank</option>
-              <option value=''>Healer</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select>
-              <option value=''>ATK</option>
-              <option value=''>Penetration</option>
-              <option value=''>Explosion</option>
-              <option value=''>Mystic</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select>
-              <option value=''>DEF</option>
-              <option value=''>Light Armour</option>
-              <option value=''>Heavy Armour</option>
-              <option value=''>Special Armour</option>
-            </select>
-          </div>
-
-          <div className="select is-info filter-item">
-            <select>
-              <option value=''>Combat Advantage</option>
-              <option value=''>Outdoor</option>
-              <option value=''>Urban</option>
-              <option value=''>Indoor</option>
-            </select>
-          </div>
-        </div>
+        <Filter changeFilter={this.changeFilter} hasPosition={true}/>
         <div className="columns is-multiline is-centered is-vcentered is-mobile">
           {strikers &&
             strikers.map(({ node: striker }) => (
-              true ? (
+              this.evaluateFilter(striker) ? (
               
               <div className="column is-narrow has-text-centered" key={striker.id}>
                   <header>
@@ -189,6 +130,15 @@ export default () => (
                 affiliation
                 studentType
                 weaponType
+                role
+                position
+                atkType
+                defType
+                combatEnvironment {
+                  outdoor
+                  indoor
+                  urban
+                }
                 portrait {
                   childImageSharp {
                     fixed(width: 140, quality: 100) {

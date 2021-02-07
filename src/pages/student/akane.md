@@ -12,9 +12,9 @@ position: Middle
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Good
-  outdoor: Good
-  indoor: Bad
+  outdoor: A
+  urban: A
+  indoor: C
 exSkill:
   exCost: 2
   exText: Deals 547% damage to an enemy. Also reduces defense by 29% (30 sec).

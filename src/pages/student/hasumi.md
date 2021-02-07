@@ -12,9 +12,9 @@ position: Back
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Good
-  indoor: Neutral
-  outdoor: Neutral
+  outdoor: A
+  indoor: B
+  urban: B
 exSkill:
   exCost: 5
   exText: Deals 574% damage to an enemy.

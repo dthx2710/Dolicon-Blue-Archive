@@ -12,9 +12,9 @@ position: Back
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Excellent
-  outdoor: Neutral
-  indoor: Terrible
+  outdoor: S
+  urban: B
+  indoor: D
 exSkill:
   exCost: 3
   exText: Increases attack by 153%, attack range by 24.4%, critical rate by 26.3%.

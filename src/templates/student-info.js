@@ -18,9 +18,9 @@ export const StudentInfoTemplate = ({
   position,
   atkType,
   defType,
-  desert,
-  indoor,
   outdoor,
+  indoor,
+  urban,
   exCost,
   exText,
   normalText,
@@ -89,11 +89,11 @@ export const StudentInfoTemplate = ({
                 <div className="columns">
                   <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Outdoor</p>
-                    <img src={`../../img/Combat_${desert}.png`} alt={desert} title={desert} width="40"/>
+                    <img src={`../../img/Combat_${outdoor}.png`} alt={outdoor} title={outdoor} width="40"/>
                   </div>
                     <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Urban</p>
-                    <img src={`../../img/Combat_${outdoor}.png`} alt={outdoor} title={outdoor} width="40"/>
+                    <img src={`../../img/Combat_${urban}.png`} alt={urban} title={urban} width="40"/>
                   </div>
                   <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Indoor</p>
@@ -161,9 +161,9 @@ StudentInfoTemplate.propTypes = {
   position: PropTypes.string,
   atkType: PropTypes.string,
   defType: PropTypes.string,
-  desert: PropTypes.string,
-  indoor: PropTypes.string, 
   outdoor: PropTypes.string,
+  indoor: PropTypes.string, 
+  urban: PropTypes.string,
   exCost: PropTypes.number,
   exText: PropTypes.string,
   normalText: PropTypes.string,
@@ -193,9 +193,9 @@ const StudentInfo = ({ data }) => {
         position={info.frontmatter.position}
         atkType={info.frontmatter.atkType}
         defType={info.frontmatter.defType}
-        desert={info.frontmatter.combatEnvironment.desert}
-        indoor={info.frontmatter.combatEnvironment.indoor}
         outdoor={info.frontmatter.combatEnvironment.outdoor}
+        indoor={info.frontmatter.combatEnvironment.indoor}
+        urban={info.frontmatter.combatEnvironment.urban}
         exCost={info.frontmatter.exSkill.exCost}
         exText={info.frontmatter.exSkill.exText}
         normalText={info.frontmatter.normalText}
@@ -237,9 +237,9 @@ export const pageQuery = graphql`
         atkType
         defType
         combatEnvironment {
-          desert
-          indoor
           outdoor
+          indoor
+          urban
         }
         exSkill {
           exCost

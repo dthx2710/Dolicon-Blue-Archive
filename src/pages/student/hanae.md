@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Good
-  indoor: Good
-  outdoor: Terrible
+  outdoor: A
+  indoor: A
+  urban: D
 exSkill:
   exCost: 4
   exText: Heals an ally for 54.1% heal potency over time (20 sec).

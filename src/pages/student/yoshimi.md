@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  outdoor: Neutral
-  indoor: Neutral
+  outdoor: B
+  urban: B
+  indoor: B
 exSkill:
   exCost: 4
   exText: Deals 220% damage while stunning enemies within a specified circular

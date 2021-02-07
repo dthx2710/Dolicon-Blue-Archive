@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Excellent
-  outdoor: Terrible
+  outdoor: B
+  indoor: S
+  urban: D
 exSkill:
   exCost: 6
   exText: Inflicts 126% damage over time to enemies within a specific circular

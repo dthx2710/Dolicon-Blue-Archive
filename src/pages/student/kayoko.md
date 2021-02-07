@@ -12,9 +12,9 @@ position: Middle
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Good
-  indoor: Good
-  outdoor: Terrible
+  outdoor: A
+  indoor: A
+  urban: D
 exSkill:
   exCost: 6
   exText: Deals 349% damage and fear on enemies around her in a circular area (3.9

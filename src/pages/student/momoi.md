@@ -12,9 +12,9 @@ position: Middle
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Neutral
-  outdoor: Good
+  outdoor: B
+  indoor: B
+  urban: A
 exSkill:
   exCost: 3
   exText: Deals (M) damage to enemies within the fan-shaped area. If Midori is

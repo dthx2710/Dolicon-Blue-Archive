@@ -12,9 +12,9 @@ position: Back
 atkType: Mystic
 defType: Heavy Armour
 combatEnvironment:
-  desert: Terrible
-  indoor: Neutral
-  outdoor: Excellent
+  outdoor: D
+  indoor: B
+  urban: S
 exSkill:
   exCost: 5
   exText: Restores (M) allies' HP in the specified area.

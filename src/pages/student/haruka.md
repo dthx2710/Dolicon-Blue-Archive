@@ -12,9 +12,9 @@ position: Front
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Good
-  outdoor: Neutral
+  outdoor: C
+  indoor: A
+  urban: B
 exSkill:
   exCost: 4
   exText: Deals 821% damage to enemies with a fan-shaped area as she moves forward.

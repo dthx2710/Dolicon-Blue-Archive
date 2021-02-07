@@ -12,9 +12,9 @@ position: Back
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Terrible
-  indoor: Excellent
-  outdoor: Neutral
+  outdoor: D
+  indoor: S
+  urban: B
 exSkill:
   exCost: 6
   exText: Fires a penetrating projectile at enemies in a straight line. The

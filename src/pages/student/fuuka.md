@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Good
-  indoor: Bad
-  outdoor: Good
+  outdoor: A
+  indoor: C
+  urban: A
 exSkill:
   exCost: 5
   exText: Distributes food to her allies and they move to eat it, recovering by

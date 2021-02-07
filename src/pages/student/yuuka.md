@@ -12,9 +12,9 @@ position: Front
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Good
-  outdoor: Neutral
+  outdoor: B
+  indoor: A
+  urban: B
 exSkill:
   exCost: 3
   exText: Generates a shield with strength equivalent to 190% heal potency (15 sec).

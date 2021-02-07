@@ -12,9 +12,9 @@ position: Middle
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Good
-  indoor: Good
-  outdoor: Terrible
+  outdoor: A
+  indoor: A
+  urban: D
 exSkill:
   exCost: 2
   exText: Immediately reloads and increases her attack by 35.6% (30 sec).

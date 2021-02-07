@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Terrible
-  outdoor: Good
-  indoor: Good
+  outdoor: D
+  urban: A
+  indoor: A
 exSkill:
   exCost: 4
   exText: Recover 118% heal potency to allies within a specified circular area.

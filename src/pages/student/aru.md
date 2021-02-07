@@ -12,9 +12,9 @@ position: Back
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Bad
-  outdoor: Excellent
+  outdoor: C
+  indoor: C
+  urban: S
 exSkill:
   exCost: 4
   exText: Deals 274% damage to one enemy and 292% damage to enemies near it in a

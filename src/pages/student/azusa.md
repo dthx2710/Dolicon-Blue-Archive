@@ -12,9 +12,9 @@ position: Middle
 atkType: Penetration
 defType: Special Armour
 combatEnvironment:
-  desert: Excellent
-  indoor: Terrible
-  outdoor: Neutral
+  outdoor: S
+  indoor: D
+  urban: B
 exSkill:
   exCost: 3
   exText: Deals (S) consecutive damage to the target and then (M) additional

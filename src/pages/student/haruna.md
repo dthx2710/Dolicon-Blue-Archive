@@ -12,9 +12,9 @@ position: Back
 atkType: Mystic
 defType: Heavy Armour
 combatEnvironment:
-  desert: Excellent
-  indoor: Neutral
-  outdoor: Terrible
+  outdoor: S
+  indoor: B
+  urban: D
 exSkill:
   exCost: 4
   exText: Deals 506% damage to enemies in a straight line. Damage is reduced by

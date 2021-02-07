@@ -12,9 +12,9 @@ position: None
 atkType: Mystic
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Good
-  outdoor: Good
+  outdoor: B
+  indoor: A
+  urban: A
 exSkill:
   exCost: 3
   exText: Changes the normal attack's attribute (M) of her specified ally to

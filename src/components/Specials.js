@@ -2,8 +2,14 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import Img from "gatsby-image"
+import Filter from '../components/Filter'
 
 class Specials extends React.Component {
+  constructor() {
+    super()
+    this.state = {filter:null};
+    this.changeFilter=this.changeFilter.bind(this);
+  }
   renderRarity(rarity){
     switch(rarity){
       case '1':
@@ -17,6 +23,36 @@ class Specials extends React.Component {
     }
   }
 
+  changeFilter(filter){
+    this.setState({filter:filter});
+  }
+
+  evaluateFilter(student){
+    const s = student['frontmatter'];
+    const check = this.state.filter
+    let bool = true
+    for (let key in check){
+      if (!check[key]){
+        continue;
+      }
+      else if (key === "name" && key !== ""){
+        if (!(s[key].toLowerCase()).includes(check[key].toLowerCase())){
+          bool = false
+        }
+      }
+      else if (key === "combatEnvironment" && key !== ""){
+        console.log(s[key][check[key]])
+
+      }
+      else if (key !== ""){
+        if (s[key] !== check[key]){
+          bool = false
+        }
+      }
+      console.log(key,s[key])
+    }
+    return bool
+  }
 
   render() {
     const { data } = this.props
@@ -25,22 +61,11 @@ class Specials extends React.Component {
     return (
       //Filter fields: Rarity/Weapon/Affiliation/Position/Role/ATK/DEF/Combat Advantage
       <div style={{backgroundColor:'#'}}>
-        <div className="studentlist-header">
-          <button className="button is-info is-light">Show Filters</button>
-          <p className="control has-icons-left">
-            <input className="input" type="search" placeholder="Search Student"/>
-            <span className="icon is-left">
-              <i className="fas fa-search"></i>
-            </span>
-          </p>
-        </div>
-        <div className="studentlist-filters">
-          Filter and search will be ready soon!
-        </div>
+        <Filter changeFilter={this.changeFilter} hasPosition={false}/>
         <div className="columns is-multiline is-centered is-vcentered is-mobile">
           {specials &&
             specials.map(({ node: special }) => (
-              true ? (
+              this.evaluateFilter(special) ? (
               
               <div className="column is-narrow has-text-centered" key={special.id}>
                   <header>
@@ -103,6 +128,15 @@ export default () => (
                 affiliation
                 studentType
                 weaponType
+                role
+                position
+                atkType
+                defType
+                combatEnvironment {
+                  outdoor
+                  indoor
+                  urban
+                }
                 portrait {
                   childImageSharp {
                     fixed(width: 140, quality: 100) {

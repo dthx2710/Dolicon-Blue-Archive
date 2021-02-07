@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Excellent
-  indoor: Neutral
-  outdoor: Terrible
+  outdoor: S
+  indoor: B
+  urban: D
 exSkill:
   exCost: 3
   exText: Deals 476% damage to an enemy. Her damage is increased by 1.5x if she is

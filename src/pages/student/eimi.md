@@ -12,9 +12,9 @@ position: Front
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  desert: Neutral
-  indoor: Terrible
-  outdoor: Excellent
+  outdoor: B
+  indoor: D
+  urban: S
 exSkill:
   exCost: 4
   exText: Continuously restores her HP for 8.6% healing power and 3.4% of missing

@@ -12,9 +12,9 @@ position: Back
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  desert: Good
-  indoor: Terrible
-  outdoor: Good
+  outdoor: A
+  indoor: D
+  urban: A
 exSkill:
   exCost: 5
   exText: Deals 432% damage to enemies within a fan-shaped area.

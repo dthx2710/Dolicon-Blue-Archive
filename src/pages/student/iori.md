@@ -12,9 +12,9 @@ position: Back
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  desert: Bad
-  indoor: Excellent
-  outdoor: Bad
+  outdoor: C
+  indoor: S
+  urban: C
 exSkill:
   exCost: 3
   exText: Deals 350% damage to an enemy and the enemy behind it in a fan-shape.

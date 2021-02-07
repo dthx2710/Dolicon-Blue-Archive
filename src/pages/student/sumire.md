@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Special Armour
 combatEnvironment:
-  desert: Neutral
-  outdoor: Terrible
-  indoor: Excellent
+  outdoor: B
+  urban: D
+  indoor: S
 exSkill:
   exCost: 3
   exText: Deal 742% damage to enemies within a fan-shaped area.
