@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: S
+  outdoor: B
   indoor: B
-  urban: B
+  urban: S
 exSkill:
   exCost: 4
   exText: Deals 311% damage to enemies with 5 AOE circles.
