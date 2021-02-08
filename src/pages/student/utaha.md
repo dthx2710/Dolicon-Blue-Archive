@@ -12,8 +12,8 @@ position: None
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: A
-  urban: D
+  outdoor: D
+  urban: A
   indoor: A
 exSkill:
   exCost: 4
