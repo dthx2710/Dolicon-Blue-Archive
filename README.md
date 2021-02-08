@@ -31,3 +31,5 @@ Links:
     > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
 * NeptuniaMX
     > Sensei
+    
+### This project is based on the [Gatsby + Netlify CMS Starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
