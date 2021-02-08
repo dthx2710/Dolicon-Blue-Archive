@@ -13,7 +13,7 @@ atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
   outdoor: A
-  indoor: C
+  indoor: D
   urban: A
 exSkill:
   exCost: 5
