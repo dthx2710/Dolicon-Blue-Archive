@@ -13,8 +13,8 @@ atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
   outdoor: D
-  indoor: B
-  urban: S
+  indoor: S
+  urban: B
 exSkill:
   exCost: 3
   exText: Deals (M) damage to the specified target. There is a (M) chance that she
