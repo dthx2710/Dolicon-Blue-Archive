@@ -41,6 +41,34 @@ export const StudentInfoTemplate = ({
       break;
     default:
   }
+
+  //convert atk/def type to color
+  var atkColor, defColor
+  switch(atkType){
+    case 'Explosion':
+      atkColor = 'red'
+      break;
+    case 'Penetration':
+      atkColor = '#f1ce0b'
+      break;
+    case 'Mystic':
+      atkColor = 'blue'
+      break;
+    default:
+  }
+  switch(defType){
+    case 'Light Armour':
+      defColor = 'red'
+      break;
+    case 'Heavy Armour':
+      defColor = '#f1ce0b'
+      break;
+    case 'Special Armour':
+      defColor = 'blue'
+      break;
+    default:
+  }
+
   const affiliationSrc=affiliation.toLowerCase()
 
   return (
@@ -78,11 +106,11 @@ export const StudentInfoTemplate = ({
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Attack Type</p>
-                <p>{atkType}</p>
+                <p style={{color:`${atkColor}`}}>{atkType}</p>
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Defense Type</p>
-                <p>{defType}</p>
+                <p style={{color:`${defColor}`}}>{defType}</p>
               </div>
               <div className="column is-12">
               <hr/>
