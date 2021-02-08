@@ -12,9 +12,9 @@ position: Middle
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  outdoor: D
+  outdoor: S
   indoor: B
-  urban: S
+  urban: D
 exSkill:
   exCost: 5
   exText: Summons a Peroro stuffed doll with 160% of Hifumi's HP within a

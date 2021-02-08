@@ -10,7 +10,7 @@ weaponType: MG
 role: Attacker
 position: Back
 atkType: Explosion
-defType: Light Armour
+defType: Heavy Armour
 combatEnvironment:
   outdoor: C
   indoor: C

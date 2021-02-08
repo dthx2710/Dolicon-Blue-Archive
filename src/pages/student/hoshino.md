@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: D
+  outdoor: S
   indoor: B
-  urban: S
+  urban: D
 exSkill:
   exCost: 4
   exText: Deals 435% damage against enemies in a fan-shaped area.

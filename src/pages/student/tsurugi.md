@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: D
+  outdoor: B
   indoor: S
-  urban: B
+  urban: D
 exSkill:
   exCost: 3
   exText: Reloads immediately and converts normal attack into a fan-shaped attack

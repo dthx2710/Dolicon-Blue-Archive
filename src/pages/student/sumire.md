@@ -12,8 +12,8 @@ position: Front
 atkType: Penetration
 defType: Special Armour
 combatEnvironment:
-  outdoor: B
-  urban: D
+  outdoor: D
+  urban: B
   indoor: S
 exSkill:
   exCost: 3

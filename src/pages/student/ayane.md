@@ -12,8 +12,8 @@ position: None
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  outdoor: D
-  urban: A
+  outdoor: A
+  urban: D
   indoor: A
 exSkill:
   exCost: 4

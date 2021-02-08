@@ -12,9 +12,9 @@ position: Middle
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  outdoor: S
+  outdoor: D
   indoor: B
-  urban: D
+  urban: S
 exSkill:
   exCost: 3
   exText: Restores HP by 145% heal potency.

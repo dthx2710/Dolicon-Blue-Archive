@@ -14,7 +14,7 @@ defType: Light Armour
 combatEnvironment:
   outdoor: A
   urban: A
-  indoor: C
+  indoor: D
 exSkill:
   exCost: 2
   exText: Deals 547% damage to an enemy. Also reduces defense by 29% (30 sec).

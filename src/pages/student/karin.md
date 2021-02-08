@@ -12,9 +12,9 @@ position: None
 atkType: Penetration
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: D
+  outdoor: S
   indoor: B
-  urban: S
+  urban: D
 exSkill:
   exCost: 4
   exText: Deals 687% damage to the specified target. If the target is very large,

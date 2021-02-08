@@ -12,8 +12,8 @@ position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  outdoor: C
-  urban: A
+  outdoor: A
+  urban: C
   indoor: B
 exSkill:
   exCost: 3

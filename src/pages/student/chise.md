@@ -12,9 +12,9 @@ position: Middle
 atkType: Mystic
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: A
+  outdoor: D
   indoor: A
-  urban: D
+  urban: A
 exSkill:
   exCost: 4
   exText: Inflicts 56% damage over time to enemies within a circular area (10 sec).
