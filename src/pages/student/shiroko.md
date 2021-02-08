@@ -10,11 +10,11 @@ weaponType: AR
 role: Attacker
 position: Middle
 atkType: Explosion
-defType: Heavy Armour
+defType: Light Armour
 combatEnvironment:
-  outdoor: S
-  indoor: B
-  urban: D
+  outdoor: B
+  indoor: D
+  urban: S
 exSkill:
   exCost: 2
   exText: Deals 400% damage to an enemy.
