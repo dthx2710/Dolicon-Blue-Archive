@@ -12,9 +12,9 @@ position: Middle
 atkType: Mystic
 defType: Light Armour
 combatEnvironment:
-  outdoor: C
-  indoor: A
-  urban: A
+  outdoor: B
+  indoor: B
+  urban: B
 exSkill:
   exCost: 2
   exText: Increases evasion by 43.4% and attack speed by 30.2% (30 sec).
