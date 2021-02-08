@@ -13,8 +13,9 @@ atkType: Mystic
 defType: Light Armour
 combatEnvironment:
   desert: Good
-  outdoor: Bad
-  indoor: Neutral
+  outdoor: C
+  indoor: B
+  urban: A
 exSkill:
   exCost: 2
   exText: Moves one ally to a specified area and recover 120% heal potency.
