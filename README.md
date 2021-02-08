@@ -19,10 +19,11 @@ Links:
 ### WIP / To do list ✔:
 - [x] Strikers & Specials List
 - [x] Individual Student Page
-- [ ] Filter/Sort for Student List
-- [ ] Proper landing page with news/update/banners
-- [ ] EXP Calculator (after we gather the formula and data!)
+- [x] Filter/Sort for Student List
+- [ ] Equipment Farming Planner/Optimizer
+- [ ] EXP Calculator
 - [ ] Gacha Simulator
+- [ ] Proper landing page with news/update/banners
 
 ### Team, Contributors & Special Thanks
 * Dolicon
