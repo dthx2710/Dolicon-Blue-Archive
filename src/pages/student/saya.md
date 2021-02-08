@@ -10,11 +10,11 @@ weaponType: HG
 role: Supporter
 position: None
 atkType: Explosion
-defType: Heavy Armour
+defType: Light Armour
 combatEnvironment:
-  outdoor: B
+  outdoor: D
   indoor: S
-  urban: D
+  urban: B
 exSkill:
   exCost: 6
   exText: Inflicts 126% damage over time to enemies within a specific circular
