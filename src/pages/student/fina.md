@@ -12,9 +12,9 @@ position: Front
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  outdoor: A
+  outdoor: B
   indoor: C
-  urban: B
+  urban: A
 exSkill:
   exCost: 4
   exText: Ignores her attack delay 3 times and increases her attack by 29.1% (30
