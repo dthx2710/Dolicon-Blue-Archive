@@ -12,9 +12,9 @@ position: None
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
-  outdoor: A
-  indoor: A
-  urban: C
+  outdoor: B
+  indoor: B
+  urban: A
 exSkill:
   exCost: 4
   exText: Deals 271% damage to enemies in the circular area, stunning enemies for
