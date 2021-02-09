@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Hare
-image: /img/hare_01.png
-portrait: /img/Student_Portrait_Hare_Collection.png
+image: /img/hare_01.webp
+portrait: /img/Student_Portrait_Hare_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: AR

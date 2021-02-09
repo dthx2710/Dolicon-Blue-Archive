@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Suzumi
-image: /img/suzumi_01.png
-portrait: /img/Student_Portrait_Suzumi_Collection.png
+image: /img/suzumi_01.webp
+portrait: /img/Student_Portrait_Suzumi_Collection.webp
 rarity: "1"
 affiliation: Trinity
 weaponType: AR

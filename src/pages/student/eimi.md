@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Eimi
-image: /img/eimi_01.png
-portrait: /img/Student_Portrait_Eimi_Collection.png
+image: /img/eimi_01.webp
+portrait: /img/Student_Portrait_Eimi_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: SG

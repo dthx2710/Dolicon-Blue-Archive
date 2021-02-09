@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Tsurugi
-image: /img/tsurugi_01.png
-portrait: /img/Student_Portrait_Tsurugi_Collection.png
+image: /img/tsurugi_01.webp
+portrait: /img/Student_Portrait_Tsurugi_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: DualSG

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Arisu
-image: /img/arisu_01.png
-portrait: /img/Student_Portrait_Arisu_Collection.png
+image: /img/arisu_01.webp
+portrait: /img/Student_Portrait_Arisu_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: RG

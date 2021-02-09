@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Hibiki
-image: /img/hibiki_01.png
-portrait: /img/Student_Portrait_Hibiki_Collection.png
+image: /img/hibiki_01.webp
+portrait: /img/Student_Portrait_Hibiki_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: GL

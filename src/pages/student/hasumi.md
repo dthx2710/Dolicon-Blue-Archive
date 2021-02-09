@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Hasumi
-image: /img/hasumi_01.png
-portrait: /img/Student_Portrait_Hasumi_Collection.png
+image: /img/hasumi_01.webp
+portrait: /img/Student_Portrait_Hasumi_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: SR

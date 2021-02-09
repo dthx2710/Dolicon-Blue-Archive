@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Mari
-image: /img/mari_01.png
-portrait: /img/Student_Portrait_Mari_Collection.png
+image: /img/mari_01.webp
+portrait: /img/Student_Portrait_Mari_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: HG

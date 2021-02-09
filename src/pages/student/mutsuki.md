@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Mutsuki
-image: /img/mutsuki_01.png
-portrait: /img/Student_Portrait_Mutsuki_Collection.png
+image: /img/mutsuki_01.webp
+portrait: /img/Student_Portrait_Mutsuki_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: MG

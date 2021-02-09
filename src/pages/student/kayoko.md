@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Kayoko
-image: /img/kayoko_01.png
-portrait: /img/Student_Portrait_Kayoko_Collection.png
+image: /img/kayoko_01.webp
+portrait: /img/Student_Portrait_Kayoko_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: HG

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Airi
-image: /img/airi_01.png
-portrait: /img/Student_Portrait_Airi_Collection.png
+image: /img/airi_01.webp
+portrait: /img/Student_Portrait_Airi_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: SMG

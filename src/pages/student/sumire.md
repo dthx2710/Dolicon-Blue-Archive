@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Sumire
-image: /img/sumire_01.png
-portrait: /img/Student_Portrait_Sumire_Collection.png
+image: /img/sumire_01.webp
+portrait: /img/Student_Portrait_Sumire_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: SG

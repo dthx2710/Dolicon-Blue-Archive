@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Mashiro
-image: /img/mashiro_01.png
-portrait: /img/Student_Portrait_Mashiro_Collection.png
+image: /img/mashiro_01.webp
+portrait: /img/Student_Portrait_Mashiro_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: SR

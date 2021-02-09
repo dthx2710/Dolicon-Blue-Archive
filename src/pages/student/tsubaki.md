@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Tsubaki
-image: /img/tsubaki_01.png
-portrait: /img/Student_Portrait_Tsubaki_Collection.png
+image: /img/tsubaki_01.webp
+portrait: /img/Student_Portrait_Tsubaki_Collection.webp
 rarity: "2"
 affiliation: Hyakkiyako
 weaponType: SMG

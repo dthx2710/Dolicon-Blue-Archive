@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Asuna
-image: /img/asuna_01.png
-portrait: /img/Student_Portrait_Asuna_Collection.png
+image: /img/asuna_01.webp
+portrait: /img/Student_Portrait_Asuna_Collection.webp
 rarity: "1"
 affiliation: Millennium
 weaponType: AR

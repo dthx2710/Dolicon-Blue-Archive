@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Shiroko
-image: /img/shiroko_01.png
-portrait: /img/Student_Portrait_Shiroko_Collection.png
+image: /img/shiroko_01.webp
+portrait: /img/Student_Portrait_Shiroko_Collection.webp
 rarity: "3"
 affiliation: Abydos
 weaponType: AR

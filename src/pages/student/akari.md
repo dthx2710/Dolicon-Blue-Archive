@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Akari
-image: /img/akari_01.png
-portrait: /img/Student_Portrait_Akari_Collection.png
+image: /img/akari_01.webp
+portrait: /img/Student_Portrait_Akari_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: AR

@@ -91,7 +91,7 @@ class Strikers extends React.Component {
                     </p>
                     {this.renderRarity(striker.frontmatter.rarity)}
                   </header>
-                  <img src={`../../img/Weapon_Icon_${striker.frontmatter.weaponType}.png`} alt={striker.frontmatter.weaponType} title={striker.frontmatter.weaponType} width="50"/>
+                  <img src={`../../img/Weapon_Icon_${striker.frontmatter.weaponType}.webp`} alt={striker.frontmatter.weaponType} title={striker.frontmatter.weaponType} width="50"/>
               </div>
 
 

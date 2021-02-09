@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Utaha
-image: /img/utaha_01.png
-portrait: /img/Student_Portrait_Utaha_Collection.png
+image: /img/utaha_01.webp
+portrait: /img/Student_Portrait_Utaha_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: SMG

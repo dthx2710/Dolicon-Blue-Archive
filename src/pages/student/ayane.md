@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Ayane
-image: /img/ayane_01.png
-portrait: /img/Student_Portrait_Ayane_Collection.png
+image: /img/ayane_01.webp
+portrait: /img/Student_Portrait_Ayane_Collection.webp
 rarity: "2"
 affiliation: Abydos
 weaponType: HG

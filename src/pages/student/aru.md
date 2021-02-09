@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Aru
-image: /img/aru_01.png
-portrait: /img/Student_Portrait_Aru_Collection.png
+image: /img/aru_01.webp
+portrait: /img/Student_Portrait_Aru_Collection.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: SR

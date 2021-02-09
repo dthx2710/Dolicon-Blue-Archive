@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Momoi
-image: /img/momoi_01.png
-portrait: /img/Student_Portrait_Momoi_Collection.png
+image: /img/momoi_01.webp
+portrait: /img/Student_Portrait_Momoi_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: AR

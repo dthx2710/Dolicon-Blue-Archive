@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Fuuka
-image: /img/fuuka_01.png
-portrait: /img/Student_Portrait_Fuuka_Collection.png
+image: /img/fuuka_01.webp
+portrait: /img/Student_Portrait_Fuuka_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: SMG

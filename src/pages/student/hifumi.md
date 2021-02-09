@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Hifumi
-image: /img/hifumi_01.png
-portrait: /img/Student_Portrait_Hifumi_Collection.png
+image: /img/hifumi_01.webp
+portrait: /img/Student_Portrait_Hifumi_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: AR

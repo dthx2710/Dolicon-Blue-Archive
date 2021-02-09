@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Midori
-image: /img/midori_01.png
-portrait: /img/Student_Portrait_Midori_Collection.png
+image: /img/midori_01.webp
+portrait: /img/Student_Portrait_Midori_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: SR

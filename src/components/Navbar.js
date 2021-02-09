@@ -119,21 +119,19 @@ const Navbar = class extends React.Component {
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-item navbar-link" onClick={() => this.toggleToolsDropdown()} onKeyDown={() => this.toggleToolsDropdown()} role="button" tabIndex="0">Tools</div>
                 <div className={`navbar-dropdown ${this.state.toolsDropdownActiveClass}`}>
-                  <Link className="navbar-item dropdown-item" to="/">EXP Calculator</Link>
+                  <Link className="navbar-item dropdown-item" to="/equip">Equip Drop Optimiser</Link>
+                  {/* <Link className="navbar-item dropdown-item" to="/">EXP Calculator</Link>*/}
                 </div>
               </div>
 
-              <Link className="navbar-item" to="/reroll">
-                Reroll
-              </Link>
-
-              <Link className="navbar-item" to="/translations">
-                Menus
-              </Link>
-
-              <Link className="navbar-item" to="/faq">
-                FAQ
-              </Link>
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-item navbar-link" onClick={() => this.toggleToolsDropdown()} onKeyDown={() => this.toggleToolsDropdown()} role="button" tabIndex="0">Resources</div>
+                <div className={`navbar-dropdown ${this.state.toolsDropdownActiveClass}`}>
+                  <Link className="navbar-item dropdown-item" to="/reroll">Reroll</Link>
+                  <Link className="navbar-item dropdown-item" to="/translations">Menus</Link>
+                  <Link className="navbar-item dropdown-item" to="/faq">FAQ</Link>
+                </div>
+              </div>
               
               <Link className="navbar-item" to="/about">
                 About

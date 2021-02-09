@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Shimiko
-image: /img/shimiko_01.png
-portrait: /img/Student_Portrait_Shimiko_Collection.png
+image: /img/shimiko_01.webp
+portrait: /img/Student_Portrait_Shimiko_Collection.webp
 rarity: "1"
 affiliation: Trinity
 weaponType: AR

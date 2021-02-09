@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Saya
-image: /img/saya_01.png
-portrait: /img/Student_Portrait_Saya_Collection.png
+image: /img/saya_01.webp
+portrait: /img/Student_Portrait_Saya_Collection.webp
 rarity: "3"
 affiliation: Shanhaijing
 weaponType: HG

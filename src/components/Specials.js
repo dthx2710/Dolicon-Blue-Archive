@@ -87,7 +87,7 @@ class Specials extends React.Component {
                     </p>
                     {this.renderRarity(special.frontmatter.rarity)}
                   </header>
-                  <img src={`../../img/Weapon_Icon_${special.frontmatter.weaponType}.png`} alt={special.frontmatter.weaponType} title={special.frontmatter.weaponType} width="50"/>
+                  <img src={`../../img/Weapon_Icon_${special.frontmatter.weaponType}.webp`} alt={special.frontmatter.weaponType} title={special.frontmatter.weaponType} width="50"/>
               </div>
 
 

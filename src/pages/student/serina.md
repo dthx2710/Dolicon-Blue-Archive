@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Serina
-image: /img/serina_01.png
-portrait: /img/student_portrait_serina_collection.png
+image: /img/serina_01.webp
+portrait: /img/student_portrait_serina_collection.webp
 rarity: "1"
 affiliation: Trinity
 weaponType: AR

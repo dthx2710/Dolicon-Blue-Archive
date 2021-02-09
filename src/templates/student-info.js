@@ -90,11 +90,11 @@ export const StudentInfoTemplate = ({
             <div className="columns is-multiline">
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Affiliation</p>
-                <img src={`../../img/${affiliationSrc}.png`} alt={affiliation} title={affiliation} width="100"/>
+                <img src={`../../img/${affiliationSrc}.webp`} alt={affiliation} title={affiliation} width="100"/>
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Weapon Type</p>
-                <img src={`../../img/Weapon_Icon_${weaponType}.png`} alt={weaponType} title={weaponType} width="160"/>
+                <img src={`../../img/Weapon_Icon_${weaponType}.webp`} alt={weaponType} title={weaponType} width="160"/>
               </div>
               <div className="column is-4">
                 <p className="has-text-weight-bold is-bold-light">Type</p>
@@ -117,15 +117,15 @@ export const StudentInfoTemplate = ({
                 <div className="columns">
                   <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Outdoor</p>
-                    <img src={`../../img/Combat_${outdoor}.png`} alt={outdoor} title={outdoor} width="40"/>
+                    <img src={`../../img/Combat_${outdoor}.webp`} alt={outdoor} title={outdoor} width="40"/>
                   </div>
                     <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Urban</p>
-                    <img src={`../../img/Combat_${urban}.png`} alt={urban} title={urban} width="40"/>
+                    <img src={`../../img/Combat_${urban}.webp`} alt={urban} title={urban} width="40"/>
                   </div>
                   <div className="column">
                     <p className="has-text-weight-bold is-bold-light">Indoor</p>
-                    <img src={`../../img/Combat_${indoor}.png`} alt={indoor} title={indoor} width="40"/>
+                    <img src={`../../img/Combat_${indoor}.webp`} alt={indoor} title={indoor} width="40"/>
                   </div>
                 </div>
                 <hr/>

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Nonomi
-image: /img/nonomi_01.png
-portrait: /img/Student_Portrait_Nonomi_Collection.png
+image: /img/nonomi_01.webp
+portrait: /img/Student_Portrait_Nonomi_Collection.webp
 rarity: "2"
 affiliation: Abydos
 weaponType: MG

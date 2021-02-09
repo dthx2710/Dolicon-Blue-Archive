@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Chise
-image: /img/chise_01.png
-portrait: /img/Student_Portrait_Chise_Collection.png
+image: /img/chise_01.webp
+portrait: /img/Student_Portrait_Chise_Collection.webp
 rarity: "2"
 affiliation: Hyakkiyako
 weaponType: GL

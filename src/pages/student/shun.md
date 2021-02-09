@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Shun
-image: /img/shun_01.png
-portrait: /img/Student_Portrait_Shun_Collection.png
+image: /img/shun_01.webp
+portrait: /img/Student_Portrait_Shun_Collection.webp
 rarity: "3"
 affiliation: Shanhaijing
 weaponType: SR

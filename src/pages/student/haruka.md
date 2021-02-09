@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Haruka
-image: /img/haruka_01.png
-portrait: /img/Student_Portrait_Haruka_Collection.png
+image: /img/haruka_01.webp
+portrait: /img/Student_Portrait_Haruka_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: SG

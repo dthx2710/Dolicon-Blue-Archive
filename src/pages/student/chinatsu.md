@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Chinatsu
-image: /img/chinatsu_01.png
-portrait: /img/Student_Portrait_Chinatsu_Collection.png
+image: /img/chinatsu_01.webp
+portrait: /img/Student_Portrait_Chinatsu_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: HG

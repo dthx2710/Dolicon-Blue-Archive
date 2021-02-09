@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Yoshimi
-image: /img/yoshimi_01.png
-portrait: /img/Student_Portrait_Yoshimi_Collection.png
+image: /img/yoshimi_01.webp
+portrait: /img/Student_Portrait_Yoshimi_Collection.webp
 rarity: "1"
 affiliation: Trinity
 weaponType: AR

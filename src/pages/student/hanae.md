@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Hanae
-image: /img/hanae_01.png
-portrait: /img/Student_Portrait_Hanae_Collection.png
+image: /img/hanae_01.webp
+portrait: /img/Student_Portrait_Hanae_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: AR

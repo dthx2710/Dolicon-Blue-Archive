@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Special
 name: Kotama
-image: /img/kotama_01.png
-portrait: /img/Student_Portrait_Kotama_Collection.png
+image: /img/kotama_01.webp
+portrait: /img/Student_Portrait_Kotama_Collection.webp
 rarity: "1"
 affiliation: Millennium
 weaponType: HG

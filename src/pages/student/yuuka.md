@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Yuuka
-image: /img/yuuka_01.png
-portrait: /img/Student_Portrait_Yuuka_Collection.png
+image: /img/yuuka_01.webp
+portrait: /img/Student_Portrait_Yuuka_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: SMG

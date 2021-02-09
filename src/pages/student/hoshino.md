@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Hoshino
-image: /img/hoshino_01.png
-portrait: /img/Student_Portrait_Hoshino_Collection.png
+image: /img/hoshino_01.webp
+portrait: /img/Student_Portrait_Hoshino_Collection.webp
 rarity: "3"
 affiliation: Abydos
 weaponType: SG

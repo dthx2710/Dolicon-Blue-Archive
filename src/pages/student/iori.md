@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Iori
-image: /img/iori_01.png
-portrait: /img/Student_Portrait_Iori_Collection.png
+image: /img/iori_01.webp
+portrait: /img/Student_Portrait_Iori_Collection.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: SR

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Hina
-image: /img/hina_01.png
-portrait: /img/Student_Portrait_Hina_Collection.png
+image: /img/hina_01.webp
+portrait: /img/Student_Portrait_Hina_Collection.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: MG

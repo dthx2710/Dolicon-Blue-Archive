@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Junko
-image: /img/junko.png
-portrait: /img/Student_Portrait_Junko_Collection.png
+image: /img/junko.webp
+portrait: /img/Student_Portrait_Junko_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: AR

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Serika
-image: /img/serika_01.png
-portrait: /img/Student_Portrait_Serika_Collection.png
+image: /img/serika_01.webp
+portrait: /img/Student_Portrait_Serika_Collection.webp
 rarity: "2"
 affiliation: Abydos
 weaponType: AR

@@ -2,8 +2,8 @@
 templateKey: student-info
 studentType: Striker
 name: Koharu
-image: /img/koharu_01.png
-portrait: /img/Student_Portrait_Koharu_Collection.png
+image: /img/koharu_01.webp
+portrait: /img/Student_Portrait_Koharu_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: SR
