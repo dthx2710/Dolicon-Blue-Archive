@@ -20,7 +20,7 @@ Links:
 - [x] Strikers & Specials List
 - [x] Individual Student Page
 - [x] Filter/Sort for Student List
-- [ ] Equipment Farming Planner/Optimizer
+- [x] Equipment Farming Planner/Optimizer
 - [ ] EXP Calculator
 - [ ] Gacha Simulator
 - [ ] Proper landing page with news/update/banners
