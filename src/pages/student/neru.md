@@ -16,7 +16,7 @@ combatEnvironment:
   indoor: B
   urban: D
 exSkill:
-  exCost: 3
+  exCost: 2
   exText: Deals 476% damage to an enemy. Her damage is increased by 1.5x if she is
     angry.
 normalText: Every 30 seconds, she gets angry, increasing evasion by 17.8% (20 sec).
