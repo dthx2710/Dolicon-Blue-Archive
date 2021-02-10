@@ -1,6 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql, StaticQuery } from 'gatsby'
 import EquipPicker from './EquipPicker';
 import SuggestedMaps from './SuggestedMaps';
 
@@ -29,30 +27,4 @@ class Equip extends React.Component {
   }
 }
 
-Equip.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-}
-
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query EquipQuery {
-        allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___name] }
-          filter: { frontmatter: { templateKey: { eq: "student-info" } } }
-        ) {
-          edges {
-            node {
-              id
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <Equip data={data} count={count} />}
-  />
-)
+export default Equip

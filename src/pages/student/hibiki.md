@@ -21,5 +21,5 @@ exSkill:
 normalText: Every 20 seconds, deal 144% damage to enemies within a circle of the
   enemy with the lowest HP.
 enhancedText: Increases critical damage by 14%.
-subText: Increases allies' damage rate by 9.1%.
+subText: Increases allies' critical damage by 9.1%.
 ---
