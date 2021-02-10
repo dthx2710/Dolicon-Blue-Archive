@@ -1,6 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { Link } from 'gatsby'
 //import Img from "gatsby-image"
 
 class Reroll extends React.Component {
@@ -26,9 +25,9 @@ class Reroll extends React.Component {
             Who to Reroll for
         </h3>
         <ul>
-            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/hoshino'>Hoshino</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
-            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link></li>
-            <li>Nice to get: <Link to='/student/eimi'>Eimi</Link> / <Link to='/student/shiroko'>Shiroko</Link> / <Link to='/student/saya'>Saya</Link></li>
+            <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
+            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link> / <Link to='/student/saya'>Saya</Link> / <Link to='/student/hifumi'>Hifumi</Link></li>
+            <li>PVP Meta: <Link to='/student/shun'>Shun</Link> / <Link to='/student/iori'>Iori</Link> / <Link to='/student/haruna'>Haruna</Link></li>
             <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link></li>
         </ul>
         <p>Take the reroll list with a grain of salt. Strikethrough means not in pool atm. Will be subjected to change as time goes</p>
@@ -95,30 +94,4 @@ class Reroll extends React.Component {
   }
 }
 
-Reroll.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-}
-
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query RerollQuery {
-        allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___name] }
-          filter: { frontmatter: { templateKey: { eq: "student-info" } } }
-        ) {
-          edges {
-            node {
-              id
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <Reroll data={data} count={count} />}
-  />
-)
+export default Reroll;
