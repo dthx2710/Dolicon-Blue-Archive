@@ -39,7 +39,7 @@ const EquipPicker = (props) => {
         </ul>
       </div>
       <div className="equipSelect columns is-multiline">
-        {activeTab == 1 ? (
+        {activeTab === 1 ? (
           <div className="column is-full">
             <div className="equipSet">
               <label className="checkbox">
@@ -162,7 +162,7 @@ const EquipPicker = (props) => {
             </div>
           </div>
         ) : null}
-        {activeTab == 2 ? (
+        {activeTab === 2 ? (
           <div className="column is-full">
             <div className="equipSet">
               <label className="checkbox">
@@ -285,7 +285,7 @@ const EquipPicker = (props) => {
             </div>
           </div>
         ) : null}
-        {activeTab == 3 ? (
+        {activeTab === 3 ? (
           <div className="column is-full">
             <div className="equipSet">
               <label className="checkbox">
@@ -408,7 +408,7 @@ const EquipPicker = (props) => {
             </div>
           </div>
         ) : null}
-        {activeTab == 4 ? (
+        {activeTab === 4 ? (
           <div className="column is-full">
             <div className="equipSet">
               <label className="checkbox">
