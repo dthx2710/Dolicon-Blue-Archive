@@ -19,7 +19,7 @@ exSkill:
   exCost: 5
   exText: Deals 574% damage to an enemy.
 normalText: Upon defeating an enemy, reloads immediately and increases her
-  critical damage rate by 30%. (13 sec)
+  critical damage by 30%. (13 sec)
 enhancedText: Increases critical rate by 14%.
 subText: After reloading, increases critical rate by 50% for one attack.
 ---
