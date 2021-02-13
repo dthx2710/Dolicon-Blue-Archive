@@ -17,7 +17,7 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 4
-  exText: Deals 324% damage to enemies within a specific circular area.
+  exText: Deals 389% damage to enemies within a specific circular area.
 normalText: Every 25 seconds, deal 233% damage to an enemy.
 enhancedText: Increases evasion by 14%.
 subText: When attacking an enemy in crowd controlled state, she deals additional
