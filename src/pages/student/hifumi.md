@@ -19,7 +19,8 @@ exSkill:
   exCost: 5
   exText: Summons a Peroro stuffed doll with 160% of Hifumi's HP within a
     specified area, dealing 101% damage while taunting enemies for 3.4 seconds.
-normalText: Every 35 seconds, reduces an enemy's accuracy by 16.8% and attack by 212%.
+normalText: Every 35 seconds, deals 212% damage to an enemy and reduces its
+  accuracy by 16.8%.
 enhancedText: Increases maximum HP by 14%.
 subText: While using EX skill, increases cost recovery. (5 sec)
 ---
