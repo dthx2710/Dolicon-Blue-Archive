@@ -26,7 +26,7 @@ class Reroll extends React.Component {
         </h3>
         <ul>
             <li>Must get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
-            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link> / <Link to='/student/saya'>Saya</Link> / <Link to='/student/hifumi'>Hifumi</Link></li>
+            <li>Should get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link> / <Link to='/student/saya'>Saya</Link> / <Link to='/student/hifumi'>Hifumi</Link> / <Link to='/student/maki'>Maki</Link></li> 
             <li>PVP Meta: <Link to='/student/shun'>Shun</Link> / <Link to='/student/iori'>Iori</Link> / <Link to='/student/haruna'>Haruna</Link></li>
             <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link></li>
         </ul>
@@ -36,7 +36,7 @@ class Reroll extends React.Component {
         <h3>Gacha Pool</h3>
         <p>Here's the list of students in the gacha pool right now:</p>
         <p>☆☆☆ 2.5%</p>
-        <p>Hina, Iori, Haruna, Izumi, Aru, Sumire, Eimi, Karin, Neru, Maki, Hibiki, Saya, Shun, Shiroko, Hoshino, Hifumi, Tsurugi</p>
+        <p>Hina, Iori, Haruna, Izumi, Aru, Sumire, Eimi, Karin, Neru, Maki, Hibiki, Saya, Shun, Shiroko, Hoshino, Hifumi, Tsurugi, Mashiro</p>
         <p>☆☆ 18.5%</p>
         <p>Akari, Junko, Mutsuki, Kayoko, Fuuka, Yuuka, Akane, Hare, Utaha, Chise, Tsubaki, Serika, Ayane, Hasumi, Hanae, Airi</p>
         <p>☆ 79%</p>
