@@ -8,6 +8,18 @@ export default class MenuTL extends React.Component {
       <div className="columns is-multiline is-vcentered has-text-centered">
         <div className="column is-6">
             <p className="has-text-weight-bold is-bold-light">
+                Daily Quests
+            </p>
+            <img src={`../../img/DailiesTL.webp`} alt="Dailies" title="Dailies"/>
+        </div>
+        <div className="column is-6">
+            <p className="has-text-weight-bold is-bold-light">
+                Crafting Nodes
+            </p>
+            <img src={`../../img/Crafting.webp`} alt="Crafting" title="Crafting"/>
+        </div>
+        <div className="column is-6">
+            <p className="has-text-weight-bold is-bold-light">
                 Home Screen
             </p>
             <img src={`../../img/Home_Screen.webp`} alt="Home Screen" title="Home Screen"/>
@@ -53,12 +65,6 @@ export default class MenuTL extends React.Component {
                 Options - Game
             </p>
             <img src={`../../img/Options2.webp`} alt="Options - Game" title="Options - Game"/>
-        </div>
-        <div className="column is-6">
-            <p className="has-text-weight-bold is-bold-light">
-                Daily Quests
-            </p>
-            <img src={`../../img/DailiesTL.webp`} alt="Dailies" title="Dailies"/>
         </div>
 
 
