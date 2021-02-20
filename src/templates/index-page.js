@@ -102,7 +102,7 @@ export const IndexPageTemplate = ({
               </Link>
             </div>
             <div className="column is-2">
-              <Link to="/strikers">
+              <Link to="/equip">
                 <div class="card landingCard">
                   <div class="card-image">
                     <figure class="image">
@@ -119,7 +119,7 @@ export const IndexPageTemplate = ({
               </Link>
             </div>
             <div className="column is-2">
-              <Link to="/strikers">
+              <Link to="/gacha">
                 <div class="card landingCard">
                   <div class="card-image">
                     <figure class="image">
