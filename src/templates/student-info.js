@@ -142,7 +142,7 @@ export const StudentInfoTemplate = ({
 
                 <div className="columns">
                   <div className="column is-4">
-                    <p className="has-text-weight-bold is-bold-light">Normal Skill</p>
+                    <p className="has-text-weight-bold is-bold-light">Basic Skill</p>
                   </div>
                   <div className="column is-8">
                     <p>{normalText}</p>
@@ -151,7 +151,7 @@ export const StudentInfoTemplate = ({
 
                 <div className="columns">
                   <div className="column is-4">
-                    <p className="has-text-weight-bold is-bold-light">Enhanced Skill</p>
+                    <p className="has-text-weight-bold is-bold-light">Passive Skill</p>
                   </div>
                   <div className="column is-8">
                     <p>{enhancedText}</p>
