@@ -30,9 +30,10 @@ Links:
 - [x] Individual Student Page
 - [x] Filter/Sort for Student List
 - [x] Equipment Farming Planner/Optimizer
-- [ ] EXP Calculator
-- [ ] Gacha Simulator
-- [ ] Proper landing page with news/update/banners
+- [x] Gacha Simulator
+- [x] Landing Page
+
+Done for now, open to requests!
 
 ### Team, Contributors & Special Thanks
 * Dolicon
@@ -41,5 +42,5 @@ Links:
     > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
 * NeptuniaMX
     > Sensei
-### Donators
+### Supporters
 Kuni, GetHisAssWukong
