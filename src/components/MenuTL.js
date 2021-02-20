@@ -12,11 +12,16 @@ export default class MenuTL extends React.Component {
             </p>
             <img src={`../../img/DailiesTL.webp`} alt="Dailies" title="Dailies"/>
         </div>
-        <div className="column is-6">
-            <p className="has-text-weight-bold is-bold-light">
-                Crafting Nodes
-            </p>
-            <img src={`../../img/Crafting.webp`} alt="Crafting" title="Crafting"/>
+        <div className="column is-6 columns is-multiline">
+            <div className="column is-full">
+                <p className="has-text-weight-bold is-bold-light">
+                    Stats
+                </p>
+                <img src={`../../img/Stats.webp`} alt="Stats" title="Stats"/>
+            </div>
+            <div className="column is-full">
+                <img src={`../../img/Crafting.webp`} alt="Crafting" title="Crafting"/>
+            </div>
         </div>
         <div className="column is-6">
             <p className="has-text-weight-bold is-bold-light">
