@@ -23,4 +23,19 @@ normalText: Deals (S) damage to one enemy every (S) time and reduces (S) defense
   for (M) time.
 enhancedText: Increases attack speed (S).
 subText: When attacking an enemy with debuff status, she deals (S) additional damage.
+profile:
+  height: 149
+  artist: NAMYO
+  info: >-
+    Ice witch who belongs to Trinity Academy's Supplementary Lesson Department.
+
+
+    Originally, she had dropped out of her school, but for one reason or another, she has returned to school and is working on her schoolwork again. She is lonely, but she voluntarily keeps her distance for fear of bothering others and is worried by the students in Supplementary Lesson Department.
+  hobbies: None
+  jpname: 白洲アズサ
+  cv: Risa Taneda  (種田梨沙)
+  club: Remedial Class Department
+  fullname: Shirasu Azusa
+  birthday: Dec 26
+  age: 16
 ---
