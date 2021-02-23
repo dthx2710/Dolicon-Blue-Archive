@@ -78,6 +78,14 @@ export const StudentInfoTemplate = ({
     default:
   }
 
+  let studentAge
+  if (age === 0){
+    studentAge = "Confidential"
+  }
+  else {
+    studentAge = `${age} years old`
+  }
+
   const affiliationSrc=affiliation.toLowerCase()
 
   const [showProfile, setShowProfile] = useState(false);
@@ -203,7 +211,7 @@ export const StudentInfoTemplate = ({
                   </div>
                   <div className="column is-4">
                     <p className="has-text-weight-bold is-bold-light">Age</p>
-                    <p>{age} years old</p>
+                    <p>{studentAge}</p>
                   </div>
                   <div className="column is-4">
                     <p className="has-text-weight-bold is-bold-light">Birthday</p>
