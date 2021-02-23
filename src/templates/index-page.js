@@ -69,119 +69,119 @@ export const IndexPageTemplate = ({
           <div className="columns is-multiline has-text-centered">
             <div className="column is-2">
               <Link to="/strikers">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/StrikersCard.webp"
                         alt="Strikers"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Strikers</p>
+                  <div className="card-content">
+                    <p className="title is-4">Strikers</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/specials">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/SpecialsCard.webp"
                         alt="Specials"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Specials</p>
+                  <div className="card-content">
+                    <p className="title is-4">Specials</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/equip">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/Equipment_Icon_Error.webp"
                         alt="Equip Farm"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Equip Farm</p>
+                  <div className="card-content">
+                    <p className="title is-4">Equip Farm</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/gacha">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/Currency_Icon_Gem.webp"
                         alt="Gacha"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Gacha</p>
+                  <div className="card-content">
+                    <p className="title is-4">Gacha</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/faq">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/Icon_CardBack_Mark.webp"
                         alt="FAQ"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">FAQ</p>
+                  <div className="card-content">
+                    <p className="title is-4">FAQ</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/translations">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/TLCard.webp"
                         alt="Translations"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Translations</p>
+                  <div className="card-content">
+                    <p className="title is-4">Translations</p>
                   </div>
                 </div>
               </Link>
             </div>
             <div className="column is-2">
               <Link to="/reroll">
-                <div class="card landingCard">
-                  <div class="card-image">
-                    <figure class="image">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
                       <img
                         src="../../img/Student_Portrait_Aru_Collection.webp"
                         alt="Reroll"
                       />
                     </figure>
                   </div>
-                  <div class="card-content">
-                    <p class="title is-4">Reroll</p>
+                  <div className="card-content">
+                    <p className="title is-4">Reroll</p>
                   </div>
                 </div>
               </Link>
