@@ -7,5 +7,5 @@ subheading: A Blue Archive Site
 mainpitch:
   title: Not working on anything at the moment. DM me for requests!
   description: >
-    10/2 Update: Upgraded to Netlify paid plan! Thank you guys for your kind gratitudes & donations, greatly appreciated! Equipment farm planner has been added, next up will be gacha sim & exp calc
+    23/2 Update: Added individual student profile info
 ---
