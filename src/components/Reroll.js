@@ -33,7 +33,7 @@ class Reroll extends React.Component {
         <p>PLEASE Take all lists with a grain of salt. Don't follow brainlessly as all students have an use somewhere.</p>
         <p>Strikethrough means not in pool atm. Will be subjected to change as time goes.</p>
         <p>Hina and Aru as they are the best explosion DPS, helps u melt through story quickly. Tsurugi will be core for several future raids (from CBT)</p>
-        <p>You can also refer to <a target='blank' href='https://docs.google.com/document/d/1oFRrw8ClZaajzkjULpbxAGLvEKXwc-zLme8iGGkq1Fg/'>Vespa's student tier/analysis doc</a>. I agree with most, if not all of what's there.</p>
+        <p>You can also refer to <a target='blank' href='https://docs.google.com/document/d/1oFRrw8ClZaajzkjULpbxAGLvEKXwc-zLme8iGGkq1Fg/'>Hespa's student tier/analysis doc</a>. I agree with most, if not all of what's there.</p>
         <p>Sources: kamigame, gamewith, gamerch, Xeno archive, Nep sensei</p>
 
         <h3>Gacha Pool</h3>
