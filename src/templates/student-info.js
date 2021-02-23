@@ -1,7 +1,6 @@
-import React from 'react'
+import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { Helmet } from 'react-helmet'
-//import { graphql, Link } from 'gatsby'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Img from "gatsby-image"
@@ -26,6 +25,16 @@ export const StudentInfoTemplate = ({
   normalText,
   enhancedText,
   subText,
+  fullname,
+  jpname,
+  club,
+  age,
+  birthday,
+  height,
+  hobbies,
+  cv,
+  artist,
+  info
 }) => {
 
   //convert data to icons
@@ -43,7 +52,7 @@ export const StudentInfoTemplate = ({
   }
 
   //convert atk/def type to color
-  var atkColor, defColor
+  let atkColor, defColor
   switch(atkType){
     case 'Explosion':
       atkColor = 'red'
@@ -70,6 +79,8 @@ export const StudentInfoTemplate = ({
   }
 
   const affiliationSrc=affiliation.toLowerCase()
+
+  const [showProfile, setShowProfile] = useState(false);
 
   return (
     <section className="section">
@@ -167,7 +178,59 @@ export const StudentInfoTemplate = ({
                   </div>
                 </div>
               </div>
-
+              <div className="column is-12">
+                {showProfile ?
+                  <div>
+                    <button className="button is-danger is-light" onClick={()=>setShowProfile(!showProfile)}>Hide Profile</button>
+                  </div> :
+                  <button className="button is-info is-light" onClick={()=>setShowProfile(!showProfile)}>View Profile</button>
+                  }
+              </div>
+              { showProfile ?
+              <div className="column is-12">
+                <div className="columns is-multiline">
+                <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Full Name</p>
+                    <p>{fullname}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">JP Name</p>
+                    <p>{jpname}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Club</p>
+                    <p>{club}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Age</p>
+                    <p>{age} years old</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Birthday</p>
+                    <p>{birthday}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Height</p>
+                    <p>{height} cm</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Hobbies</p>
+                    <p>{hobbies}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">CV</p>
+                    <p>{cv}</p>
+                  </div>
+                  <div className="column is-4">
+                    <p className="has-text-weight-bold is-bold-light">Artist</p>
+                    <p>{artist}</p>
+                  </div>
+                  <div className="column is-12">
+                    <p className="has-text-weight-bold is-bold-light">Background Info</p>
+                    <p>{info}</p>
+                  </div>
+                </div>
+              </div> : null }
             </div>
           </div>
          </div>
@@ -197,6 +260,16 @@ StudentInfoTemplate.propTypes = {
   normalText: PropTypes.string,
   enhancedText: PropTypes.string,
   subText: PropTypes.string,
+  fullname: PropTypes.string,
+  jpname: PropTypes.string,
+  club: PropTypes.string,
+  age: PropTypes.number,
+  birthday: PropTypes.string,
+  height: PropTypes.number,
+  hobbies: PropTypes.string,
+  cv: PropTypes.string,
+  artist: PropTypes.string,
+  info: PropTypes.string,
 }
 
 const StudentInfo = ({ data }) => {
@@ -229,6 +302,16 @@ const StudentInfo = ({ data }) => {
         normalText={info.frontmatter.normalText}
         enhancedText={info.frontmatter.enhancedText}
         subText={info.frontmatter.subText}
+        fullname={info.frontmatter.profile.fullname}
+        jpname={info.frontmatter.profile.jpname}
+        club={info.frontmatter.profile.club}
+        age={info.frontmatter.profile.age}
+        birthday={info.frontmatter.profile.birthday}
+        height={info.frontmatter.profile.height}
+        hobbies={info.frontmatter.profile.hobbies}
+        cv={info.frontmatter.profile.cv}
+        artist={info.frontmatter.profile.artist}
+        info={info.frontmatter.profile.info}
       />
     </Layout>
   )
@@ -276,6 +359,18 @@ export const pageQuery = graphql`
         normalText
         enhancedText
         subText
+        profile {
+          fullname
+          jpname
+          club
+          age
+          birthday
+          height
+          hobbies
+          cv
+          artist
+          info
+        }
       }
     }
   }
