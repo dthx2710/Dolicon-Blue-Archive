@@ -22,4 +22,22 @@ normalText: Every 25 seconds, deals 193% damage to enemies in a specific circula
 enhancedText: Increases her critical rate by 14%.
 subText: While attacking, 20% chance to increase attack speed by 30.2% (30 sec)
   (CD 25 sec).
+profile:
+  height: 156
+  artist: Hwansang
+  info: >-
+    Sports-loving behavioral team leader on the task force at Abydos High
+    School.
+
+
+    Basically, she doesn't say much, and her facial expressions rarely change, giving her a cold impression, but in fact, she is a girl who cares more about Abydos High School than anyone else.
+
+    She does not hesitate to use any means and methods to help the school recover and sometimes proposes crazy ideas.
+  hobbies: Jogging, physical training, road bike
+  jpname: 砂狼シロコ
+  cv: Yui Ogura  (小倉唯)
+  club: Countermeasures Committee
+  fullname: Sunaookami Shiroko
+  birthday: May 16
+  age: 16
 ---
