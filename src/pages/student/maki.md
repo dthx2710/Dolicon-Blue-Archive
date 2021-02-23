@@ -22,4 +22,19 @@ normalText: Every 25 seconds, mark and reduce an enemy's defense by 18.3% (15 se
 enhancedText: Increases attack speed by 14%.
 subText: While attacking a marked enemy, deal additional damage equivalent to
   14.9% of attack.
+profile:
+  height: 149
+  artist: 9ml
+  info: >-
+    Member of the hacker group "Veritas" at Millennium Science School. 
+
+
+    She is a mischievous girl who likes graffiti, and the emblem of Veritas is her work. She is basically an optimistic, go-with-the-motions type of person, and often gets into trouble with other club members.
+  hobbies: Graffiti, games
+  jpname: 小塗マキ
+  cv: Shiori Mikami (三上枝織)
+  club: Veritas
+  fullname: Konuri Maki
+  birthday: Aug 1
+  age: 15
 ---

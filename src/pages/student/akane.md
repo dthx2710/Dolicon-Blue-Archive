@@ -22,4 +22,19 @@ normalText: Every 40 seconds, she deals 396% damage to an enemy.
 enhancedText: Increases movement speed by 14%.
 subText: While attacking, there is a 10% chance of reducing the enemy's evasion
   value by 6.7% (30 seconds) (CD 5 sec).
+profile:
+  height: 159
+  artist: Mx2j
+  info: >
+    Agent of the Millennium Academy's secret organization, C&C. 
+
+
+    Her call sign is a "zero-three" and she is a "cleaning" specialist. She is known by the nickname "Master of Sweeping" because she uses her soft impressions to sneak into enemy lines and clean them up with explosives.
+  hobbies: Cleaning
+  jpname: 室笠アカネ
+  cv: Yumi Hara (原由実)
+  club: Cleaning&Clearing
+  fullname: Murokasa Akane
+  birthday: Apr 1
+  age: 16
 ---

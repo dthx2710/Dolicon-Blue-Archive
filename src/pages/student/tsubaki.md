@@ -23,4 +23,19 @@ normalText: When her HP falls below 30%, she restores her HP by 349% heal
   potency. (Only once per battle.)
 enhancedText: Increases defense by 14%.
 subText: Reduces damage taken while reloading by 24%.
+profile:
+  height: 162
+  artist: Mx2j
+  info: >-
+    Head of the training club at Hyakkiyako Academy.
+
+
+    She is a self-confessed sleepyhead, always taking naps during the day, so her friend Mimori effectively takes over the role of department head. Despite her lazy daytime appearance, she is secretly working to protect Hyakkiyako Academy at night.
+  hobbies: Napping
+  jpname: 春日ツバキ
+  cv: Shirasu Saho (白砂沙帆)
+  club: Festival Management Committee
+  fullname: Kasuga Tsubaki
+  birthday: Feb 3
+  age: 16
 ---

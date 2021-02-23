@@ -36,9 +36,9 @@ profile:
     Aru always puts on a cool beauty villain facade but is easily exposed due to the difference in her true personality.
   hobbies: Studying Management
   jpname: 陸八魔アル
-  cv: Reina Kondo
+  cv: Reina Kondō (近藤玲奈)
   club: Handyman 68
   fullname: Rikuhachima Aru
-  birthday: 12 March
+  birthday: March 12
   age: 16
 ---

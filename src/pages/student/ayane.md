@@ -22,4 +22,19 @@ normalText: Every 30 seconds, increases critical resistance of allies within a
   specified circular area by 15.5%
 enhancedText: Increases heal potency by 14%.
 subText: Increases allies' HP by 9.1%
+profile:
+  height: 153
+  artist: Hwansang
+  info: >-
+    Serious treasurer of Abydos's Countermeasures Committee.
+
+
+    She is the type of girl who values principles and rules. She is working diligently to restore Abydos High School.
+  hobbies: Keeping a household account, collecting antiques.
+  jpname: 奥空アヤネ
+  cv: Sayaka Harada (原田彩楓).
+  club: Countermeasures Committee
+  fullname: Okusora Ayane
+  birthday: Nov 12
+  age: 15
 ---

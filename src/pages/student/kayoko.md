@@ -24,4 +24,19 @@ normalText: Every 20 seconds, deals 132% damage to one enemy, 30% chance of
 enhancedText: Increases crowd control power by 14%.
 subText: When attacking an enemy in crowd controlled state, deal additional
   damage equivalent to 74.8% of attack.
+profile:
+  height: 157
+  artist: DoReMi
+  info: >-
+    Section Chief of Handyman 68, which belongs to Gehenna Academy.
+
+
+    Unlike the other members of Handyman 68, she has no malicious intent but is misunderstood as a delinquent simply because of her naturally scary face. Kayoko herself has kept quiet about such misunderstandings, but it has made her more of a scary person.
+  hobbies: Music CD collection
+  jpname: 鬼方カヨコ
+  cv: Yukiyo Fujii (藤井 ゆきよ)
+  club: Handyman 68
+  fullname: Onikata Kayoko
+  birthday: Mar 17
+  age: 17
 ---

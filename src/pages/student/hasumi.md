@@ -22,4 +22,19 @@ normalText: Upon defeating an enemy, reloads immediately and increases her
   critical damage by 30%. (13 sec)
 enhancedText: Increases critical rate by 14%.
 subText: After reloading, increases critical rate by 50% for one attack.
+profile:
+  height: 179
+  artist: Mx2j
+  info: >-
+    No. 2 on Trinity Academy's Justice Achievement Committee.
+
+
+    She also serves as the tactical commander of the Justice Realization Committee instead of Tsurugi, the icon of madness. As a result, she appears to be a typical Trinity student, calm and intelligent, but she is also a member of the Justice Realization Committee. She is calmer than anyone else, and sometimes even acts recklessly.
+  hobbies: Reading, observing people
+  jpname: 羽川ハスミ
+  cv: Asami Seto (瀬戸麻沙美)
+  club: Justice Realization Committee
+  fullname: Hanekawa Hasumi
+  birthday: Dec 12
+  age: 17
 ---

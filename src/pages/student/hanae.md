@@ -22,4 +22,20 @@ normalText: Every 25 seconds, increases the defense of an ally with the lowest
   HP by 17.7% (20 sec).
 enhancedText: Increases heal potency by 14%.
 subText: Increases allies' critical damage by 9.1%.
+profile:
+  height: 150
+  artist: tonito
+  info: >-
+    A cheerful and energetic new student who belongs to the Knights of Relief of
+    Trinity Academy.
+
+
+    She has a positive and lively personality, but when she finds a patient, she goes into a tizzy and makes things worse. She is an unusual girl in many ways, but strangely enough, patients who receive her support are said to be cured soon after receiving any illness.
+  hobbies: Dancing, cheerleading
+  jpname: 朝顔ハナエ
+  cv: Kana Yuuki (優木かな)
+  club: Knight Hospitaller
+  fullname: Asagao Hanae
+  birthday: May 12
+  age: 15
 ---

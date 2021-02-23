@@ -22,4 +22,20 @@ normalText: Every 25 seconds, deal 233% damage to an enemy.
 enhancedText: Increases evasion by 14%.
 subText: When attacking an enemy in crowd controlled state, she deals additional
   damage equivalent to 27.5% of her attack.
+profile:
+  height: 162
+  artist: Empew
+  info: >-
+    Member of the vigilante group that protects the safety of the students of
+    Trinity Academy.
+
+
+    Due to the frequent incidents of Trinity students being attacked by other schools, they have started patrolling the city to prevent these incidents. Her burning sense of justice often leads her to be misunderstood as cold-hearted and cold, but she is actually a girlish girl at her age who loves cute things.
+  hobbies: Patrol, walk around
+  jpname: 守月スズミ
+  cv: Haruka Shamoto (社本悠)
+  club: Trinity Vigilante
+  fullname: Morizuki Suzumi
+  birthday: Aug 31
+  age: 16
 ---

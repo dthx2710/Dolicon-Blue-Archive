@@ -22,4 +22,19 @@ exSkill:
 normalText: Every 30 seconds, she gets angry, increasing evasion by 17.8% (20 sec).
 enhancedText: Increases critical damage by 14%.
 subText: When angry, her attack is increased by 16.8% (30 sec).
+profile:
+  height: 152
+  artist: Mx2j
+  info: >-
+    Leader of C&C, a secret organization at Millennium Academy.
+
+
+    At first glance, she looks like a thuggish kid wearing a Sukajan over a maid's uniform, but in fact, she is the strongest agent in the business with a 100% success rate of requests. For this reason, her call sign "Double O" is considered a symbol of victory by those in the industry.
+  hobbies: Winning
+  jpname: 美甘ネル
+  cv: Ami Koshimizu (小清水亜美)
+  club: Cleaning&Clearing
+  fullname: Mikamo Neru
+  birthday: Aug 17
+  age: 17
 ---

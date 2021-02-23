@@ -23,4 +23,21 @@ normalText: When her HP is below 20%, she restores her HP by 355% healing power
   (Only once per battle).
 enhancedText: Increases critical rate by 14%.
 subText: Attack speed increased by 20.1% if not moving.
+profile:
+  height: 165
+  artist: OSUK2
+  info: >-
+    Girl who is addicted to Japanese culture at Hyakkiyako Academy.
+
+
+    She has blonde hair, which is rare at Hyakkiyako, and although her Japanese is inexperienced, her energetic and positive personality makes her easy to get along with everyone.
+
+    Rumor has it that the school she attended before transferring to Hyakkiyako was an incredibly prestigious school in the West.
+  hobbies: Kabuki
+  jpname: アサヒナフィーナ
+  cv: Ibuki Kido (木戸衣吹)
+  club: Festival Management Committee
+  fullname: Asahina Fina
+  birthday: Nov 3
+  age: 18
 ---
