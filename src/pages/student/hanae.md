@@ -26,7 +26,7 @@ profile:
   height: 150
   artist: tonito
   info: >-
-    Cheerful and energetic new student who belongs to the Knights of Relief of
+    A cheerful and energetic new student who belongs to the Knights of Relief of
     Trinity Academy.
 
 
