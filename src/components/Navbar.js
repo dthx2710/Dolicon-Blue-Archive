@@ -14,7 +14,8 @@ const Navbar = class extends React.Component {
       dbDropdownActiveClass: '',
       toolsexpand: false,
       toolsDropdownActiveClass: '',
-
+      resourcesexpand: false,
+      resourcesDropdownActiveClass: '',
     }
   }
 
@@ -75,6 +76,26 @@ const Navbar = class extends React.Component {
     )
   }
 
+  toggleResourcesDropdown = () => {
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        resourcesexpand: !this.state.resourcesexpand,
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.resourcesexpand
+          ? this.setState({
+              resourcesDropdownActiveClass: 'expand',
+            })
+          : this.setState({
+              resourcesDropdownActiveClass: '',
+            })
+      }
+    )
+  }
+
   render() {
     return (
       <nav
@@ -125,8 +146,8 @@ const Navbar = class extends React.Component {
               </div>
 
               <div className="navbar-item has-dropdown is-hoverable">
-                <div className="navbar-item navbar-link" onClick={() => this.toggleToolsDropdown()} onKeyDown={() => this.toggleToolsDropdown()} role="button" tabIndex="0">Resources</div>
-                <div className={`navbar-dropdown ${this.state.toolsDropdownActiveClass}`}>
+                <div className="navbar-item navbar-link" onClick={() => this.toggleResourcesDropdown()} onKeyDown={() => this.toggleResourcesDropdown()} role="button" tabIndex="0">Resources</div>
+                <div className={`navbar-dropdown ${this.state.resourcesDropdownActiveClass}`}>
                   <Link className="navbar-item dropdown-item" to="/reroll">Reroll</Link>
                   <Link className="navbar-item dropdown-item" to="/translations">Menus</Link>
                   <Link className="navbar-item dropdown-item" to="/faq">FAQ</Link>
