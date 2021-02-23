@@ -33,7 +33,7 @@ profile:
     She has a positive and lively personality, but when she finds a patient, she goes into a tizzy and makes things worse. She is an unusual girl in many ways, but strangely enough, patients who receive her support are said to be cured soon after receiving any illness.
   hobbies: Dancing, cheerleading
   jpname: 朝顔ハナエ
-  cv: Kana Yuuki  (優木かな)
+  cv: Kana Yuuki (優木かな)
   club: Knight Hospitaller
   fullname: Asagao Hanae
   birthday: May 12
