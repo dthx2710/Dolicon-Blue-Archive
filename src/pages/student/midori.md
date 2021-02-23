@@ -24,4 +24,19 @@ normalText: At regular intervals, she restores (M) proportional to the amount of
 enhancedText: Increases her critical rate (S).
 subText: Increases her normal attack's speed (S). If there is Momoi in her
   squad, the effect will be amplified.
+profile:
+  height: 143
+  artist: キキ
+  info: >-
+    Illustrator who belongs to the game development department of Millennium
+    Academy.
+
+
+    She and her twin sister, Momoi, are literally developing games in the Game Development Department. She was shy and did not get along well with her cheerful sister, but their passion for games made them hit it off and now they are great friends.
+  hobbies: Drawing
+  jpname: 才羽ミドリ
+  club: Game Development Department
+  fullname: Saiba Midori
+  birthday: Dec 8
+  age: 15
 ---
