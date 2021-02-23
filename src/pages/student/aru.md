@@ -39,6 +39,6 @@ profile:
   cv: Reina Kondō  (近藤玲奈)
   club: Handyman 68
   fullname: Rikuhachima Aru
-  birthday: 12 March
+  birthday: March 12
   age: 16
 ---
