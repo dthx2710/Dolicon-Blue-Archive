@@ -31,7 +31,7 @@ profile:
     She has been bullied ever since she was a child because of her dark and gloomy personality, but recently, thanks to Aru, she has been able to escape from the bullies. Since then, she has been working as the youngest of the 68 Handymen. She is shy and has low self-esteem, but her ideas may be the scariest of all the handymen?
   hobbies: Growing weeds
   jpname: 伊草ハルカ
-  cv: Erika Ishitobi  (石飛恵里花)
+  cv: Erika Ishitobi (石飛恵里花)
   club: Handyman 68
   fullname: Igusa Haruka
   birthday: May 13
