@@ -22,4 +22,20 @@ normalText: Every 40 seconds, increases the evasion of her ally with the lowest
   current HP by 50.9% (30 sec).
 enhancedText: Increases heal potency by 14%.
 subText: Increases allies' defense by 9.1%.
+profile:
+  height: 159
+  artist: Mx2j
+  info: >-
+    Member of the Discipline Committee at Gehenna Academy and is in charge of
+    health. 
+
+
+    She's one of the few common sense people on the Discipline Committee that emphasizes rules, discipline, and procedures, and is in charge of acting as a brake to keep her members like Ako and Iori from running amok. At first glance, she seems cold like the other members of the board of trustees, but she is a gentle girl who is completely lost in the presence of cute animals.
+  hobbies: Reading philosophy books
+  jpname: 火宮チナツ
+  cv: Maia (香月はるか)
+  club: Discipline Committee
+  fullname: Hinomia Chinatsu
+  birthday: Aug 22
+  age: 12
 ---
