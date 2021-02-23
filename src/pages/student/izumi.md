@@ -22,4 +22,19 @@ normalText: While attacking, 20% chance to deal 275% damage to an enemy (CD 10 s
 enhancedText: Increases the recovery rate received by 14%.
 subText: While attacking, deal additional 0.4% damage equivalent to 2.2% attack
   proportional to her current HP.
+profile:
+  height: 161
+  artist: Mx2j
+  info: >-
+    Member of the Gehenna Academy's Gourmet Research Society.
+
+
+    She is a foodie who eats everything. As a result of loving food so much, she started to eat all the ghettos that other people would want her to give up.
+  hobbies: Making and eating dangerous food
+  jpname: 獅子堂イズミ
+  cv: Yurika Kubo (久保ユリカ)
+  club: Gourmet Research Society
+  fullname: Shishidou Izumi
+  birthday: May 11
+  age: 16
 ---
