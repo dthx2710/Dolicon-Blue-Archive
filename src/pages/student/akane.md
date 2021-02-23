@@ -29,7 +29,7 @@ profile:
     Agent of the Millennium Academy's secret organization, C&C. 
 
 
-    Her call sign is a ""zero-three"" and she is a ""cleaning"" specialist. She is known by the nickname ""Master of Sweeping"" because she uses her soft impressions to sneak into enemy lines and clean them up with explosives.
+    Her call sign is a "zero-three" and she is a "cleaning" specialist. She is known by the nickname "Master of Sweeping" because she uses her soft impressions to sneak into enemy lines and clean them up with explosives.
   hobbies: Cleaning
   jpname: 室笠アカネ
   cv: Yumi Hara (原由実)
