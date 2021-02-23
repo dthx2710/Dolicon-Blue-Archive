@@ -36,7 +36,7 @@ profile:
     The fake moustache is a symbol of authority, and Cherino believes that authority comes from the moustache.
   hobbies: Purging, Snowball fight
   jpname: 連河チェリノ
-  cv: Sakura Tange  (丹下 桜)
+  cv: Sakura Tange (丹下 桜)
   club: Red Winter Office
   fullname: Renkawa Cherino
   birthday: Oct 27
