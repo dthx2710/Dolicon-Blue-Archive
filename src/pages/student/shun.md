@@ -35,7 +35,7 @@ profile:
   hobbies: Playing with children
   jpname: 春原シュン
   cv: Shizuka Ito (伊藤 静)
-  club: Training and Support Department ""Plum Blossom Garden"
+  club: Training and Support Department "Plum Blossom Garden"
   fullname: Haruhara Shun
   birthday: Feb 5
   age: 0
