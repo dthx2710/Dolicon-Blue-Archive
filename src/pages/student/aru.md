@@ -24,19 +24,21 @@ normalText: Every 25 seconds, she deals 152% damage to one enemy with a 50%
 enhancedText: Increases critical damage by 14%.
 subText: While using her EX skill, her critical rate is increased by 20.1%.
 profile:
-  age: 16
-  birthday: 12 March
   height: 160
-  hobbies: Studying Management
-  cv: Reina Kondo
   artist: DoReMi
   info: >-
-    The self-proclaimed president of Handyman 68, who belongs to Gehenna
-    Academy.
+    The self-proclaimed president of Handyman 68, a member of Gehenna Academy.
 
 
-    A girl who is doing illegal business at her own discretion at Handyman 68, a club activity of Gehenna Academy.
+    A girl who runs the illegal business of Handyman 68, a club activity of Gehenna Academy, as she pleases.
 
 
-    Aru wants to behave like a cool villain but she is missing many things so she quickly gets caught.
+    Aru always puts on a cool beauty villain facade but is easily exposed due to the difference in her true personality.
+  hobbies: Studying Management
+  jpname: 陸八魔アル
+  cv: Reina Kondo
+  club: Handyman 68
+  fullname: Rikuhachima Aru
+  birthday: 12 March
+  age: 16
 ---

@@ -71,13 +71,16 @@ collections:
         required: false
         default: ""
         fields:
+          - {label: "Full Name", name: "fullname", widget: "string", required: false, default: ""}
+          - {label: "JP Name", name: "jpname", widget: "string", required: false, default: ""}
+          - {label: "Club", name: "club", widget: "string", required: false, default: ""}
           - {label: "Age", name: "age", widget: "number", value_type: "int", min: 0, max: 999, required: false, default: 0}
           - {label: "Birthday", name: "birthday", widget: "string", required: false, default: "1 January"}
           - {label: "Height", name: "height", widget: "number", value_type: "int", min: 0, max: 999, required: false, default: 0}
           - {label: "Hobbies", name: "hobbies", widget: "string", required: false, default: ""}
           - {label: "CV", name: "cv", widget: "string", required: false, default: ""}
           - {label: "Artist", name: "artist", widget: "string", required: false, default: ""}
-          - {label: "Info", name: "info", widget: "text", required: false, default: ""}
+          - {label: "Background Info", name: "info", widget: "text", required: false, default: ""}
       
 
   - name: "pages"
