@@ -34,7 +34,7 @@ profile:
     Her appearance and grades are average, but she is popular thanks to her gentle, not sharp, personality. She listens to the worries and stories of the people around her, but because of this, she sometimes unintentionally gets carried away by the atmosphere and causes trouble.
   hobbies: Collecting Peroro goods, cute things, shopping, and consulting.
   jpname: 阿慈谷ヒフミ
-  cv: Kaede Hondo  (本渡楓)
+  cv: Kaede Hondo (本渡楓)
   club: 2nd Year
   fullname: Ajitani Hifumi
   birthday: Nov 27
