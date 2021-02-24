@@ -12,8 +12,8 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: D
-  indoor: S
+  outdoor: S
+  indoor: D
   urban: B
 exSkill:
   exCost: 3
