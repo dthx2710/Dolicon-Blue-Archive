@@ -20,7 +20,7 @@ exSkill:
   exText: Increases evasion by 43.4% and attack speed by 30.2% (30 sec).
 normalText: Deals 219% damage to one enemy every 20 seconds.
 enhancedText: Increases critical damage by 14%.
-subText: When using her EX skill, her attack speed is increased by 20.1%. (30 sec).
+subText: Upon using her EX skill, increases attack speed by 20.1%. (30 sec).
 profile:
   height: 164
   artist: Mx2j
