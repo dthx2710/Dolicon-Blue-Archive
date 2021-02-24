@@ -22,7 +22,7 @@ normalText: During her normal attack, 10% chance to increase her attack by 38.7%
   (20 sec) (CD 15sec).
 enhancedText: Increases HP by 14%.
 subText: During her normal attack, 10% chance to increase her attack power by
-  34.4% (26 sec) (CD 18%).
+  34.4% (26 sec) (CD 18 sec).
 profile:
   height: 167
   artist: 9ml
