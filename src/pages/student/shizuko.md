@@ -4,7 +4,7 @@ studentType: Special
 name: Shizuko
 image: /img/shizuko_01.webp
 portrait: /img/Student_Portrait_Shizuko_Collection.webp
-rarity: "3"
+rarity: "2"
 affiliation: Hyakkiyako
 weaponType: SG
 role: Supporter
