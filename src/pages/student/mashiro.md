@@ -12,16 +12,16 @@ position: None
 atkType: Explosion
 defType: Heavy Armour
 combatEnvironment:
-  outdoor: D
-  indoor: S
+  outdoor: S
+  indoor: D
   urban: B
 exSkill:
   exCost: 3
-  exText: Deals (M) damage to the specified target. There is a (M) chance that she
-    will deal additional (XL) damage.
-normalText: At regular intervals, she deals (S) damage to enemies within a circular area.
-enhancedText: Increases her critical rate (S).
-subText: Increases all allies' accuracy (S).
+  exText: Deals 415% damage to the specified target. There is a 50% chance to deal
+    additional 625% damage.
+normalText: Every 20 seconds, she deals 150% damage to enemies within a circular area.
+enhancedText: Increases her critical rate by 14%.
+subText: Increases all allies' accuracy by 9.1%.
 profile:
   height: 155
   artist: ポップキュン
