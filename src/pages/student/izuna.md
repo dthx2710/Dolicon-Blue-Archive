@@ -30,6 +30,6 @@ profile:
   cv: ""
   club: ""
   fullname: ""
-  birthday: 1 January
+  birthday: ""
   age: 0
 ---
