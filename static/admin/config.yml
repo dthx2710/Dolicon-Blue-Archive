@@ -47,7 +47,7 @@ collections:
         fields:
         - {label: "Cost", name: "exCost", widget: "number", value_type: "int", min: 0, max: 10, required: false, default: 0}
         - {label: "EX Skill", name: "exText", widget: "text", required: false, default: ""}
-      - {label: "Normal Skill", name: "normalText", widget: "text", required: false, default: ""}
+      - {label: "Normal Skill", name: "normalText", widget: "tex  t", required: false, default: ""}
       - {label: "Enhanced Skill", name: "enhancedText", widget: "text", required: false, default: ""}
       - {label: "Sub Skill", name: "subText", widget: "text", required: false, default: ""}
       - label: "Profile"
@@ -60,7 +60,7 @@ collections:
           - {label: "JP Name", name: "jpname", widget: "string", required: false, default: ""}
           - {label: "Club", name: "club", widget: "string", required: false, default: ""}
           - {label: "Age", name: "age", widget: "number", value_type: "int", min: 0, max: 999, required: false, default: 0}
-          - {label: "Birthday", name: "birthday", widget: "string", required: false, default: "1 January"}
+          - {label: "Birthday", name: "birthday", widget: "string", required: false, default: ""}
           - {label: "Height", name: "height", widget: "number", value_type: "int", min: 0, max: 999, required: false, default: 0}
           - {label: "Hobbies", name: "hobbies", widget: "string", required: false, default: ""}
           - {label: "CV", name: "cv", widget: "string", required: false, default: ""}
