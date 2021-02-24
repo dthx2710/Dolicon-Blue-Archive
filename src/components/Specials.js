@@ -62,6 +62,9 @@ class Specials extends React.Component {
     return (
       //Filter fields: Rarity/Weapon/Affiliation/Position/Role/ATK/DEF/Combat Advantage
       <div style={{backgroundColor:'#'}}>
+        <div style={{display:'flex', justifyContent:'center'}}>
+          <p>New Student: <Link to="/student/shizuko" className="is-size-4 has-text-primary">Shizuko</Link></p>
+        </div>
         <Filter changeFilter={this.changeFilter} hasPosition={false}/>
         <div className="columns is-multiline is-centered is-vcentered is-mobile">
           {specials &&
