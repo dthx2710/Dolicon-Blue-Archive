@@ -18,7 +18,7 @@ combatEnvironment:
 exSkill:
   exCost: 4
   exText: Increases defense by 28.1% (30 sec) and taunts enemies in a circular
-    area (47 sec).
+    area (4.7 sec).
 normalText: When her HP falls below 30%, she restores her HP by 349% heal
   potency. (Only once per battle.)
 enhancedText: Increases defense by 14%.
