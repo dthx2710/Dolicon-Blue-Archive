@@ -47,7 +47,7 @@ collections:
         fields:
         - {label: "Cost", name: "exCost", widget: "number", value_type: "int", min: 0, max: 10, required: false, default: 0}
         - {label: "EX Skill", name: "exText", widget: "text", required: false, default: ""}
-      - {label: "Normal Skill", name: "normalText", widget: "tex  t", required: false, default: ""}
+      - {label: "Normal Skill", name: "normalText", widget: "text", required: false, default: ""}
       - {label: "Enhanced Skill", name: "enhancedText", widget: "text", required: false, default: ""}
       - {label: "Sub Skill", name: "subText", widget: "text", required: false, default: ""}
       - label: "Profile"
