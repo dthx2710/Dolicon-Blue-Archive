@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Special
 name: Shizuko
 image: /img/shizuko_01.webp
-portrait: /img/Student_Portrait_Shizuko_Collection.webp
+portrait: /img/student_portrait_shizuko_collection.webp
 rarity: "2"
 affiliation: Hyakkiyako
 weaponType: SG
@@ -12,15 +12,16 @@ position: None
 atkType: Mystic
 defType: Special Armour
 combatEnvironment:
-  outdoor: Unknown
-  urban: Unknown
-  indoor: Unknown
+  outdoor: A
+  urban: A
+  indoor: B
 exSkill:
-  exCost: 0
-  exText: Creates a shield with strength equal to x% of Shizuko's HP while
-    increasing the accuracy of allies within a specified circular area. (x sec)
-normalText: Every x seconds, deals x% damage to an enemy, reducing their attack
-  by x %. (x sec)
+  exCost: 3
+  exText: Creates a shield with strength equal to 29.2% of Shizuko's HP while
+    increasing the accuracy of allies by 16.3% within a specified circular area.
+    (30 sec)
+normalText: Every 25 seconds, deals 194% damage to an enemy, reducing their
+  attack by 17.4%. (21 sec)
 enhancedText: Increases accuracy by 14%.
 subText: Increases allies' critical rate by 9.1%
 profile:
