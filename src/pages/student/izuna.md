@@ -2,7 +2,7 @@
 templateKey: student-info
 studentType: Striker
 name: Izuna
-image: /img/izuna_01_temp.webp
+image: /img/izuna_01.webp
 portrait: /img/student_portrait_izuna_collection.png
 rarity: "3"
 affiliation: Hyakkiyako
