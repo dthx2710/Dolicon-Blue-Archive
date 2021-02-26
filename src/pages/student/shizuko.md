@@ -17,7 +17,7 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 3
-  exText: Creates a shield with strength equal to 29.2% of Shizuko's HP while
+  exText: Creates a barricade with strength equal to 29.2% of Shizuko's HP while
     increasing the accuracy of allies by 16.3% within a specified circular area.
     (30 sec)
 normalText: Every 25 seconds, deals 194% damage to an enemy, reducing their
