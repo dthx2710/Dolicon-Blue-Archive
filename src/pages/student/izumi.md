@@ -7,7 +7,7 @@ portrait: /img/Student_Portrait_Izumi_Collection.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: MG
-role: Tank
+role: Attacker
 position: Middle
 atkType: Explosion
 defType: Light Armour
