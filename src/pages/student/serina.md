@@ -35,7 +35,7 @@ profile:
   jpname: 鷲見セリナ
   cv: Suzumoto Akiho (涼本あきほ)
   club: Knight Hospitaller
-  fullname: Washimi Serina
+  fullname: Sumi Serina
   birthday: Jan 6
   age: 16
 ---
