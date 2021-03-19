@@ -9,7 +9,7 @@ affiliation: Millennium
 weaponType: RG
 role: Attacker
 position: Back
-atkType: Penetration
+atkType: Mystic
 defType: Heavy Armour
 combatEnvironment:
   outdoor: D
@@ -25,7 +25,7 @@ enhancedText: Increases her attack (S).
 subText: During a normal attack, there is a low chance that her attack speed
   will be increased (S) for (M) time.
 profile:
-  height: 154
+  height: 152
   artist: DoReMi
   info: >-
     Member of the Millennium Academy's game development club. 
@@ -37,6 +37,6 @@ profile:
   cv: Minami Tanaka (田中美海)
   club: Game Development Department
   fullname: Tendou Arisu
-  birthday: Dec 24
+  birthday: Mar 25
   age: 0
 ---
