@@ -22,14 +22,14 @@ normalText: Deals 443% damage to a certain circular area after 6 attacks.
 enhancedText: Increases critical damage by 14%
 subText: Upon using her EX skill, increases attack by 20.1%. (30 sec).
 profile:
-  height: 0
-  artist: ""
+  height: 155
+  artist: はねこと
   info: ""
-  hobbies: ""
-  jpname: ""
-  cv: ""
-  club: ""
-  fullname: ""
-  birthday: ""
-  age: 0
+  hobbies: Practicing Ninjutsu, Patrol
+  jpname: 久田イズナ
+  cv: Kana Asumi (阿澄佳奈)
+  club: Ninjutsu Research Department
+  fullname: Hisada Izuna
+  birthday: December 16
+  age: 15
 ---
