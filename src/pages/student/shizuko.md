@@ -25,14 +25,14 @@ normalText: Every 25 seconds, deals 194% damage to an enemy, reducing their
 enhancedText: Increases accuracy by 14%.
 subText: Increases allies' critical rate by 9.1%
 profile:
-  height: 0
-  artist: ""
+  height: 153
+  artist: whoisshe
   info: ""
-  hobbies: ""
-  jpname: ""
-  cv: ""
-  club: ""
-  fullname: ""
-  birthday: ""
-  age: 0
+  hobbies: Servicing Customer, Mascot Punch?
+  jpname: 河和シズコ
+  cv: Chitose Morinaga (森永千才)
+  club: Festival Comitee
+  fullname: Kawawa Shizuko
+  birthday: July 7
+  age: 16
 ---
