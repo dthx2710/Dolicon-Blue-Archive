@@ -140,5 +140,37 @@
   {
     "map": "11-3-Hard",
     "reward": ["Hairpin_Tier4", "Shoes_Tier4", "Necklace_Tier4"]
+  },
+  {
+    "map": "13-1",
+    "reward": ["Hat_Tier5", "Gloves_Tier5", "Shoes_Tier5"]
+  },
+  {
+    "map": "13-2",
+    "reward": ["Gloves_Tier5", "Badge_Tier5", "Hat_Tier5"]
+  },
+  {
+    "map": "13-3",
+    "reward": ["Shoes_Tier5", "Hat_Tier5", "Hairpin_Tier5"]
+  },
+  {
+    "map": "13-4",
+    "reward": ["Hairpin_Tier5", "Shoes_Tier5", "Bag_Tier5"]
+  },
+  {
+    "map": "13-5",
+    "reward": ["Badge_Tier5", "Gloves_Tier5", "Hat_Tier5"]
+  },
+  {
+    "map": "13-1-Hard",
+    "reward": ["Hat_Tier5", "Gloves_Tier5", "Hairpin_Tier5"]
+  },
+  {
+    "map": "13-2-Hard",
+    "reward": ["Gloves_Tier5", "Shoes_Tier5", "Badge_Tier5"]
+  },
+  {
+    "map": "13-3-Hard",
+    "reward": ["Shoes_Tier5", "Hat_Tier5", "Bag_Tier5"]
   }
 ]

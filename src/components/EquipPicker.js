@@ -36,6 +36,12 @@ const EquipPicker = (props) => {
           >
             <a onClick={activeTab === 4 ? null : setSelectedEquip}>Tier 4</a>
           </li>
+          <li
+            className={`${activeTab === 5 ? "is-active" : ""}`}
+            onClick={() => setActiveTab(5)}
+          >
+            <a onClick={activeTab === 5 ? null : setSelectedEquip}>Tier 5</a>
+          </li>
         </ul>
       </div>
       <div className="equipSelect columns is-multiline">
@@ -528,6 +534,129 @@ const EquipPicker = (props) => {
                   onChange={setSelectedEquip}
                 />
               </label>
+            </div>
+          </div>
+        ) : null}
+        {activeTab === 5 ? (
+          <div className="column is-full">
+            <div className="equipSet">
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Badge_Tier5.webp"
+                  alt="Badge5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Badge_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Bag_Tier5.webp"
+                  alt="Bag5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Bag_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              {/* <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Charm_Tier5.webp"
+                  alt="Charm5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Charm_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label> */}
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Gloves_Tier5.webp"
+                  alt="Gloves5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Gloves_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Hairpin_Tier5.webp"
+                  alt="Hairpin5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Hairpin_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Hat_Tier5.webp"
+                  alt="Hat5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Hat_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              {/* <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Necklace_Tier5.webp"
+                  alt="Necklace5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Necklace_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label> */}
+              <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Shoes_Tier5.webp"
+                  alt="Shoes5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Shoes_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label>
+              {/* <label className="checkbox">
+                <img
+                  width="125px"
+                  src="../../img/Equipment_Icon_Watch_Tier5.webp"
+                  alt="Watch5"
+                />
+                <input
+                  style={{ position: "absolute", right: "1px" }}
+                  type="checkbox"
+                  value="Watch_Tier5"
+                  onChange={setSelectedEquip}
+                />
+              </label> */}
             </div>
           </div>
         ) : null}
