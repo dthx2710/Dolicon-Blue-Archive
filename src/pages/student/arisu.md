@@ -10,20 +10,19 @@ weaponType: RG
 role: Attacker
 position: Back
 atkType: Mystic
-defType: Heavy Armour
+defType: Special Armour
 combatEnvironment:
   outdoor: D
   indoor: S
   urban: B
 exSkill:
   exCost: 6
-  exText: Fires a penetrating projectile at enemies in a straight line. The
-    attacked enemy takes (L) damage.
-normalText: Every four attacks, she loads up with reinforced bullets. Her next
-  normal attack deals (M) damage.
-enhancedText: Increases her attack (S).
-subText: During a normal attack, there is a low chance that her attack speed
-  will be increased (S) for (M) time.
+  exText: Deals damage to enemies in a straight line, Damage is increased based on
+    the energy charge amount. After firing, reset energy charge stage
+normalText: "Every x second, Increase critical rate and increase energy charge by 1 "
+enhancedText: Increases Attack Power
+subText: When EX skill is activated, Increase critical rate. Amount added is
+  based on the energy charge stage
 profile:
   height: 152
   artist: DoReMi
