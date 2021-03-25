@@ -4,7 +4,7 @@ studentType: Striker
 name: Midori
 image: /img/midori_01.webp
 portrait: /img/Student_Portrait_Midori_Collection.webp
-rarity: "2"
+rarity: "3"
 affiliation: Millennium
 weaponType: SR
 role: Attacker

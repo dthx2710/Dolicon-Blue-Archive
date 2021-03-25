@@ -22,7 +22,7 @@ normalText: Every 25 seconds, deals 219% damage against enemies within a circula
 enhancedText: Increases attack by 14%.
 subText: While attacking, 10% chance to deal 53.7% damage over time (20 sec) (CD 5 sec)
 profile:
-  height: 156
+  height: 159
   artist: Hwansang
   info: >-
     She belongs to the Hyakkiyako Union Academy, and is a naturally
