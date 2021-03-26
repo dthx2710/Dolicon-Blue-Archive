@@ -17,16 +17,15 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 2
-  exText: Deals 476% damage to an enemy. Her damage is increased by 1.5x if she is
-    angry.
-normalText: Every 30 seconds, she gets angry, increasing evasion by 17.8% (20 sec).
-enhancedText: Increases critical damage by 14%.
-subText: When angry, her attack is increased by 16.8% (30 sec).
+  exText: Deals 476% damage to an enemy. When raged, increase damage by 1.5×.
+normalText: Activate rage every 30 seconds. Increases evasion by 17.8% (20 sec).
+enhancedText: Increases critical damage rate by 14%.
+subText: When raged, increase attack by 16.8% (30 sec).
 profile:
-  height: 152
+  height: 145
   artist: Mx2j
   info: >-
-    Leader of C&C, a secret organization at Millennium Academy.
+    Leader of The Millennium Science School secret organization "C&C"
 
 
     At first glance, she looks like a thuggish kid wearing a Sukajan over a maid's uniform, but in fact, she is the strongest agent in the business with a 100% success rate of requests. For this reason, her call sign "Double O" is considered a symbol of victory by those in the industry.
