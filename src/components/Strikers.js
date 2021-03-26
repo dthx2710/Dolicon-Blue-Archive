@@ -67,7 +67,7 @@ class Strikers extends React.Component {
       //Filter fields: Rarity/Weapon/Affiliation/Position/Role/ATK/DEF/Combat Advantage
       <div style={{backgroundColor:'#'}}>
         <div style={{display:'flex', justifyContent:'center'}}>
-          <p>New Student: <Link to="/student/izuna" className="is-size-4 has-text-primary">Izuna</Link></p>
+          <p>New Student: <Link to="/student/arisu" className="is-size-4 has-text-primary">Arisu</Link></p>
         </div>
         <Filter changeFilter={this.changeFilter} hasPosition={true}/>
         <div className="columns is-multiline is-centered is-vcentered is-mobile">
