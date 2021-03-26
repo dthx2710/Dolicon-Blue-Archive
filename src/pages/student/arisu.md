@@ -33,17 +33,17 @@ profile:
   height: 152
   artist: DoReMi
   info: >-
-    Member of the Millennium Academy's game development club. 
+    Member of The Game Development Club of Millennium Science School. 
 
 
-    She is an unidentified girl who was found in an abandoned building, and it is impossible to estimate all the information about her, including her age. She enjoys playing games with Midori, Momoi and Yuzu and had become a serious game fanatic. 
+    Arisu is an unidentified girl who was found in the ruins. It is impossible to estimate all the information about her, including her age. She enjoys playing games with Midori, Momoi and Yuzu and had become a serious game fanatic. 
 
 
     She does most of her faltering conversations using lines from retro games.
   hobbies: Video games (Especially RPGs)
   jpname: 天童アリス
   cv: Minami Tanaka (田中美海)
-  club: Game Development Department
+  club: Game Development Club
   fullname: Tendou Arisu
   birthday: Mar 25
   age: 0
