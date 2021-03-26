@@ -25,6 +25,12 @@ export default class MenuTL extends React.Component {
         </div>
         <div className="column is-6">
             <p className="has-text-weight-bold is-bold-light">
+                OOParts
+            </p>
+            <img src={`../../img/ooparts.webp`} alt="ooparts" title="ooparts"/>
+        </div>
+        <div className="column is-6">
+            <p className="has-text-weight-bold is-bold-light">
                 Home Screen
             </p>
             <img src={`../../img/Home_Screen.webp`} alt="Home Screen" title="Home Screen"/>
@@ -76,7 +82,7 @@ export default class MenuTL extends React.Component {
 
 
         <p className="column is-12 is-size-6">
-            All Credits to Xeno#4557 &#38; DemonZVirus#1155 for the original images/translations.
+            All Credits to Xeno#4557 &#38; DemonZVirus#1155 for several images/translations. JP Discord for OOParts infographics
         </p>
       </div>
     )
