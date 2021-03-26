@@ -26,11 +26,13 @@ profile:
   height: 167
   artist: ポップキュン
   info: >-
-    Member of the Special Phenomena Secret Service at Millennium Academy.
+    Member of The Millennium Academy Paranormal Phenomena 
 
 
-    She's a radio-typical girl who doesn't talk much and has trouble reading thoughts. She often stands around in a daze for no reason. However, she works more efficiently than anyone else when she is asked to carry out a mission at a seminar.
-  hobbies: Zoning out, listening to music
+    Eimi does not speak much, and it's very hard to tell what she's thinking about. It's not uncommon to see her staring into space in a daze for no particular reason.
+
+    However, she works more efficiently than anyone else when she is asked to carry out a mission at a seminar.
+  hobbies: Zoning out, music appreciation
   jpname: 和泉元エイミ
   cv: Akane Matsunaga (松永あかね)
   club: Special Phenomena Secret Service
