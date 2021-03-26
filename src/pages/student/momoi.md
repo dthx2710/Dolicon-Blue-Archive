@@ -30,14 +30,14 @@ profile:
   height: 143
   artist: キキ
   info: >-
-    Scenario writer in the game development department of Millennium Academy.
+    Scenario writer for The Game Development Club of Millennium Science School.
 
 
     She and her twin sister, Midori, are literally developing games in the Game Development Department. She has a cheerful personality and was not a good match for her shy sister, but they hit it off with their passion for games and have become great friends.
   hobbies: Video games
   jpname: 才羽モモイ
   cv: Sora Tokui (徳井青空)
-  club: Game Development Department
+  club: Game Development Club
   fullname: Saiba Momoi
   birthday: Dec 8
   age: 15
