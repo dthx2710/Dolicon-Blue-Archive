@@ -25,10 +25,12 @@ profile:
   height: 167
   artist: Hwansang
   info: >-
-    Treasurer of the Millennium Academy Student Council, "Seminar".
+    Treasurer for The Millennium Science School Student Council, "Seminar".
 
 
-    She is one of the most gifted mathematicians in the Millennium, which has a high percentage of science majors, and she oversees the budget management of the Millennium. She is good at arithmetic and has a habit of playing it to calm herself down when she is troubled by complicated things or in the middle of conflicts.
+    She is one of the most gifted mathematicians in the Millennium, which has a high percentage of science majors, and she oversees the budget management of the Millennium. 
+
+    She is good at arithmetic and has a habit of playing it to calm herself down when she is troubled by complicated things or in the middle of conflicts.
   hobbies: Calculation
   jpname: 早瀬ユウカ
   cv: Ran Haruka (春花らん)
