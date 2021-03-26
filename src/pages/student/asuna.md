@@ -25,10 +25,10 @@ profile:
   height: 164
   artist: Mx2j
   info: >-
-    Agent of the Millennium Academy's secret organization, C&C.  
+    Agent of The Millennium Science School secret organization "C&C"
 
 
-    Her callsign is a "zero-one" and she is a veteran of many challenges with her exceptional animal sense and intuition. There are many behaviors that are difficult to understand during the mission, such as trusting people without permission and revealing their identities, and destroying everything suspicious, but the end result is always a good one.
+    Her callsign is "Zero-One" and she is a veteran of many challenges with her exceptional animal sense and intuition. There are many behaviors that are difficult to understand during the mission, such as trusting people without permission and revealing their identities, and destroying everything suspicious, but the end result is always a good one.
   hobbies: Raiding
   jpname: 一之瀬アスナ
   cv: Ikumi Hasegawa (長谷川育美)
