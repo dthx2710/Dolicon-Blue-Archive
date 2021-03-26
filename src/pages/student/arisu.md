@@ -33,7 +33,7 @@ profile:
   height: 152
   artist: DoReMi
   info: >-
-    Member of The Game Development Club of Millennium Science School. 
+    Member of The Millennium Science School Game Development Club. 
 
 
     Arisu is an unidentified girl who was found in the ruins. It is impossible to estimate all the information about her, including her age. She enjoys playing games with Midori, Momoi and Yuzu and had become a serious game fanatic. 
