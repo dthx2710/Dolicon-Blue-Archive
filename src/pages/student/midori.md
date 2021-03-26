@@ -28,14 +28,13 @@ profile:
   height: 143
   artist: キキ
   info: >-
-    Illustrator who belongs to the game development department of Millennium
-    Academy.
+    Illustrator for The Game Development Club of Millennium Science School.
 
 
-    She and her twin sister, Momoi, are literally developing games in the Game Development Department. She was shy and did not get along well with her cheerful sister, but their passion for games made them hit it off and now they are great friends.
+    She and her twin sister, Momoi, are literally developing games in the Game Development Club. She was shy and did not get along well with her cheerful sister, but their passion for games made them hit it off and now they are great friends.
   hobbies: Drawing
   jpname: 才羽ミドリ
-  club: Game Development Department
+  club: Game Development Club
   fullname: Saiba Midori
   birthday: Dec 8
   age: 15
