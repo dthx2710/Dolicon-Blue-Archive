@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Akari
+name: Watame
 image: /img/akari_01.webp
 portrait: /img/Student_Portrait_Akari_Collection.webp
 rarity: "2"

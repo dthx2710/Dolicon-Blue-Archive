@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Watame
+name: Lightning Flash
 image: /img/asuna_01.webp
 portrait: /img/Student_Portrait_Asuna_Collection.webp
 rarity: "1"
