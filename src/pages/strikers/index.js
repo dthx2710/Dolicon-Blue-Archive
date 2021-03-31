@@ -19,7 +19,7 @@ export default class StrikersIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Strikers
+            Operators
           </h1>
               <Strikers />
             </div>

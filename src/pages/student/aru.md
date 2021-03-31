@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Aru
+name: Senchou ver.s1
 image: /img/aru_01.webp
 portrait: /img/Student_Portrait_Aru_Collection.webp
 rarity: "3"

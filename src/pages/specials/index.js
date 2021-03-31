@@ -19,7 +19,7 @@ export default class SpecialsIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Specials
+            Servants
           </h1>
               <Specials />
             </div>
