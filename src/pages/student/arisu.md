@@ -1,9 +1,9 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Arisu
-image: /img/arisu_01.webp
-portrait: /img/Student_Portrait_Arisu_Collection.webp
+name: Fridge
+image: /img/arisu_0401.webp
+portrait: /img/Student_Portrait_Arisu_Collection_0401.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: RG
