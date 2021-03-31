@@ -79,7 +79,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Strikers</p>
+                    <p className="title is-4">Operators</p>
                   </div>
                 </div>
               </Link>
@@ -96,7 +96,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Specials</p>
+                    <p className="title is-4">Servants</p>
                   </div>
                 </div>
               </Link>
@@ -113,7 +113,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Equip Farm</p>
+                    <p className="title is-4">The Grind</p>
                   </div>
                 </div>
               </Link>
@@ -130,7 +130,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Gacha</p>
+                    <p className="title is-4">False Dreams</p>
                   </div>
                 </div>
               </Link>
@@ -147,7 +147,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">FAQ</p>
+                    <p className="title is-4">ElitoFAQ</p>
                   </div>
                 </div>
               </Link>
@@ -164,7 +164,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Translations</p>
+                    <p className="title is-4">EarthRunes</p>
                   </div>
                 </div>
               </Link>
@@ -181,7 +181,7 @@ export const IndexPageTemplate = ({
                     </figure>
                   </div>
                   <div className="card-content">
-                    <p className="title is-4">Reroll</p>
+                    <p className="title is-4">GachaMinMax</p>
                   </div>
                 </div>
               </Link>
