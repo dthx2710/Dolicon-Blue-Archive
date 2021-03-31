@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Eimi
+name: HonkaBadonkas
 image: /img/eimi_01.webp
 portrait: /img/Student_Portrait_Eimi_Collection.webp
 rarity: "3"

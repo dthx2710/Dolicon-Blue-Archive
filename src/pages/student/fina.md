@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Fina
+name: Pina
 image: /img/fina_01.webp
 portrait: /img/Student_Portrait_Fina_Collection.webp
 rarity: "1"

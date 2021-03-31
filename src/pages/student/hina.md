@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Hina
+name: FBI-Bait
 image: /img/hina_01.webp
 portrait: /img/Student_Portrait_Hina_Collection.webp
 rarity: "3"

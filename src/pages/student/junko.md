@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Junko
+name: EnmityMasochist
 image: /img/junko.webp
 portrait: /img/Student_Portrait_Junko_Collection.webp
 rarity: "2"
