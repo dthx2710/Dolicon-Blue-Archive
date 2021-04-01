@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Senchou ver.s1
 image: /img/aru_01.webp
-portrait: /img/Student_Portrait_Aru_Collection.webp
+portrait: /img/Student_Portrait_Aru_Collection_0401.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: SR

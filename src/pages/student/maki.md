@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Maki
 image: /img/maki_01.webp
-portrait: /img/Student_Portrait_Maki_Collection.webp
+portrait: /img/Student_Portrait_Maki_Collection_0401.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: MG

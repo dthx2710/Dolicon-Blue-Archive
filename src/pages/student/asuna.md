@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Lightning Flash
 image: /img/asuna_01.webp
-portrait: /img/Student_Portrait_Asuna_Collection.webp
+portrait: /img/Student_Portrait_Asuna_Collection_0401.webp
 rarity: "1"
 affiliation: Millennium
 weaponType: AR

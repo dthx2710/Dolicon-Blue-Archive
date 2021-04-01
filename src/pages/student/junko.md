@@ -1,9 +1,9 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: EnmityMasochist
+name: Gisla
 image: /img/junko.webp
-portrait: /img/Student_Portrait_Junko_Collection.webp
+portrait: /img/Student_Portrait_Junko_Collection_0401.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: AR

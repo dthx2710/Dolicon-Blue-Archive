@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Watame
 image: /img/akari_01.webp
-portrait: /img/Student_Portrait_Akari_Collection.webp
+portrait: /img/Student_Portrait_Akari_Collection_0401.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: AR
