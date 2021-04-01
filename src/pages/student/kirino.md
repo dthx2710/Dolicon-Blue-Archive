@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Kirino
 image: /img/kirino_01.webp
-portrait: /img/Student_Portrait_Kirino_Collection.webp
+portrait: /img/Student_Portrait_Kirino_Collection_0401.webp
 rarity: "1"
 affiliation: Valkyrie
 weaponType: HG

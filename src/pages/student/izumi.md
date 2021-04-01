@@ -3,7 +3,7 @@ templateKey: student-info
 studentType: Striker
 name: Izumi
 image: /img/izumi_01.webp
-portrait: /img/Student_Portrait_Izumi_Collection.webp
+portrait: /img/Student_Portrait_Izumi_Collection_0401.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: MG
