@@ -2,7 +2,7 @@
 templateKey: student-info
 studentType: Special
 name: Saya
-image: /img/saya_01.webp
+image: /img/saya_0401.webp
 portrait: /img/Student_Portrait_Saya_Collection_0401.webp
 rarity: "3"
 affiliation: Shanhaijing
