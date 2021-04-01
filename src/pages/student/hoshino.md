@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Hoshino
+name: Le Pink Fishe
 image: /img/hoshino_01.webp
 portrait: /img/Student_Portrait_Hoshino_Collection_0401.webp
 rarity: "3"

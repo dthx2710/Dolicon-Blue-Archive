@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Special
-name: Mashiro
+name: Mashiro (TL. White)
 image: /img/mashiro_01.webp
 portrait: /img/Student_Portrait_Mashiro_Collection_0401.webp
 rarity: "3"

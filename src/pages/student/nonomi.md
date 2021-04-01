@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Nonomi
+name: Rambo
 image: /img/nonomi_01.webp
 portrait: /img/Student_Portrait_Nonomi_Collection.webp
 rarity: "2"

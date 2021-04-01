@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Gisla
+name: Gisla-chan
 image: /img/junko.webp
 portrait: /img/Student_Portrait_Junko_Collection_0401.webp
 rarity: "2"

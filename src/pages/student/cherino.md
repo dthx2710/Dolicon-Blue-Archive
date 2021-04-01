@@ -1,9 +1,9 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Cherino
+name: Stalino
 image: /img/cherino_01.webp
-portrait: /img/Student_Portrait_Cherino_Collection.webp
+portrait: /img/Student_Portrait_Cherino_Collection_0401.webp
 rarity: "3"
 affiliation: Red Winter
 weaponType: HG

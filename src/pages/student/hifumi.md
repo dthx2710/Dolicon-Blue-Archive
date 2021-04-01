@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Hifumi
+name: Hifumi Mama
 image: /img/hifumi_01.webp
 portrait: /img/Student_Portrait_Hifumi_Collection_0401.webp
 rarity: "3"

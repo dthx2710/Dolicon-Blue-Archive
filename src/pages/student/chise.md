@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Chise
+name: Rem Alt.
 image: /img/chise_01.webp
 portrait: /img/Student_Portrait_Chise_Collection.webp
 rarity: "2"

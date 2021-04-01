@@ -1,9 +1,9 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Akane
+name: Akane Shinjo
 image: /img/akane_01.webp
-portrait: /img/Student_Portrait_Akane_Collection.webp
+portrait: /img/Student_Portrait_Akane_Collection_0401.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: HG

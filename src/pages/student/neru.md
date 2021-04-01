@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Neru
+name: PMS
 image: /img/neru_01.webp
 portrait: /img/Student_Portrait_Neru_Collection.webp
 rarity: "3"

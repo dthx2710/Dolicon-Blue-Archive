@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Special
-name: BTGothGF
+name: B TT Goth GF
 image: /img/hibiki_01.webp
 portrait: /img/Student_Portrait_Hibiki_Collection.webp
 rarity: "3"

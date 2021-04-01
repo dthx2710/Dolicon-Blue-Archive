@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Tsubaki
+name: TsubaDarkness
 image: /img/tsubaki_01.webp
 portrait: /img/Student_Portrait_Tsubaki_Collection_0401.webp
 rarity: "2"

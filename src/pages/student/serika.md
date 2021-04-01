@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Serika
+name: Serikat
 image: /img/serika_01.webp
 portrait: /img/Student_Portrait_Serika_Collection_0401.webp
 rarity: "2"

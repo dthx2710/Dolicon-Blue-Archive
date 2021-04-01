@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Haruna
+name: Haruna Kai Ni
 image: /img/haruna_01.webp
 portrait: /img/Student_Portrait_Haruna_Collection_0401.webp
 rarity: "3"

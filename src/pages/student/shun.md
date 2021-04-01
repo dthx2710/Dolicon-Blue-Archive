@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Shun
+name: Ara Ara
 image: /img/shun_01.webp
 portrait: /img/Student_Portrait_Shun_Collection.webp
 rarity: "3"

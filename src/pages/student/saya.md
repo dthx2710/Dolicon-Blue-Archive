@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Special
-name: Saya
+name: Rat
 image: /img/saya_0401.webp
 portrait: /img/Student_Portrait_Saya_Collection_0401.webp
 rarity: "3"

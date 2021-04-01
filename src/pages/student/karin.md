@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Special
-name: Karin
+name: Kuro Meido
 image: /img/karin_01.webp
 portrait: /img/Student_Portrait_Karin_Collection.webp
 rarity: "3"

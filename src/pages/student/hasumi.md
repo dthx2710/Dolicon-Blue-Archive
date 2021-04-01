@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Hasumi
+name: Potential Yandere
 image: /img/hasumi_01.webp
 portrait: /img/Student_Portrait_Hasumi_Collection.webp
 rarity: "2"
