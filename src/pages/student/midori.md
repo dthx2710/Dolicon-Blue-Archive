@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Midori
+name: Midori (TL. Green)
 image: /img/midori_01.webp
 portrait: /img/Student_Portrait_Midori_Collection_0401.webp
 rarity: "3"
