@@ -25,7 +25,7 @@ class Reroll extends React.Component {
             Who to Reroll for
         </h3>
         <ul>
-            <li>Should get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/tsurugi'>Tsurugi</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
+            <li>Should get: <Link to='/student/hina'>Hina</Link> / <Link to='/student/aru'>Aru</Link> / <Link to='/student/Iori'>Iori</Link> / <s><Link to='/student/azusa'>Azusa</Link></s></li>
             <li>Nice to get: <Link to='/student/neru'>Neru</Link> / <Link to='/student/karin'>Karin</Link> / <s><Link to='/student/cherino'>Cherino</Link></s> / <Link to='/student/hibiki'>Hibiki</Link> / <Link to='/student/saya'>Saya</Link> / <Link to='/student/hifumi'>Hifumi</Link> / <Link to='/student/maki'>Maki</Link></li> 
             <li>PVP Meta: <Link to='/student/shun'>Shun</Link> / <Link to='/student/iori'>Iori</Link> / <Link to='/student/haruna'>Haruna</Link></li>
             <li>Core 1/2*: <Link to='/student/fina'>Fina</Link> / <Link to='/student/hasumi'>Hasumi</Link> / <Link to='/student/yuuka'>Yuuka</Link> / <Link to='/student/tsubaki'>Tsubaki</Link> / <Link to='/student/fuuka'>Fuuka</Link> / <Link to='/student/hanae'>Hanae</Link> / <Link to='/student/suzumi'>Suzumi</Link> / <Link to='/student/serina'>Serina</Link></li>
