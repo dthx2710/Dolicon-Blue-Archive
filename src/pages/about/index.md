@@ -42,5 +42,7 @@ Done for now, open to requests!
     > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
 * NeptuniaMX
     > Sensei
+* Wikiru.jp
+    > Plenty of info & images sourced from here
 ### Supporters
 Kuni, GetHisAssWukong

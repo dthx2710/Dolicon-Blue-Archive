@@ -65,6 +65,7 @@ export const IndexPageTemplate = ({
     </div>
     <section className="section section--gradient">
       <div className="container">
+        <span>Daily Reset In </span>
         <div className="section">
           <div className="columns is-multiline has-text-centered">
             <div className="column is-2">
