@@ -39,7 +39,7 @@ profile:
     Arisu is an unidentified girl who was found in the ruins. It is impossible to estimate all the information about her, including her age. She enjoys playing games with Midori, Momoi and Yuzu and had become a serious game fanatic. 
 
 
-    She does most of her faltering conversations using lines from retro games.
+    She does most of her awkward conversations using lines from retro games.
   hobbies: Video games (Especially RPGs)
   jpname: 天童アリス
   cv: Minami Tanaka (田中美海)
