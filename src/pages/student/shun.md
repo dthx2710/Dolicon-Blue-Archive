@@ -19,10 +19,10 @@ exSkill:
   exCost: 3
   exText: Increases attack by 153%, attack range by 24.4%, critical rate by 26.3%.
     Reduces attack speed by 18.8% (30 sec).
-normalText: Gain 2 skill cost at the start of battle (Only once per battle).
-enhancedText: Increases attack by 14%.
-subText: While attacking, deal additional damage equivalent to 50.7% of attack
-  against medium-sized enemies.
+normalText: Gain 2 (3.8) skill cost at the start of battle (Only once per battle).
+enhancedText: Increases attack by 14% (26.6％).
+subText: While attacking, deal additional damage equivalent to 50.7% (96.4%) of
+  attack against medium-sized enemies.
 profile:
   height: 174
   artist: 9ml
@@ -36,7 +36,7 @@ profile:
   jpname: 春原シュン
   cv: Shizuka Ito (伊藤 静)
   club: Training and Support Department "Plum Blossom Garden"
-  fullname: Haruhara Shun
+  fullname: Sunohara Shun
   birthday: Feb 5
   age: 0
 ---
