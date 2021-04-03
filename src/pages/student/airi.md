@@ -17,20 +17,24 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 5
-  exText: Deals 265% damage against enemies within a circular area. Also reduces
-    movement speed by 22.8% (20 sec).
-normalText: Every 25 seconds, she reduces an enemy's attack speed by 18.4% (30 sec).
-enhancedText: Increases attack by 14%.
-subText: Increases allies' attack speed by 9.1%.
+  exText: >-
+    Deals 265% (464%) damage against enemies within a circular area. Reduces
+    movement speed by 22.8% (20 sec). 
+
+    Also reduces attack speed by 26.2% (20 sec) after EX level 3
+normalText: Every 25 seconds, she reduces an enemy's attack speed by 18.4%
+  (35.1％) (30 sec).
+enhancedText: Increases attack by 14% (26.6%).
+subText: Increases allies' attack speed by 9.1% (17.3%).
 profile:
   height: 160
   artist: まきあっと
   info: >-
-    Cheerful member of the after-school sweets club at Trinity Academy.
+    Cheerful member of the Afterschool Sweets Club at Trinity Academy.
 
 
     She has a sweet personality and cherishes the time she spends chatting with her friends over sweets. Her favorite food is ice cream, and lately, she has been addicted to chocolate mint flavor.
-  hobbies: Searching for tasty sweets, tea party
+  hobbies: Searching for tasty sweets, Tea parties
   jpname: 栗村アイリ
   cv: Chikako Sugimura (杉村ちか子)
   club: After School Sweets Club
