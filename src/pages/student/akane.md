@@ -17,11 +17,12 @@ combatEnvironment:
   indoor: D
 exSkill:
   exCost: 2
-  exText: Deals 547% damage to an enemy. Also reduces defense by 29% (30 sec).
-normalText: Every 40 seconds, she deals 396% damage to an enemy.
-enhancedText: Increases movement speed by 14%.
+  exText: Deals 547% (EX 5 876%) damage to an enemy. Also reduces defense by 29%
+    (EX3 33.3%, EX5 37.7%) (30 sec).
+normalText: Every 40 seconds, she deals 396% (753%) damage to an enemy.
+enhancedText: Increases movement speed by 14% (26.6%).
 subText: While attacking, there is a 10% chance of reducing the enemy's evasion
-  value by 6.7% (30 seconds) (CD 5 sec).
+  value by 6.7% (12.7%) for 30 seconds (CD 5 sec).
 profile:
   height: 164
   artist: Mx2j
