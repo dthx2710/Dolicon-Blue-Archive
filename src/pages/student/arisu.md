@@ -18,11 +18,11 @@ combatEnvironment:
 exSkill:
   exCost: 6
   exText: |-
-    Deals 311% (Tier 5 591%) damage to enemies in a straight line, 
+    Deals 311% (591%) damage to enemies in a straight line, 
     Damage is multiplied by 1.5× for first charge, and 2× for second.
     After firing, reset energy charge
 normalText: Increase critical rate by 17% for 20 seconds every 25 seconds; and
-  increase energy charge by 1 (max 2)
+  increase energy charge by 1 (up to 2)
 enhancedText: Increases Attack Power by 14%
 subText: >-
   At the same time as the EX skill is activated, Increase critical rate by 12.1%
