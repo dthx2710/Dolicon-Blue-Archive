@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Haruka_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: SG
+equipment:
+  equipment1: Shoes
+  equipment2: Bag
+  equipment3: Charm
 role: Tank
 position: Front
 atkType: Explosion
