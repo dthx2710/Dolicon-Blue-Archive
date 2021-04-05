@@ -19,7 +19,7 @@ export default class ExpIndexPage extends React.Component {
                   padding: "1rem",
                 }}
               >
-                Student Gifts
+                EXP Calculator
               </h1>
               <Exp />
             </div>

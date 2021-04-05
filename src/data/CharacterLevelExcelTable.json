@@ -1,6 +1,11 @@
 {
   "DataList": [
     {
+      "Level": 0,
+      "Exp": 0,
+      "TotalExp": 0
+    },
+    {
       "Level": 1,
       "Exp": 10,
       "TotalExp": 10
