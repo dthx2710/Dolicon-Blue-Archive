@@ -21,7 +21,8 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 4
-  exText: Restores ally's HP by 195% heal potency.
+  exText: Restores ally's HP by 195% (342%) heal potency. Removes 1 debuff from
+    ally starting at EX level 3.
 normalText: Every 40 seconds, increases the evasion of her ally with the lowest
   current HP by 50.9% (30 sec).
 enhancedText: Increases heal potency by 14%.
