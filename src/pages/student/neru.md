@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Neru_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: DualSMG
+equipment:
+  equipment1: Hat
+  equipment2: Badge
+  equipment3: Charm
 role: Attacker
 position: Front
 atkType: Penetration
