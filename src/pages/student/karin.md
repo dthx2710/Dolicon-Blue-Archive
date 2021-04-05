@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Karin_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: SR
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: None
 atkType: Penetration
