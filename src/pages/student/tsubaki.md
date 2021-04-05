@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Tsubaki_Collection.webp
 rarity: "2"
 affiliation: Hyakkiyako
 weaponType: SMG
+equipment:
+  equipment1: Shoes
+  equipment2: Bag
+  equipment3: Charm
 role: Tank
 position: Front
 atkType: Penetration
