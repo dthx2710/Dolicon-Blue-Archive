@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Hanae_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: AR
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Healer
 position: None
 atkType: Explosion
