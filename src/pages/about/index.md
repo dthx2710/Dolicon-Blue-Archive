@@ -37,7 +37,11 @@ Done for now, open to requests!
 
 ### Team, Contributors & Special Thanks
 * Dolicon
-> Site Owner & Programmer
+    > Site Owner & Programmer
+* DoliconBA Staff Team
+    > TL: koyuki
+    > Data Entry & etc: Splay, Revcat, ggasta, CZ
+    > Guide & Writers: None atm, recruiting~
 * Xeno, Lico, Dimbreath
     > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
 * NeptuniaMX

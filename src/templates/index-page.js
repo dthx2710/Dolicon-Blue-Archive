@@ -187,6 +187,40 @@ export const IndexPageTemplate = ({
                 </div>
               </Link>
             </div>
+            <div className="column is-2">
+              <Link to="/map">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
+                      <img
+                        src="../../img/13-8.webp"
+                        alt="Map"
+                      />
+                    </figure>
+                  </div>
+                  <div className="card-content">
+                    <p className="title is-4">Campaign</p>
+                  </div>
+                </div>
+              </Link>
+            </div>
+            <div className="column is-2">
+              <Link to="/exp">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
+                      <img
+                        src="../../img/Report_Icon_Exp_4.webp"
+                        alt="Exp"
+                      />
+                    </figure>
+                  </div>
+                  <div className="card-content">
+                    <p className="title is-4">Exp Calculator</p>
+                  </div>
+                </div>
+              </Link>
+            </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
