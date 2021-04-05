@@ -22,7 +22,7 @@ combatEnvironment:
 exSkill:
   exCost: 2
   exText: Dashes in a specified direction and increases evasion by 43.4% and
-    attack speed by 30.2% (30 sec).
+    attack speed by 30.2% (57.3% at EX 5) (30 sec).
 normalText: Deals 219% damage to one enemy every 20 seconds.
 enhancedText: Increases critical damage by 14%.
 subText: Upon using her EX skill, increases attack speed by 20.1%. (30 sec).
