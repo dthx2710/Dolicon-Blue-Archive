@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Fina_Collection.webp
 rarity: "1"
 affiliation: Hyakkiyako
 weaponType: MG
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Front
 atkType: Penetration
