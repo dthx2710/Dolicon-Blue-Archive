@@ -7,6 +7,10 @@ portrait: /img/student_portrait_izuna_collection.png
 rarity: "3"
 affiliation: Hyakkiyako
 weaponType: SMG
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Front
 atkType: Mystic
