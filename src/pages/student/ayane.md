@@ -21,8 +21,8 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 4
-  exText: Recover 118% (224% at EX 5) heal potency to allies within a specified
-    circular area.
+  exText: After a short delay, recover 118% (224% at EX 5) heal potency to allies
+    within a specified circular area.
 normalText: Every 30 seconds, increases critical resistance of allies within a
   specified circular area by 15.5%
 enhancedText: Increases heal potency by 14%.
