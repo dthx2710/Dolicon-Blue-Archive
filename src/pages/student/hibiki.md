@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Hibiki_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: GL
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Supporter
 position: None
 atkType: Explosion
