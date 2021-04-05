@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Arisu_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: RG
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Charm
 role: Attacker
 position: Back
 atkType: Mystic
