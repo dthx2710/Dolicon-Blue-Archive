@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Aru_Collection.webp
 rarity: "3"
 affiliation: Gehenna
 weaponType: SR
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Back
 atkType: Explosion
