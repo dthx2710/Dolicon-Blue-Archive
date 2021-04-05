@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Shun_Collection.webp
 rarity: "3"
 affiliation: Shanhaijing
 weaponType: SR
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Back
 atkType: Explosion
