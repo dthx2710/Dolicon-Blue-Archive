@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Sumire_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: SG
+equipment:
+  equipment1: Hat
+  equipment2: Bag
+  equipment3: Charm
 role: Attacker
 position: Front
 atkType: Penetration
