@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Asuna_Collection.webp
 rarity: "1"
 affiliation: Millennium
 weaponType: AR
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Mystic
