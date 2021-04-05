@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Saya_Collection.webp
 rarity: "3"
 affiliation: Shanhaijing
 weaponType: HG
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Supporter
 position: None
 atkType: Explosion
