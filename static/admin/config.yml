@@ -28,6 +28,15 @@ collections:
       - {label: "Rarity", name: "rarity", widget: "select", options: ["1", "2", "3"]}
       - {label: "Affiliation", name: "affiliation", widget: "select", options: ["Abydos", "Trinity", "Gehenna", "Millennium", "Red Winter", "Valkyrie", "Hyakkiyako", "Shanhaijing"], required: false, default: ""}
       - {label: "Weapon Type", name: "weaponType", widget: "select", options: ["HG", "SMG", "AR", "SR", "SG", "MG", "GL", "RG", "RF", "RL", "DualSMG", "DualSG", "MountMG"]}
+      - label: "Equipment"
+        name: "equipment"
+        widget: "object"
+        required: false
+        default: ""
+        fields:
+        - {label: "Equipment 1", name: "equipment1", widget: "select", options: ["Hat", "Gloves", "Shoes"], required: false, default: ""}
+        - {label: "Equipment 2", name: "equipment2", widget: "select", options: ["Bag", "Hairpin", "Badge"], required: false, default: ""}
+        - {label: "Equipment 3", name: "equipment3", widget: "select", options: ["Necklace", "Watch", "Charm"], required: false, default: ""}
       - {label: "Role", name: "role", widget: "select", options: ["Attacker", "Supporter", "Tank", "Healer"], required: false, default: ""}
       - {label: "Position", name: "position", widget: "select", options: ["Front", "Middle", "Back", "None"], required: false, default: ""}
       - {label: "ATK Type", name: "atkType", widget: "select", options: ["Penetration", "Explosion", "Mystic"]}
