@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Fuuka_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: SMG
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Healer
 position: None
 atkType: Explosion
