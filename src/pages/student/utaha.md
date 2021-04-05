@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Utaha_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: SMG
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: None
 atkType: Penetration
