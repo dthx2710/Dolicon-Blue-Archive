@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Kayoko_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: HG
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Supporter
 position: Middle
 atkType: Explosion
