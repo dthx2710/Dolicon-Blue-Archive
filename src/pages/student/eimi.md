@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Eimi_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: SG
+equipment:
+  equipment1: Shoes
+  equipment2: Bag
+  equipment3: Charm
 role: Tank
 position: Front
 atkType: Explosion
