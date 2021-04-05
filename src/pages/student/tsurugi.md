@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Tsurugi_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: DualSG
+equipment:
+  equipment1: Gloves
+  equipment2: Bag
+  equipment3: Charm
 role: Attacker
 position: Front
 atkType: Penetration
