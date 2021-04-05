@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Momoi_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: AR
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Penetration
