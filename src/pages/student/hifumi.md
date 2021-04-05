@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Hifumi_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: AR
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Supporter
 position: Middle
 atkType: Penetration
