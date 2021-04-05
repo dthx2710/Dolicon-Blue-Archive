@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Junko_Collection.webp
 rarity: "2"
 affiliation: Gehenna
 weaponType: AR
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Penetration
