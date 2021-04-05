@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Juri_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: SG
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Supporter
 position: None
 atkType: Explosion
