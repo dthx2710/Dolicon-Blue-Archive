@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Shiroko_Collection.webp
 rarity: "3"
 affiliation: Abydos
 weaponType: AR
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Explosion
