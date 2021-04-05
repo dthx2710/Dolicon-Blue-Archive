@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Yuuka_Collection.webp
 rarity: "2"
 affiliation: Millennium
 weaponType: SMG
+equipment:
+  equipment1: Shoes
+  equipment2: Badge
+  equipment3: Charm
 role: Tank
 position: Front
 atkType: Explosion
