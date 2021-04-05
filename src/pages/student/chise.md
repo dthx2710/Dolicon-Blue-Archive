@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Chise_Collection.webp
 rarity: "2"
 affiliation: Hyakkiyako
 weaponType: GL
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Mystic
