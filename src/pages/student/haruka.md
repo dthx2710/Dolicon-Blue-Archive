@@ -21,7 +21,8 @@ combatEnvironment:
   urban: C
 exSkill:
   exCost: 4
-  exText: Deals 821% damage to enemies with a fan-shaped area as she moves forward.
+  exText: Fires repeatedly dealing a total of 821% (1560%) damage to enemies with
+    a fan-shaped area as she moves forward.
 normalText: Every 20 seconds, she increases her defense by 18.9%. (20 sec)
 enhancedText: Increases maximum HP by 14%.
 subText: When attacked, 5% chance to increase defense by 18.1% (15 sec) (CD 10 sec).
