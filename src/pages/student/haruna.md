@@ -21,8 +21,9 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 4
-  exText: Deals 506% damage to enemies in a straight line. Damage is reduced by
-    10% for each enemy pierced (30% min). Cost is reduced to 3 at EX level 5.
+  exText: Deals 506% (887%) damage to enemies in a straight line. Damage is
+    reduced by 10% for each enemy pierced (30% min). Cost is reduced to 3 at EX
+    level 5.
 normalText: Deals 200% damage to an enemy every 30 seconds.
 enhancedText: Increases HP by 14%.
 subText: Increases attack by 10% while not moving.
