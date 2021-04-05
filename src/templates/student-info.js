@@ -13,6 +13,9 @@ export const StudentInfoTemplate = ({
   affiliation,
   studentType,
   weaponType,
+  equipment1,
+  equipment2,
+  equipment3,
   role,
   position,
   atkType,
@@ -147,8 +150,25 @@ export const StudentInfoTemplate = ({
                     <img src={`../../img/Combat_${indoor}.webp`} alt={indoor} title={indoor} width="40"/>
                   </div>
                 </div>
+              </div>
+              
+              <div className="column is-12">
+              <hr/>
+                <p className="has-text-weight-bold is-bold-light">Equipment</p>
+                <div className="columns">
+                  <div className="column">
+                    <img src={`../../img/Equipment_Icon_${equipment1}_Tier1.webp`} alt={equipment1} title={equipment1} width="100"/>
+                  </div>
+                    <div className="column">
+                    <img src={`../../img/Equipment_Icon_${equipment2}_Tier1.webp`} alt={equipment2} title={equipment2} width="100"/>
+                  </div>
+                  <div className="column">
+                    <img src={`../../img/Equipment_Icon_${equipment3}_Tier1.webp`} alt={equipment3} title={equipment3} width="100"/>
+                  </div>
+                </div>
                 <hr/>
               </div>
+
               <div className="column is-12">
                 <div className="columns">
                   <div className="column is-4">
@@ -256,6 +276,9 @@ StudentInfoTemplate.propTypes = {
   affiliation: PropTypes.string,
   studentType: PropTypes.string,
   weaponType: PropTypes.string,
+  equipment1: PropTypes.string,
+  equipment2: PropTypes.string,
+  equipment3: PropTypes.string,
   role: PropTypes.string,
   position: PropTypes.string,
   atkType: PropTypes.string,
@@ -298,6 +321,9 @@ const StudentInfo = ({ data }) => {
         affiliation={info.frontmatter.affiliation}
         studentType={info.frontmatter.studentType}
         weaponType={info.frontmatter.weaponType}
+        equipment1={info.frontmatter.equipment.equipment1}
+        equipment2={info.frontmatter.equipment.equipment2}
+        equipment3={info.frontmatter.equipment.equipment3}
         role={info.frontmatter.role}
         position={info.frontmatter.position}
         atkType={info.frontmatter.atkType}
@@ -351,6 +377,11 @@ export const pageQuery = graphql`
         affiliation
         studentType
         weaponType
+        equipment {
+          equipment1
+          equipment2
+          equipment3
+        }
         role
         position
         atkType
