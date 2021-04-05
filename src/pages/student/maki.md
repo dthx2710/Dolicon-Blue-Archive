@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Maki_Collection.webp
 rarity: "3"
 affiliation: Millennium
 weaponType: MG
+equipment:
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Back
 atkType: Penetration
