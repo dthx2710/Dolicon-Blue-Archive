@@ -140,7 +140,7 @@ const Navbar = class extends React.Component {
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-item navbar-link" onClick={() => this.toggleToolsDropdown()} onKeyDown={() => this.toggleToolsDropdown()} role="button" tabIndex="0">Tools</div>
                 <div className={`navbar-dropdown ${this.state.toolsDropdownActiveClass}`}>
-                  <Link className="navbar-item dropdown-item" to="/exp">EXP Calculator</Link>
+                  <Link className="navbar-item dropdown-item" to="/">EXP Calculator</Link>
                   <Link className="navbar-item dropdown-item" to="/equip">Equip Drop Optimiser</Link>
                   <Link className="navbar-item dropdown-item" to="/map">Campaign Map Info</Link>
                 </div>

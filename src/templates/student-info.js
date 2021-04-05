@@ -151,7 +151,6 @@ export const StudentInfoTemplate = ({
                   </div>
                 </div>
               </div>
-              
               <div className="column is-12">
               <hr/>
                 <p className="has-text-weight-bold is-bold-light">Equipment</p>
@@ -168,7 +167,6 @@ export const StudentInfoTemplate = ({
                 </div>
                 <hr/>
               </div>
-
               <div className="column is-12">
                 <div className="columns">
                   <div className="column is-4">

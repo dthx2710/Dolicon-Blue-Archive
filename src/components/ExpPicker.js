@@ -5,6 +5,7 @@ const ExpPicker = (props) => {
   const [levelInputs, setLevelInputs] = useState({currentLvl:"",currentExp:"",goalLvl:"",exp1:true,exp2:true,exp3:true,exp4:true})
     useEffect(()=>{
       props.expData({...levelInputs, expType:expType});
+      console.log('passing data to parent')
     },levelInputs)
   return (
     <div>
@@ -13,7 +14,6 @@ const ExpPicker = (props) => {
           <li
             className={`${expType === "Report" ? "is-active" : ""}`}
             onClick={() => { setExpType("Report"); setLevelInputs({currentLvl:"",currentExp:"",goalLvl:"",exp1:true,exp2:true,exp3:true,exp4:true})}}
-            //need to find a way to clear to default
           >
             <a>Student</a>
           </li>
