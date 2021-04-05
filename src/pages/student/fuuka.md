@@ -21,8 +21,8 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 5
-  exText: Distributes food to her allies and they move to eat it, recovering by
-    109% heal potency.
+  exText: Places a cooking pot that allies in the area will run to, recovering
+    109% (207%) heal potency.
 normalText: Every 20 seconds, increases the defense of an ally with the highest
   maximum HP by 18.1% (16 sec).
 enhancedText: Increases heal potency by 14%.

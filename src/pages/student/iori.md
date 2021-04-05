@@ -21,7 +21,8 @@ combatEnvironment:
   urban: C
 exSkill:
   exCost: 3
-  exText: Deals 350% damage to an enemy and the enemy behind it in a fan-shape.
+  exText: Fires 3 shots that deal 350% damage to an enemy and the enemy behind it
+    in a fan-shape. Dashes in a random direction between each shot.
 normalText: Deals 229% damage to an enemy every 25 seconds.
 enhancedText: Increases accuracy by 14%.
 subText: While not hidden, increases damage by 22.6% of attack.
