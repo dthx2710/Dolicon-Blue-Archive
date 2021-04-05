@@ -12,7 +12,6 @@ class Exp extends React.Component {
   expData(data) {
     if (this.validation(data)[0]) this.setState({results:this.calculate(data)});
     this.setState({...data, valid: this.validation(data)});
-    console.log('updating new state data', data)
   }
 
   //validation function
@@ -35,7 +34,6 @@ class Exp extends React.Component {
       if (currentLvl > 45 || goalLvl > 45) return [false, "Max Equipment level is 45"]
       //current exp overflow
     }
-    console.log('validation passed')
     return [true, '']
   }
 
@@ -82,7 +80,6 @@ class Exp extends React.Component {
         }
       }
     }
-    console.log('returning calculations')
     return {qty, creditCost}
   }
 

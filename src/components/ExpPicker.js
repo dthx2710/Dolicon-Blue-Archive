@@ -5,7 +5,6 @@ const ExpPicker = (props) => {
   const [levelInputs, setLevelInputs] = useState({currentLvl:"",currentExp:"",goalLvl:"",exp1:true,exp2:true,exp3:true,exp4:true})
     useEffect(()=>{
       props.expData({...levelInputs, expType:expType});
-      console.log('passing data to parent')
     },[levelInputs,expType])
   return (
     <div>
