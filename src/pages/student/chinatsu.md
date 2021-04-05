@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Chinatsu_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: HG
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Healer
 position: None
 atkType: Penetration
