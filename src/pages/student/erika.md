@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Erika_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: SG
+equipment:
+  equipment1:
+  equipment2:
+  equipment3:
 role: Attacker
 position: Front
 atkType: Explosion

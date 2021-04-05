@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Mari_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: HG
+equipment:
+  equipment1:
+  equipment2:
+  equipment3:
 role: Supporter
 position: None
 atkType: Mystic

@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Cherino_Collection.webp
 rarity: "3"
 affiliation: Red Winter
 weaponType: HG
+equipment:
+  equipment1:
+  equipment2:
+  equipment3: 
 role: Attacker
 position: Middle
 atkType: Penetration

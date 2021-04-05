@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Kirino_Collection.webp
 rarity: "1"
 affiliation: Valkyrie
 weaponType: HG
+equipment:
+  equipment1:
+  equipment2:
+  equipment3:
 role: Attacker
 position: Middle
 atkType: Explosion

@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Koharu_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: SR
+equipment:
+  equipment1:
+  equipment2:
+  equipment3:
 role: Supporter
 position: Back
 atkType: Mystic
