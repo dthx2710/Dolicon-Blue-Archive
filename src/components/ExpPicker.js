@@ -6,7 +6,7 @@ const ExpPicker = (props) => {
     useEffect(()=>{
       props.expData({...levelInputs, expType:expType});
       console.log('passing data to parent')
-    },levelInputs)
+    },[levelInputs,expType])
   return (
     <div>
       <div className="expTab tabs is-centered">

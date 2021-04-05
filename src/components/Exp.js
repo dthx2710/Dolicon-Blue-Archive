@@ -12,7 +12,7 @@ class Exp extends React.Component {
   expData(data) {
     if (this.validation(data)[0]) this.setState({results:this.calculate(data)});
     this.setState({...data, valid: this.validation(data)});
-    console.log('updating new state data')
+    console.log('updating new state data', data)
   }
 
   //validation function
