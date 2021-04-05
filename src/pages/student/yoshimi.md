@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Yoshimi_Collection.webp
 rarity: "1"
 affiliation: Trinity
 weaponType: AR
+equipment:
+  equipment1: Hat
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: None
 atkType: Penetration
