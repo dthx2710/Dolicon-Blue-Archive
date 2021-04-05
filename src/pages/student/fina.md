@@ -21,9 +21,9 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Ignores her attack delay 3 times and increases her attack by 29.1% (30
-    sec). Reloads immediately upon using this skill. Ignores attack delay 4
-    times at EX level 3.
+  exText: Ignores her attack delay 3 times and increases her attack by 29.1%
+    (46.6%) for 30 seconds. Reloads immediately upon using this skill. Ignores
+    attack delay 4 times at EX level 3, 5 times at EX level 5.
 normalText: When her HP is below 20%, she restores her HP by 355% healing power
   (Only once per battle).
 enhancedText: Increases critical rate by 14%.
