@@ -7,6 +7,10 @@ portrait: /img/Student_Portrait_Airi_Collection.webp
 rarity: "2"
 affiliation: Trinity
 weaponType: SMG
+equipment:
+  equipment1: Shoes
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Supporter
 position: None
 atkType: Explosion
