@@ -21,7 +21,8 @@ combatEnvironment:
   indoor: S
 exSkill:
   exCost: 3
-  exText: Deal 742% damage to enemies within a fan-shaped area.
+  exText: Fires 3 shots, each dealing 742% (1410%) damage to enemies within a
+    fan-shaped area. Dashes in a random direction between each shot.
 normalText: Increases attack by 25.2% every 40 seconds (20 sec).
 enhancedText: Increases HP by 14%.
 subText: Increases defense by 13.4% when not in CC state.
