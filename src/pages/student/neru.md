@@ -21,10 +21,11 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 2
-  exText: Deals 476% damage to an enemy. When raged, increase damage by 1.5×.
+  exText: Deals 476% (762%) damage to an enemy. When enraged, increase damage by
+    1.5×. Multiplier increases to 1.6× at EX level 3, and 1.7× at EX level 5.
 normalText: Activate rage every 30 seconds. Increases evasion by 17.8% (20 sec).
 enhancedText: Increases critical damage rate by 14%.
-subText: When raged, increase attack by 16.8% (30 sec).
+subText: When enraged, increase attack by 16.8% (30 sec).
 profile:
   height: 145
   artist: Mx2j
