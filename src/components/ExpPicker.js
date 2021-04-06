@@ -29,15 +29,15 @@ const ExpPicker = (props) => {
           <div className="field-body">
             <div className="field">
               <p className="control is-expanded">
-                <input className="input row" type="number" min="1" placeholder="Current Level" value={levelInputs.currentLvl} onChange={(ev)=>setLevelInputs({...levelInputs,currentLvl:(ev.target.value)})}/>
+                <input className="input row expInput" type="number" min="1" placeholder="Current Level" value={levelInputs.currentLvl} onChange={(ev)=>setLevelInputs({...levelInputs,currentLvl:(ev.target.value)})}/>
               </p>
             </div>
             <div className="field">
-              <input className="input row" type="number" min="0" placeholder="Current EXP"  value={levelInputs.currentExp} onChange={(ev)=>setLevelInputs({...levelInputs,currentExp:(ev.target.value)})}/>
+              <input className="input row expInput" type="number" min="0" placeholder="Current EXP"  value={levelInputs.currentExp} onChange={(ev)=>setLevelInputs({...levelInputs,currentExp:(ev.target.value)})}/>
             </div>
             <div className="field">
               <p className="control is-expanded">
-                <input className="input row" type="number" min="1" placeholder="Goal Level"  value={levelInputs.goalLvl} onChange={(ev)=>setLevelInputs({...levelInputs,goalLvl:(ev.target.value)})}/>
+                <input className="input row expInput" type="number" min="1" placeholder="Goal Level"  value={levelInputs.goalLvl} onChange={(ev)=>setLevelInputs({...levelInputs,goalLvl:(ev.target.value)})}/>
               </p>
             </div>
           </div>
