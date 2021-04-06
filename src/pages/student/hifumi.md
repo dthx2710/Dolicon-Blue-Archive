@@ -22,7 +22,8 @@ combatEnvironment:
 exSkill:
   exCost: 5
   exText: Summons a Peroro stuffed doll with 160% of Hifumi's HP within a
-    specified area, dealing 101% damage while taunting enemies for 3.4 seconds.
+    specified area, dealing 101% (386%) damage while taunting enemies for 3.4
+    seconds. Taunt duration increases to 3.9 seconds at EX level 5.
 normalText: Every 35 seconds, deals 212% damage to an enemy and reduces its
   accuracy by 16.8%.
 enhancedText: Increases maximum HP by 14%.
