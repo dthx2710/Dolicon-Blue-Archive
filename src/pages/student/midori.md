@@ -14,11 +14,11 @@ equipment:
 role: Attacker
 position: Back
 atkType: Penetration
-defType: Heavy Armour
+defType: Light Armour
 combatEnvironment:
-  outdoor: B
-  indoor: B
-  urban: A
+  outdoor: S
+  indoor: D
+  urban: B
 exSkill:
   exCost: 3
   exText: Damages up to 5 enemies in order, inflicting 119% (191%) damage per hit.
