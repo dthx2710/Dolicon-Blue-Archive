@@ -10,14 +10,19 @@ class Exp extends React.Component {
     this.expData = this.expData.bind(this);
   }
   expData(data) {
-    if (this.validation(data)[0]) this.setState({results:this.calculate(data)});
-    this.setState({...data, valid: this.validation(data)});
+    if (this.validation(data)[0]) this.setState({ results: this.calculate(data) });
+    this.setState({ ...data, valid: this.validation(data) });
   }
 
   //validation function
   validation({ currentLvl, currentExp, goalLvl, expType }) {
+    currentLvl = parseInt(currentLvl | 0)
+    currentExp = parseInt(currentExp | 0)
+    goalLvl = parseInt(goalLvl | 0)
     //General Validations
-    //goal>=current
+    //error number
+    if (currentLvl < 0) return [false, "Level cannot be below zero"]
+    //goal>current
     if (goalLvl <= currentLvl) return [false, "Goal level must be higher level than current level"]
 
     //Student Specific Validations
@@ -25,7 +30,7 @@ class Exp extends React.Component {
       //maxlv 70
       if (currentLvl > 70 || goalLvl > 70) return [false, "Max Student level is 70"]
       //current exp overflow
-      if (currentExp>=studentExpData.DataList[currentLvl].Exp) return [false, "Current EXP is higher than current level's total exp"]
+      if (currentExp >= studentExpData.DataList[currentLvl].Exp) return [false, "Current EXP is higher than current level's total exp"]
     }
 
     //Equipment Specific Validations
@@ -33,13 +38,13 @@ class Exp extends React.Component {
       //maxlv 45
       if (currentLvl > 45 || goalLvl > 45) return [false, "Max Equipment level is 45"]
       //current exp overflow
-      if (currentExp>=equipmentExpData.DataList[currentLvl].Exp) return [false, "Current EXP is higher than current level's total exp"]
+      if (currentExp >= equipmentExpData.DataList[currentLvl].Exp) return [false, "Current EXP is higher than current level's total exp"]
     }
     return [true, '']
   }
 
   //calculation function
-  calculate(data) { 
+  calculate(data) {
     const { currentLvl, currentExp, goalLvl, expType, exp1, exp2, exp3, exp4 } = data
     let exp, xpTable, credPerXp
     if (expType === "Report") {
@@ -52,40 +57,35 @@ class Exp extends React.Component {
       xpTable = [90, 360, 1440, 5760]
       credPerXp = 4
     }
-    const startingExp = exp[currentLvl-1]['TotalExp'] + parseInt(currentExp|0)
-    const goalExp = exp[goalLvl-1]['TotalExp']
+    const startingExp = exp[currentLvl - 1]['TotalExp'] + parseInt(currentExp | 0)
+    const goalExp = exp[goalLvl - 1]['TotalExp']
     const requiredExp = goalExp - startingExp
     let creditCost = 0
     let xpCheck = [exp1, exp2, exp3, exp4]
-    let qty = [0,0,0,0]
+    let qty = [0, 0, 0, 0]
     let remainderxp = requiredExp
     let trueCount = 0
-    console.log('Starting EXP:',startingExp)
-    console.log('Goal EXP:',goalExp)
-    console.log('Required EXP:',requiredExp)
-    for (let i=3; i >= 0 ; i--)
-    {
-      if (xpCheck[i]===true) ++trueCount
+    for (let i = 3; i >= 0; i--) {
+      if (xpCheck[i] === true) ++trueCount
     }
-    for (let i=3; i >= 0 ; i--)
-    {
-      if (xpCheck[i]===true){
+    for (let i = 3; i >= 0; i--) {
+      if (xpCheck[i] === true) {
         --trueCount
-        if (trueCount===0){
-          qty[i] = Math.ceil(remainderxp/xpTable[i])
-          if (expType === "Equipment" || goalLvl == 70) creditCost += Math.ceil(remainderxp*credPerXp)
-          if (expType === "Report" && goalLvl < 70) creditCost += Math.ceil((qty[i]*xpTable[i])*credPerXp)
+        if (trueCount === 0) {
+          qty[i] = Math.ceil(remainderxp / xpTable[i])
+          if (expType === "Equipment" || goalLvl == 70) creditCost += Math.ceil(remainderxp * credPerXp)
+          if (expType === "Report" && goalLvl < 70) creditCost += Math.ceil((qty[i] * xpTable[i]) * credPerXp)
         }
-        else{
-          if (requiredExp/xpTable[i]>=1){
-            qty[i] = Math.floor(remainderxp/xpTable[i])
-            remainderxp = remainderxp%xpTable[i]
-            creditCost += Math.ceil((qty[i]*xpTable[i])*credPerXp)
+        else {
+          if (requiredExp / xpTable[i] >= 1) {
+            qty[i] = Math.floor(remainderxp / xpTable[i])
+            remainderxp = remainderxp % xpTable[i]
+            creditCost += Math.ceil((qty[i] * xpTable[i]) * credPerXp)
           }
         }
       }
     }
-    return {qty, creditCost}
+    return { qty, creditCost }
   }
 
   render() {
