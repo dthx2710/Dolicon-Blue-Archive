@@ -21,8 +21,8 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 5
-  exText: Deals 746% damage to enemies in a straight line. Reduces own current HP
-    by 25.7%.
+  exText: Deals 746% (1417%) damage to enemies in a straight line. Reduces own
+    current HP by 25.7%.
 normalText: When HP is 20% or less, grants invulnerability (12.8 sec) (Only once
   per battle).
 enhancedText: Increases her evasion by 14%.
