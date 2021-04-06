@@ -21,8 +21,9 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 3
-  exText: Generates a shield and increases allies' defense within a specified
-    circular area by 16.3% (30 sec).
+  exText: Creates a piece of cover and increases allies' defense within the area
+    by 16.3% (26.2%) (30 secs). Increases the cover's HP by 20.1% of Shimiko's
+    HP at EX level 3, and 38% at EX level 5.
 normalText: Every 35 seconds, generates a shield with strength equivalent to
   119% heal potency for an ally with the lowest HP (16 sec).
 enhancedText: Increases heal potency by 14%.
