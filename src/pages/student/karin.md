@@ -21,8 +21,9 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 4
-  exText: Deals 687% damage to the specified target. If the target is very large,
-    it deals 481% additional damage.
+  exText: Deals 687% (1099%) damage to the specified target. If the target is very
+    large, it deals 481% additional damage. Bonus damage against very large
+    targets increases to 553% at EX level 3, and 625% at EX level 5.
 normalText: Every 40 seconds, deals 223% damage to an enemy, 50% chance to
   inflict stun (3.1s).
 enhancedText: Increases attack by 14%.
