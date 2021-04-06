@@ -21,7 +21,8 @@ combatEnvironment:
   indoor: D
 exSkill:
   exCost: 3
-  exText: Moves to the specified location and increases attack speed by 27.4% (30 sec).
+  exText: Moves to the specified location and increases attack speed by 27.4%
+    (52.1%) (30 sec).
 normalText: Deals 443% damage to a certain circular area after 6 attacks.
 enhancedText: Increases critical damage by 14%
 subText: Upon using her EX skill, increases attack by 20.1%. (30 sec).
