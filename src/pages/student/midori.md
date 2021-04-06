@@ -41,6 +41,7 @@ profile:
     She and her twin sister, Momoi, are literally developing games in the Game Development Club. She was shy and did not get along well with her cheerful sister, but their passion for games made them hit it off and now they are great friends.
   hobbies: Drawing
   jpname: 才羽ミドリ
+  cv: Yuuki Takada (高田憂希)
   club: Game Development Club
   fullname: Saiba Midori
   birthday: Dec 8
