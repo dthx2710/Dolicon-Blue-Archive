@@ -21,7 +21,7 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 5
-  exText: Deals 432% damage to enemies within a fan-shaped area.
+  exText: Deals 432% (821%) damage to enemies within a fan-shaped area.
 normalText: Every 30 seconds, her attack is increased by 21.8% (20 sec).
 enhancedText: Increases critical damage by 14%.
 subText: While attacking, she deals 6.7% additional damage against large enemies.
