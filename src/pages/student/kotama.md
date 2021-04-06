@@ -21,7 +21,7 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 3
-  exText: Increases allies' attack in a circle by 24.9% (30 sec).
+  exText: Increases allies' attack in a circle by 24.9% (47.4%) (30 sec).
 normalText: Every 30 seconds, deal 237% damage to an enemy while reducing its
   attack by 18.9% (20 sec).
 enhancedText: Increases accuracy by 14%.
