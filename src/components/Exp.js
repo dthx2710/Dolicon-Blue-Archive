@@ -33,6 +33,7 @@ class Exp extends React.Component {
       //maxlv 45
       if (currentLvl > 45 || goalLvl > 45) return [false, "Max Equipment level is 45"]
       //current exp overflow
+      if (currentExp>=equipmentExpData.DataList[currentLvl].Exp) return [false, "Current EXP is higher than current level's total exp"]
     }
     return [true, '']
   }
@@ -51,7 +52,7 @@ class Exp extends React.Component {
       xpTable = [90, 360, 1440, 5760]
       credPerXp = 4
     }
-    const startingExp = exp[currentLvl-1]['TotalExp'] + currentExp
+    const startingExp = exp[currentLvl-1]['TotalExp'] + parseInt(currentExp|0)
     const goalExp = exp[goalLvl-1]['TotalExp']
     const requiredExp = goalExp - startingExp
     let creditCost = 0
@@ -59,6 +60,9 @@ class Exp extends React.Component {
     let qty = [0,0,0,0]
     let remainderxp = requiredExp
     let trueCount = 0
+    console.log('Starting EXP:',startingExp)
+    console.log('Goal EXP:',goalExp)
+    console.log('Required EXP:',requiredExp)
     for (let i=3; i >= 0 ; i--)
     {
       if (xpCheck[i]===true) ++trueCount
