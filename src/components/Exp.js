@@ -73,7 +73,8 @@ class Exp extends React.Component {
         --trueCount
         if (trueCount===0){
           qty[i] = Math.ceil(remainderxp/xpTable[i])
-          creditCost += Math.ceil(remainderxp*credPerXp)
+          if (expType === "Equipment" || goalLvl == 70) creditCost += Math.ceil(remainderxp*credPerXp)
+          if (expType === "Report" && goalLvl < 70) creditCost += Math.ceil((qty[i]*xpTable[i])*credPerXp)
         }
         else{
           if (requiredExp/xpTable[i]>=1){
