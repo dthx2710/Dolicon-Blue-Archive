@@ -21,8 +21,9 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 6
-  exText: Deals 349% damage and fear on enemies around her in a circular area (3.9
-    sec).
+  exText: Deals 349% (558%) damage and fear on enemies around her in a circular
+    area (3.9 sec). Duration increases to 4.5 seconds at EX level 3, and 5.1
+    seconds at EX level 5.
 normalText: Every 20 seconds, deals 132% damage to one enemy, 30% chance of
   inflicting fear (3.6 sec).
 enhancedText: Increases crowd control power by 14%.
