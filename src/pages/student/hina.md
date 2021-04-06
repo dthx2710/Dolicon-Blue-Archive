@@ -21,8 +21,8 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 7
-  exText: Deals damage equal to 636% of her attack power against enemies within a
-    fan-shaped area.
+  exText: Deals damage equal to 636% (1208%) of her attack power against enemies
+    within a fan-shaped area.
 normalText: When ammo is depleted, immediately reloads and increases the attack
   by 21% (16 sec).
 enhancedText: Increases attack speed by 14%.

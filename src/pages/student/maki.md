@@ -21,7 +21,8 @@ combatEnvironment:
   indoor: C
 exSkill:
   exCost: 5
-  exText: Deal 676% damage to an enemy and increases attack by 41.9% (30 sec).
+  exText: Deal 676% (1081%) damage to an enemy and increases attack by 41.9% (30
+    sec). Attack buff increases to 48.2% at EX level 3, and 54.5% at EX level 5.
 normalText: Every 25 seconds, mark and reduce an enemy's defense by 18.3% (15 sec).
 enhancedText: Increases attack speed by 14%.
 subText: While attacking a marked enemy, deal additional damage equivalent to

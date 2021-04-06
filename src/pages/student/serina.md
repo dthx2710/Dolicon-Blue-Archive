@@ -22,7 +22,8 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 2
-  exText: Moves one ally to a specified area and recover 120% heal potency.
+  exText: Drops a healing pickup that draws one ally to a specified area and
+    recover 120% (228%) heal potency.
 normalText: Every 35 seconds, recover 94% heal potency to one ally.
 enhancedText: Increases heal potency by 14%.
 subText: Increases allies' crowd control resistance by 9.1%.

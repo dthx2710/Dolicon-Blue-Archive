@@ -21,7 +21,7 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 4
-  exText: Deals 311% damage to enemies with 5 AOE circles.
+  exText: Deals 311% (591%) damage to enemies within 5 AoE circles.
 normalText: Every 20 seconds, deal 144% damage to enemies within a circle of the
   enemy with the lowest HP.
 enhancedText: Increases critical damage by 14%.

@@ -21,7 +21,7 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 4
-  exText: Summon a turret that deals 81.4% attack (30 sec).
+  exText: Summon a turret that has 81.4% (154%) of Utaha's attack power.
 normalText: Summon a turret every 30 seconds that deals 38.2% attack (20 seconds).
 enhancedText: Increases attack by 14%.
 subText: Increases allies' HP by 9.1%.

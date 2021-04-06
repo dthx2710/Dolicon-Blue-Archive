@@ -21,9 +21,9 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 4
-  exText: Deals 435% damage against enemies in a fan-shaped area while advancing
-    and pushing enemies backwards. Stuns enemies for 1 second per attack at EX
-    level 3, up till 1.4 seconds at EX level 5.
+  exText: Deals 435% (697%) damage against enemies in a fan-shaped area while
+    advancing and pushing enemies backwards. Stuns enemies for 1 second per
+    attack at EX level 3, up to 1.4 seconds at EX level 5.
 normalText: When falls below 30%, recovering by 100% heal potency over time (20
   sec) (Only once per battle).
 enhancedText: Increases defense by 14%.

@@ -21,8 +21,9 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 4
-  exText: Deals 220% damage while stunning enemies within a specified circular
-    area (2.2 sec).
+  exText: Deals 220% (353%) damage while stunning enemies within a specified
+    circular area (2.2 sec). Stun duration increases to 2.5 seconds at EX level
+    3, and 2.9 seconds at EX level 5.
 normalText: Every 25 seconds, deal 191% damage to enemies within a specified circular area.
 enhancedText: Increases critical rate by 14%
 subText: Increases allies' CC strength by 9.1%.

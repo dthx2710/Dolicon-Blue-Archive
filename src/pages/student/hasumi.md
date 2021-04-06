@@ -21,7 +21,7 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 5
-  exText: Deals 574% damage to an enemy.
+  exText: Deals 574% (1091%) damage to an enemy.
 normalText: Upon defeating an enemy, reloads immediately and increases her
   critical damage by 30%. (13 sec)
 enhancedText: Increases critical rate by 14%.

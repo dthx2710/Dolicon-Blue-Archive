@@ -21,9 +21,9 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 3
-  exText: Reloads immediately and converts normal attack into a fan-shaped attack
-    that deals 138% damage while increasing her attack by 25.8% (until next
-    reload).
+  exText: Reloads immediately and converts her normal attacks into a fan-shaped
+    AoE attack that deals 138% damage while increasing her attack by 25.8%
+    (45.2%) until her next reload.
 normalText: Upon killing an enemy, recover 116% heal potency (CD 10 sec).
 enhancedText: Increases movement speed by 14%.
 subText: Upon killing an enemy, 30% chance to add 1 ammo.

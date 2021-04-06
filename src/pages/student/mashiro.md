@@ -21,8 +21,9 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Deals 415% damage to the specified target. There is a 50% chance to deal
-    additional 625% damage.
+  exText: Deals 415% (664%) damage to the specified target. There is a 50% chance
+    to deal additional 623% damage. Bonus damage increases to 716% at EX level
+    3, and chance increases to 75% at EX level 5.
 normalText: Every 20 seconds, she deals 150% damage to enemies within a circular area.
 enhancedText: Increases her critical rate by 14%.
 subText: Increases all allies' accuracy by 9.1%.

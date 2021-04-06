@@ -21,7 +21,7 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Deals 409% damage to enemies with 3 AOE circles.
+  exText: Deals 409% (778%) damage to enemies with 3 AOE circles.
 normalText: Every 20 seconds, install 3 landmines (disappears in 15 sec) that
   deal 334% damage.
 enhancedText: Increases attack by 14%.
