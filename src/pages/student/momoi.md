@@ -14,7 +14,7 @@ equipment:
 role: Attacker
 position: Middle
 atkType: Penetration
-defType: Heavy Armour
+defType: Light Armour
 combatEnvironment:
   outdoor: A
   indoor: D
