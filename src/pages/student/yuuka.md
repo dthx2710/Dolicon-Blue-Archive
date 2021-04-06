@@ -21,7 +21,9 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Generates a shield with strength equivalent to 190% heal potency (15 sec).
+  exText: Generates a shield with strength equivalent to 190% (248%) heal potency
+    (15 sec). Duration increases to 20 seconds at EX level 3, and 25 seconds at
+    EX level 5.
 normalText: Every 15 seconds, deal 301% damage to an enemy.
 enhancedText: Increases her defense by 14%
 subText: While hidden, recover 75% heal potency (CD 10 sec).
