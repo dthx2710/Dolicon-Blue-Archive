@@ -21,8 +21,8 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 6
-  exText: Inflicts 126% damage over time to enemies within a specific circular
-    area (8 sec).
+  exText: Inflicts 126% (239%) damage over time to enemies within a specific
+    circular area (8 sec).
 normalText: Every 20 seconds, reduces an enemy's critical rate by 12.1% (20 sec)
   while inflicting 36.5% damage over time (20 sec).
 enhancedText: Increases her attack by 14%.
