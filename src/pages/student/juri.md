@@ -21,8 +21,8 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Tosses food that attracts 4 enemies to the location, poisoning and
-    inflicting 58.9% damage over time (20 sec).
+  exText: Tosses food that attracts 4 enemies to the target location, poisoning
+    and inflicting 58.9% (112%) damage over time (20 sec).
 normalText: Every 20 seconds, reduce the attack speed of an enemy with the
   highest attack by 18.1%
 enhancedText: Increases attack by 14%.
