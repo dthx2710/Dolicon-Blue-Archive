@@ -21,13 +21,16 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 3
-  exText: Inflicts (M) damage on up to 5 enemies in order. If Momoi is present in
-    her squad, Midori deals (M) her additional damage.
-normalText: At regular intervals, she restores (M) proportional to the amount of
-  her ally's lost HP who currently has the lowest HP.
-enhancedText: Increases her critical rate (S).
-subText: Increases her normal attack's speed (S). If there is Momoi in her
-  squad, the effect will be amplified.
+  exText: Damages up to 5 enemies in order, inflicting 119% (191%) damage per hit.
+    (If there are less than 5 enemies within range, multiple shots may land on
+    the same target). If Momoi is present in her squad, Midori also inflicts
+    poison dealing 39.8% damage per tick (20 sec). Poison damage increases to
+    45.8% at EX level 3, and 51.8% at EX level 5.
+normalText: "Every 25 seconds, she restores HP equal to 77.5% of her healing
+  stat to the ally with the lowest percentage of health remaining. "
+enhancedText: Increases her critical rate by 14%.
+subText: Increases her attack speed by 15.1%. If Momoi in her squad, the effect
+  is increased to 18.1%.
 profile:
   height: 143
   artist: キキ
