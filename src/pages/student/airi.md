@@ -22,7 +22,7 @@ combatEnvironment:
 exSkill:
   exCost: 5
   exText: >-
-    Deals 265% (464%) damage against enemies within a circular area. Reduces
+    Deals 265% (EX5 464%) damage against enemies within a circular area. Reduces
     movement speed by 22.8% (20 sec). 
 
     Also reduces attack speed by 26.2% (20 sec) after EX level 3

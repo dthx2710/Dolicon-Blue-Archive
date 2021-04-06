@@ -23,8 +23,9 @@ exSkill:
   exCost: 4
   exText: Deals 274% (521%) damage to one enemy and 292% (554%) damage to enemies
     near it in a circular area.
-normalText: Every 25 seconds, she deals 152% (290%) damage to one enemy with a
-  50% chance to deal 251% (476%) damage to enemies near it in a circular area.
+normalText: Every 25 seconds, she deals 152% (EX5 290%) damage to one enemy with
+  a 50% chance to deal 251% (EX5 476%) damage to enemies near it in a circular
+  area.
 enhancedText: Increases critical damage by 14% (26.6%).
 subText: While using her EX skill, her critical rate is increased by 20.1% (38.3%).
 profile:

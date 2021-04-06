@@ -22,12 +22,12 @@ combatEnvironment:
 exSkill:
   exCost: 2
   exText: Dashes in a specified direction and increases evasion by 43.4% and
-    attack speed by 30.2% (57.3% at EX 5) (30 sec).
-normalText: Deals 219% damage to one enemy every 20 seconds.
-enhancedText: Increases critical damage by 14%.
-subText: Upon using her EX skill, increases attack speed by 20.1%. (30 sec).
+    attack speed by 30.2% (EX 5 57.3%) (30 sec).
+normalText: Deals 219% (416%) damage to one enemy every 20 seconds.
+enhancedText: Increases critical damage rate by 14% (26.6%).
+subText: Upon using her EX skill, increases attack speed by 20.1% (38.3%) (30 sec).
 profile:
-  height: 164
+  height: 167
   artist: Mx2j
   info: >-
     Agent of The Millennium Science School secret organization "C&C"
@@ -39,6 +39,6 @@ profile:
   cv: Ikumi Hasegawa (長谷川育美)
   club: Cleaning&Clearing
   fullname: Ichinose Asuna
-  birthday: Apr 23
+  birthday: Mar 24
   age: 17
 ---
