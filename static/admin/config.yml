@@ -27,7 +27,7 @@ collections:
       - {label: "Portrait", name: "portrait", widget: image}
       - {label: "Rarity", name: "rarity", widget: "select", options: ["1", "2", "3"]}
       - {label: "Affiliation", name: "affiliation", widget: "select", options: ["Abydos", "Trinity", "Gehenna", "Millennium", "Red Winter", "Valkyrie", "Hyakkiyako", "Shanhaijing"], required: false, default: ""}
-      - {label: "Weapon Type", name: "weaponType", widget: "select", options: ["HG", "SMG", "AR", "SR", "SG", "MG", "GL", "RG", "RF", "RL", "DualSMG", "DualSG", "MountMG"]}
+      - {label: "Weapon Type", name: "weaponType", widget: "select", options: ["HG", "SMG", "AR", "SR", "SG", "MG", "GL", "MT", "RG", "RF", "RL", "DualSMG", "DualSG", "MountMG"]}
       - label: "Equipment"
         name: "equipment"
         widget: "object"

@@ -6,7 +6,7 @@ image: /img/hibiki_01.webp
 portrait: /img/Student_Portrait_Hibiki_Collection.webp
 rarity: "3"
 affiliation: Millennium
-weaponType: GL
+weaponType: MT
 equipment:
   equipment1: Hat
   equipment2: Hairpin
