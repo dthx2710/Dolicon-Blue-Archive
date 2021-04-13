@@ -165,6 +165,16 @@ html::-webkit-scrollbar-thumb
 //Exp Calc
 $input-placeholder-color: rgb(128,128,128)
 
+// guide roll
+.guide-list-item.is-featured
+  background-color: #d6400033;
+.guide-list-item header
+  display: flex;
+  margin-bottom: 1em;
+.guide-list-item .featured-thumbnail
+  flex-basis: 35%;
+  margin: 0 1.5em 0 0;
+
 @import "~bulma"
 
 //navbar styles
@@ -188,7 +198,7 @@ $input-placeholder-color: rgb(128,128,128)
 
 // responsiveness
 +tablet-only
-  .blog-list-item .featured-thumbnail
+  .guide-list-item .featured-thumbnail
     flex-basis: 50%
   .navbar-brand
     justify-content: center
@@ -208,9 +218,9 @@ $input-placeholder-color: rgb(128,128,128)
     display: block
 
 +mobile
-  .blog-list-item header
+  .guide-list-item header
     display: block
-  .blog-list-item .featured-thumbnail
+  .guide-list-item .featured-thumbnail
     text-align: center
     max-width: 70%
     margin: 0 0 1em
