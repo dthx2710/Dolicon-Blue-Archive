@@ -24,8 +24,8 @@ exSkill:
   exText: Deals 435% (697%) damage against enemies in a fan-shaped area while
     advancing and pushing enemies backwards. Stuns enemies for 1 second per
     attack at EX level 3, up to 1.4 seconds at EX level 5.
-normalText: When falls below 30%, recovering by 100% heal potency over time (20
-  sec) (Only once per battle).
+normalText: When HP falls below 30%, recover HP by 100% heal potency over time
+  (20 sec) (Only once per battle).
 enhancedText: Increases defense by 14%.
 subText: While using her EX skill, creates a shield with strength equal to 108%
   heal potency.
