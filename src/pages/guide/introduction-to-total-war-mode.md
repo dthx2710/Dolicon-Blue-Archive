@@ -5,7 +5,7 @@ date: 2021-12-31T01:35:51.033Z
 description: "Total War (Also commonly known as Raid mode) is a PvE game mode
   that feature a different boss every season, with each boss requires a unique
   team composition and strategy. "
-featuredpost: false
+featuredpost: true
 featuredimage: /img/totalwar.png
 tags:
   - Raid
