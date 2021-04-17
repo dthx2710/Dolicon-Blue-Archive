@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Helmet } from 'react-helmet'
 import Layout from '../../components/Layout'
 import MenuTL from '../../components/MenuTL'
 
@@ -8,6 +8,7 @@ export default class MenuTLIndexPage extends React.Component {
     return (
       <Layout>
         <section className="section">
+          <Helmet title={`Menu Translations`} />
           <div className="container">
             <div className="content">
             <h1

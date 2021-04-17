@@ -1,4 +1,5 @@
 import React from "react";
+import { Helmet } from 'react-helmet'
 import Layout from "../../components/Layout";
 import Exp from "../../components/Exp";
 
@@ -7,6 +8,7 @@ export default class ExpIndexPage extends React.Component {
     return (
       <Layout>
         <section className="section">
+          <Helmet title={`Exp Calculator`} />
           <div className="container">
             <div className="content">
               <h1

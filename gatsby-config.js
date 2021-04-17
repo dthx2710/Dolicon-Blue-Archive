@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Dolicon Blue Archive',
+    title: 'DoliconBA',
     description:
       'Dolicon\'s Blue Archive Site ',
     author: 'Dolicon'
