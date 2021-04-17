@@ -26,27 +26,28 @@ Links:
 
 
 ### WIP / To do list ✔:
-- [x] Strikers & Specials List
-- [x] Individual Student Page
-- [x] Filter/Sort for Student List
-- [x] Equipment Farming Planner/Optimizer
-- [x] Gacha Simulator
-- [x] Landing Page
+- [] Guides Section
+- [] 1-2* Student Gifts Image
+- [] Skill Upgrade Material
+- [] Skill Levels 
 
 Done for now, open to requests!
 
-### Team, Contributors & Special Thanks
-* Dolicon
-    > Site Owner & Programmer
-* DoliconBA Staff Team
-    > TL: koyuki
-    > Data Entry & etc: Splay, Revcat, ggasta, CZ
-    > Guide & Writers: None atm, recruiting~
-* Xeno, Lico, Dimbreath
-    > Resources via Xeno's archive, Lico's assets folder & Dimbreath's datamined info
-* NeptuniaMX
-    > Sensei
+### The Team
+* Site Owner & Programmer
+    > Dolicon#8638
+* Helper
+    > Set#9193
+* Content Writers
+    > Hespathus#1357, ggasta#7412 (Pengent), Revcat#2000
+* Information Gatherers & Analysers
+    > koyuki#5929, NeptuniaMX#9009, Zenkuichi#1181, CZ#8717, 0370#8187 (zier)
+* Creative Staffs
+    > L.L.Lycosphere#2991, KEKW#4305, Seal#2739, Splay#8589
+* Datamine & Assets Source
+    > Lico#6969
+### Sources
 * Wikiru.jp
     > Plenty of info & images sourced from here
-### Supporters
+### Ko-Fi Supporters (Wall of Fame)
 Kuni, GetHisAssWukong
