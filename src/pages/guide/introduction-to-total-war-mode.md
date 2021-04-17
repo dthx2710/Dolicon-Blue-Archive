@@ -23,14 +23,10 @@ Once you clear 4-1 and it is an active season. You will meet Rin in this interfa
 ![](/img/raid2.png)
 
 1. The amount of ticket you have. The ticket will be replenished on daily reset (Every 4.00 AM JST) and it will not be carried over to the next day if you have any unused ticket, **Make sure to use 3 tickets everyday!**
-
 2. The duration of the season. Usually the season will start right after the maintenance and last around 6 days. Please note that **season actually end at 11.59 PM instead of daily reset**. 
-
 3. Ranking and Progression Reward. Without clicking the yellow button, the game will only show you your ranking, your bracket and your accumulated score. However, By clicking the yellow button you can expand this menu for more information such as: Leaderboard, End of Season Reward and Progression Reward
 
 ![](/img/raid4.png "This is fine.")
-
-
 
 ![](/img/raid5.png "End of Season Reward")
 
@@ -44,35 +40,7 @@ With 3 information you should know about Total War out of the way, We can dive i
 
 \-Score and ranking
 
-
-
-
-
 # List of Total War Bosses.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \-Binah
 
