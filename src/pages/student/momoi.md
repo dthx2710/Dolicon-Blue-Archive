@@ -21,14 +21,17 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 3
-  exText: Deals 338% (541%) damage to enemies within the fan-shaped area. If
+  ex1: Deals 338% (541%) damage to enemies within the fan-shaped area. If
     Midori is present in her squad, Momoi also inflicts burning dealing 72%
     damage per tick (20 sec). Poison damage increases to 82.8% at EX level 3,
     and 93.6% at EX level 5.
-normalText: Every 30 seconds, increases accuracy by 22.3% (20 sec).
-enhancedText: Increases her critical rate by 14%.
-subText: Increases her attack power by 15.1%. If Midori in her squad, the effect
-  is increased to 18.1%.
+normalSkill:
+  normal1: Every 30 seconds, increases accuracy by 22.3% (20 sec).
+passiveSkill:
+  passive1: Increases her critical rate by 14%.
+subSkill:
+  sub1: Increases her attack power by 15.1%. If Midori in her squad, the effect
+    is increased to 18.1%.
 profile:
   height: 143
   artist: キキ

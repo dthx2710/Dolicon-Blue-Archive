@@ -21,13 +21,16 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 3
-  exText: Creates a barricade with strength equal to 29.2% (46.8%) of Shizuko's HP
+  ex1: Creates a barricade with strength equal to 29.2% (46.8%) of Shizuko's HP
     while increasing the accuracy of allies by 16.3% (21.3%) within a specified
     circular area. (30 sec)
-normalText: Every 25 seconds, deals 194% damage to an enemy, reducing their
-  attack by 17.4%. (21 sec)
-enhancedText: Increases accuracy by 14%.
-subText: Increases allies' critical rate by 9.1%
+normalSkill:
+  normal1: Every 25 seconds, deals 194% damage to an enemy, reducing their
+    attack by 17.4%. (21 sec)
+passiveSkill:
+  passive1: Increases accuracy by 14%.
+subSkill:
+  sub1: Increases allies' critical rate by 9.1%
 profile:
   height: 153
   artist: whoisshe

@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Throws a smoke grenade in the specified area and reduces the enemy's
+  ex1: Throws a smoke grenade in the specified area and reduces the enemy's
     accuracy (M) for a (very) short time.
-normalText: At regular intervals, she inflicts (S) damage to the enemy and
-  reduces (S) enemy's accuracy for (S) time.
-enhancedText: Increases her maximum HP (S).
-subText: When she defeats an enemy, she gains a (S) skill cost.
+normalSkill:
+  normal1: At regular intervals, she inflicts (S) damage to the enemy and
+    reduces (S) enemy's accuracy for (S) time.
+passiveSkill:
+  passive1: Increases her maximum HP (S).
+subSkill:
+  sub1: When she defeats an enemy, she gains a (S) skill cost.
 profile:
   height: 161
   artist: 日下雲

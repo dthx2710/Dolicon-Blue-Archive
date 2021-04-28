@@ -21,11 +21,14 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 2
-  exText: Dashes in a specified direction and increases evasion by 43.4% and
+  ex1: Dashes in a specified direction and increases evasion by 43.4% and
     attack speed by 30.2% (EX 5 57.3%) (30 sec).
-normalText: Deals 219% (416%) damage to one enemy every 20 seconds.
-enhancedText: Increases critical damage rate by 14% (26.6%).
-subText: Upon using her EX skill, increases attack speed by 20.1% (38.3%) (30 sec).
+normalSkill:
+  normal1: Deals 219% (416%) damage to one enemy every 20 seconds.
+passiveSkill:
+  passive1: Increases critical damage rate by 14% (26.6%).
+subSkill:
+  sub1: Upon using her EX skill, increases attack speed by 20.1% (38.3%) (30 sec).
 profile:
   height: 167
   artist: Mx2j

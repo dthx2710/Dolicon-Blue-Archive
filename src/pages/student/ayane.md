@@ -21,12 +21,15 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 4
-  exText: After a short delay, recover 118% (224% at EX 5) heal potency to allies
+  ex1: After a short delay, recover 118% (224% at EX 5) heal potency to allies
     within a specified circular area.
-normalText: Every 30 seconds, increases critical resistance of allies within a
-  specified circular area by 15.5%
-enhancedText: Increases heal potency by 14%.
-subText: Increases allies' HP by 9.1%
+normalSkill:
+  normal1: Every 30 seconds, increases critical resistance of allies within a
+    specified circular area by 15.5%
+passiveSkill:
+  passive1: Increases heal potency by 14%.
+subSkill:
+  sub1: Increases allies' HP by 9.1%
 profile:
   height: 153
   artist: Hwansang

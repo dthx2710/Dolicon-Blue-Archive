@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 6
-  exText: Inflicts 126% (239%) damage over time to enemies within a specific
+  ex1: Inflicts 126% (239%) damage over time to enemies within a specific
     circular area (8 sec).
-normalText: Every 20 seconds, reduces an enemy's critical rate by 12.1% (20 sec)
-  while inflicting 36.5% damage over time (20 sec).
-enhancedText: Increases her attack by 14%.
-subText: Increases allies' critical rate by 9.1%.
+normalSkill:
+  normal1: Every 20 seconds, reduces an enemy's critical rate by 12.1% (20 sec)
+    while inflicting 36.5% damage over time (20 sec).
+passiveSkill:
+  passive1: Increases her attack by 14%.
+subSkill:
+  sub1: Increases allies' critical rate by 9.1%.
 profile:
   height: 149
   artist: whoisshe

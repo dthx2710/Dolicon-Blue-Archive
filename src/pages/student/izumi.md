@@ -21,12 +21,15 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 3
-  exText: Restores HP by 145% (254%) heal potency. Increases attack speed by 38.4%
+  ex1: Restores HP by 145% (254%) heal potency. Increases attack speed by 38.4%
     for 21 seconds starting at EX level 3.
-normalText: While attacking, 20% chance to deal 275% damage to an enemy (CD 10 sec).
-enhancedText: Increases the recovery rate received by 14%.
-subText: While attacking, deal additional 0.4% damage equivalent to 2.2% attack
-  proportional to her current HP.
+normalSkill:
+  normal1: While attacking, 20% chance to deal 275% damage to an enemy (CD 10 sec).
+passiveSkill:
+  passive1: Increases the recovery rate received by 14%.
+subSkill:
+  sub1: While attacking, deal additional 0.4% damage equivalent to 2.2% attack
+    proportional to her current HP.
 profile:
   height: 161
   artist: Mx2j

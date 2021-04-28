@@ -21,11 +21,14 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 4
-  exText: Deals 311% (591%) damage to enemies within 5 AoE circles.
-normalText: Every 20 seconds, deal 144% damage to enemies within a circle of the
-  enemy with the lowest HP.
-enhancedText: Increases critical damage by 14%.
-subText: Increases allies' critical damage by 9.1%.
+  ex1: Deals 311% (591%) damage to enemies within 5 AoE circles.
+normalSkill:
+  normal1: Every 20 seconds, deal 144% damage to enemies within a circle of the
+    enemy with the lowest HP.
+passiveSkill:
+  passive1: Increases critical damage by 14%.
+subSkill:
+  sub1: Increases allies' critical damage by 9.1%.
 profile:
   height: 154
   artist: ミミトケ

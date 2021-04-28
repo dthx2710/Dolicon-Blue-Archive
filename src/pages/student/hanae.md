@@ -21,11 +21,14 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Heals an ally for 54.1% (102%) heal potency over time (20 sec).
-normalText: Every 25 seconds, increases the defense of an ally with the lowest
-  HP by 17.7% (20 sec).
-enhancedText: Increases heal potency by 14%.
-subText: Increases allies' critical damage by 9.1%.
+  ex1: Heals an ally for 54.1% (102%) heal potency over time (20 sec).
+normalSkill:
+  normal1: Every 25 seconds, increases the defense of an ally with the lowest
+    HP by 17.7% (20 sec).
+passiveSkill:
+  passive1: Increases heal potency by 14%.
+subSkill:
+  sub1: Increases allies' critical damage by 9.1%.
 profile:
   height: 150
   artist: tonito

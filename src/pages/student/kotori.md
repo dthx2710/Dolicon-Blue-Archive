@@ -21,11 +21,14 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 4
-  exText: Creates a box that moves allies towards it and grants each of them a
+  ex1: Creates a box that moves allies towards it and grants each of them a
     shield with strength equivalent to 175% (334%) heal potency.
-normalText: Every 35 seconds, deal 269% damage to enemies within a fan-shaped area.
-enhancedText: Increase critical damage by 14%.
-subText: Upon defeating an enemy, increase critical damage by 20.1% (30 sec).
+normalSkill:
+  normal1: Every 35 seconds, deal 269% damage to enemies within a fan-shaped area.
+passiveSkill:
+  passive1: Increase critical damage by 14%.
+subSkill:
+  sub1: Upon defeating an enemy, increase critical damage by 20.1% (30 sec).
 profile:
   height: 151
   artist: 三脚たこ

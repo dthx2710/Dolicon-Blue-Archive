@@ -21,12 +21,13 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Deals 392% (EX 5 744%) damage to enemies within a circular area.
-normalText: During her normal attack, 10% chance to increase her attack by 38.7%
-  (73.6%) (20 sec) (CD 15sec).
-enhancedText: Increases HP by 14% (26.6%).
-subText: During her normal attack, 10% chance to increase her attack power by
-  34.4% (65.5%) (26 sec) (CD 18 sec).
+  ex1: Deals 392% (EX 5 744%) damage to enemies within a circular area.
+normalSkill:
+  normal1: During her normal attack, 10% chance to increase her attack by 38.7% (73.6%) (20 sec) (CD 15sec).
+passiveSkill:
+  passive1: Increases HP by 14% (26.6%).
+subSkill:
+  sub1: During her normal attack, 10% chance to increase her attack power by 34.4% (65.5%) (26 sec) (CD 18 sec).
 profile:
   height: 167
   artist: 9ml

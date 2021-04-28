@@ -21,14 +21,17 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 4
-  exText: Deals 435% (697%) damage against enemies in a fan-shaped area while
+  ex1: Deals 435% (697%) damage against enemies in a fan-shaped area while
     advancing and pushing enemies backwards. Stuns enemies for 1 second per
     attack at EX level 3, up to 1.4 seconds at EX level 5.
-normalText: When HP falls below 30%, recover HP by 100% heal potency over time
-  (20 sec) (Only once per battle).
-enhancedText: Increases defense by 14%.
-subText: While using her EX skill, creates a shield with strength equal to 108%
-  heal potency.
+normalSkill:
+  normal1: When HP falls below 30%, recover HP by 100% heal potency over time
+    (20 sec) (Only once per battle).
+passiveSkill:
+  passive1: Increases defense by 14%.
+subSkill:
+  sub1: While using her EX skill, creates a shield with strength equal to 108%
+    heal potency.
 profile:
   height: 145
   artist: 9ml

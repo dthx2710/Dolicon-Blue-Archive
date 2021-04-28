@@ -21,12 +21,15 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 7
-  exText: Deals damage equal to 636% (1208%) of her attack power against enemies
+  ex1: Deals damage equal to 636% (1208%) of her attack power against enemies
     within a fan-shaped area.
-normalText: When ammo is depleted, immediately reloads and increases the attack
-  by 21% (16 sec).
-enhancedText: Increases attack speed by 14%.
-subText: While attacking, she deals 2.7% additional damage to unhidden enemies.
+normalSkill:
+  normal1: When ammo is depleted, immediately reloads and increases the attack
+    by 21% (16 sec).
+passiveSkill:
+  passive1: Increases attack speed by 14%.
+subSkill:
+  sub1: While attacking, she deals 2.7% additional damage to unhidden enemies.
 profile:
   height: 142
   artist: DoReMi

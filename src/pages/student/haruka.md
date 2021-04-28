@@ -21,11 +21,14 @@ combatEnvironment:
   urban: C
 exSkill:
   exCost: 4
-  exText: Fires repeatedly dealing a total of 821% (1560%) damage to enemies with
+  ex1: Fires repeatedly dealing a total of 821% (1560%) damage to enemies with
     a fan-shaped area as she moves forward.
-normalText: Every 20 seconds, she increases her defense by 18.9%. (20 sec)
-enhancedText: Increases maximum HP by 14%.
-subText: When attacked, 5% chance to increase defense by 18.1% (15 sec) (CD 10 sec).
+normalSkill:
+  normal1: Every 20 seconds, she increases her defense by 18.9%. (20 sec)
+passiveSkill:
+  passive1: Increases maximum HP by 14%.
+subSkill:
+  sub1: When attacked, 5% chance to increase defense by 18.1% (15 sec) (CD 10 sec).
 profile:
   height: 157
   artist: DoReMi

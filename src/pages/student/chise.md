@@ -21,13 +21,16 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Inflicts 56% (EX5 106%) damage over time to enemies within a circular
+  ex1: Inflicts 56% (EX5 106%) damage over time to enemies within a circular
     area (10 sec).
-normalText: Every 25 seconds, deals 219% (416%) damage against enemies within a
-  circular area.
-enhancedText: Increases attack by 14% (26.6%).
-subText: While attacking, 10% chance to deal 53.7% (102%) damage over time (20
-  sec) (CD 5 sec)
+normalSkill:
+  normal1: Every 25 seconds, deals 219% (416%) damage against enemies within a
+    circular area.
+passiveSkill:
+  passive1: Increases attack by 14% (26.6%).
+subSkill:
+  sub1: While attacking, 10% chance to deal 53.7% (102%) damage over time (20
+    sec) (CD 5 sec)
 profile:
   height: 159
   artist: Hwansang

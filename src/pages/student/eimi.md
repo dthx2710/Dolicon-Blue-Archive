@@ -21,11 +21,14 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 4
-  exText: Continuously restores her HP for 8.6% (16.4%) healing power and 3.4% of
+  ex1: Continuously restores her HP for 8.6% (16.4%) healing power and 3.4% of
     missing HP over time (20 sec).
-normalText: Every 15 seconds, she deals 297% damage to enemies within a fan-shaped area.
-enhancedText: Increases recovery rate by 14%.
-subText: When HP falls below 50%, crowd control resistance is increased by 20.1%.
+normalSkill:
+  normal1: Every 15 seconds, she deals 297% damage to enemies within a fan-shaped area.
+passiveSkill:
+  passive1: Increases recovery rate by 14%.
+subSkill:
+  sub1: When HP falls below 50%, crowd control resistance is increased by 20.1%.
 profile:
   height: 167
   artist: ポップキュン

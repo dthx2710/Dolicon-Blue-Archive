@@ -72,10 +72,59 @@ collections:
         default: ""
         fields:
         - {label: "Cost", name: "exCost", widget: "number", value_type: "int", min: 0, max: 10, required: false, default: 0}
-        - {label: "EX Skill", name: "exText", widget: "text", required: false, default: ""}
-      - {label: "Normal Skill", name: "normalText", widget: "text", required: false, default: ""}
-      - {label: "Enhanced Skill", name: "enhancedText", widget: "text", required: false, default: ""}
-      - {label: "Sub Skill", name: "subText", widget: "text", required: false, default: ""}
+        - {label: "Lv1", name: "ex1", widget: "text", required: false, default: ""}
+        - {label: "Lv2", name: "ex2", widget: "text", required: false, default: ""}
+        - {label: "Lv3", name: "ex3", widget: "text", required: false, default: ""}
+        - {label: "Lv4", name: "ex4", widget: "text", required: false, default: ""}
+        - {label: "Lv5", name: "ex5", widget: "text", required: false, default: ""}
+      - label: "Normal Skill"
+        name: "normalSkill"
+        widget: "object"
+        required: false
+        default: ""
+        fields:
+        - {label: "Lv1", name: "normal1", widget: "text", required: false, default: ""}
+        - {label: "Lv2", name: "normal2", widget: "text", required: false, default: ""}
+        - {label: "Lv3", name: "normal3", widget: "text", required: false, default: ""}
+        - {label: "Lv4", name: "normal4", widget: "text", required: false, default: ""}
+        - {label: "Lv5", name: "normal5", widget: "text", required: false, default: ""}
+        - {label: "Lv6", name: "normal6", widget: "text", required: false, default: ""}
+        - {label: "Lv7", name: "normal7", widget: "text", required: false, default: ""}
+        - {label: "Lv8", name: "normal8", widget: "text", required: false, default: ""}
+        - {label: "Lv9", name: "normal9", widget: "text", required: false, default: ""}
+        - {label: "Lv10", name: "normal10", widget: "text", required: false, default: ""}
+      - label: "Passive Skill"
+        name: "passiveSkill"
+        widget: "object"
+        required: false
+        default: ""
+        fields:
+        - {label: "Lv1", name: "passive1", widget: "text", required: false, default: ""}
+        - {label: "Lv2", name: "passive2", widget: "text", required: false, default: ""}
+        - {label: "Lv3", name: "passive3", widget: "text", required: false, default: ""}
+        - {label: "Lv4", name: "passive4", widget: "text", required: false, default: ""}
+        - {label: "Lv5", name: "passive5", widget: "text", required: false, default: ""}
+        - {label: "Lv6", name: "passive6", widget: "text", required: false, default: ""}
+        - {label: "Lv7", name: "passive7", widget: "text", required: false, default: ""}
+        - {label: "Lv8", name: "passive8", widget: "text", required: false, default: ""}
+        - {label: "Lv9", name: "passive9", widget: "text", required: false, default: ""}
+        - {label: "Lv10", name: "passive10", widget: "text", required: false, default: ""}
+      - label: "Sub Skill"
+        name: "subSkill"
+        widget: "object"
+        required: false
+        default: ""
+        fields:
+        - {label: "Lv1", name: "sub1", widget: "text", required: false, default: ""}
+        - {label: "Lv2", name: "sub2", widget: "text", required: false, default: ""}
+        - {label: "Lv3", name: "sub3", widget: "text", required: false, default: ""}
+        - {label: "Lv4", name: "sub4", widget: "text", required: false, default: ""}
+        - {label: "Lv5", name: "sub5", widget: "text", required: false, default: ""}
+        - {label: "Lv6", name: "sub6", widget: "text", required: false, default: ""}
+        - {label: "Lv7", name: "sub7", widget: "text", required: false, default: ""}
+        - {label: "Lv8", name: "sub8", widget: "text", required: false, default: ""}
+        - {label: "Lv9", name: "sub9", widget: "text", required: false, default: ""}
+        - {label: "Lv10", name: "sub10", widget: "text", required: false, default: ""}
       - label: "Profile"
         name: "profile"
         widget: "object"

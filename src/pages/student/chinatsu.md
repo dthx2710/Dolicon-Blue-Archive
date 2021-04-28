@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 4
-  exText: Restores ally's HP by 195% (342%) heal potency. Removes 1 debuff from
+  ex1: Restores ally's HP by 195% (342%) heal potency. Removes 1 debuff from
     ally starting at EX level 3.
-normalText: Every 40 seconds, increases the evasion of her ally with the lowest
-  current HP by 50.9% (30 sec).
-enhancedText: Increases heal potency by 14%.
-subText: Increases allies' defense by 9.1%.
+normalSkill:
+  normal1: Every 40 seconds, increases the evasion of her ally with the lowest
+    current HP by 50.9% (30 sec).
+passiveSkill:
+  passive1: Increases heal potency by 14%.
+subSkill:
+  sub1: Increases allies' defense by 9.1%.
 profile:
   height: 159
   artist: Mx2j

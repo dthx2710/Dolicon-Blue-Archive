@@ -21,12 +21,15 @@ combatEnvironment:
   urban: C
 exSkill:
   exCost: 3
-  exText: Fires 3 shots that each deal 350% (666%) damage to an enemy and the
+  ex1: Fires 3 shots that each deal 350% (666%) damage to an enemy and the
     enemy behind it in a fan-shape. Dashes in a random direction between each
     shot.
-normalText: Deals 229% damage to an enemy every 25 seconds.
-enhancedText: Increases accuracy by 14%.
-subText: While not hidden, increases damage by 22.6% of attack.
+normalSkill:
+  normal1: Deals 229% damage to an enemy every 25 seconds.
+passiveSkill:
+  passive1: Increases accuracy by 14%.
+subSkill:
+  sub1: While not hidden, increases damage by 22.6% of attack.
 profile:
   height: 157
   artist: Mx2j

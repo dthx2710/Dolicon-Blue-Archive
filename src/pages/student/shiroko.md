@@ -21,13 +21,16 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 2
-  exText: Deals 400% (760%) damage to an enemy. If the initial target dies before
+  ex1: Deals 400% (760%) damage to an enemy. If the initial target dies before
     the skill finishes, the remaining barrages will target the closest enemy in
     range.
-normalText: Every 25 seconds, deals 193% damage to enemies in a specific circular area.
-enhancedText: Increases her critical rate by 14%.
-subText: While attacking, 20% chance to increase attack speed by 30.2% (30 sec)
-  (CD 25 sec).
+normalSkill:
+  normal1: Every 25 seconds, deals 193% damage to enemies in a specific circular area.
+passiveSkill:
+  passive1: Increases her critical rate by 14%.
+subSkill:
+  sub1: While attacking, 20% chance to increase attack speed by 30.2% (30 sec)
+    (CD 25 sec).
 profile:
   height: 156
   artist: Hwansang

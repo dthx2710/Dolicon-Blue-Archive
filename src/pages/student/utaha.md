@@ -21,10 +21,13 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 4
-  exText: Summon a turret that has 81.4% (154%) of Utaha's attack power.
-normalText: Summon a turret every 30 seconds that deals 38.2% attack (20 seconds).
-enhancedText: Increases attack by 14%.
-subText: Increases allies' HP by 9.1%.
+  ex1: Summon a turret that has 81.4% (154%) of Utaha's attack power.
+normalSkill:
+  normal1: Summon a turret every 30 seconds that deals 38.2% attack (20 seconds).
+passiveSkill:
+  passive1: Increases attack by 14%.
+subSkill:
+  sub1: Increases allies' HP by 9.1%.
 profile:
   height: 162
   artist: やまかわ

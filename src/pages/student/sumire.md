@@ -21,11 +21,14 @@ combatEnvironment:
   indoor: S
 exSkill:
   exCost: 3
-  exText: Fires 3 shots, each dealing 742% (1410%) damage to enemies within a
+  ex1: Fires 3 shots, each dealing 742% (1410%) damage to enemies within a
     fan-shaped area. Dashes in a random direction between each shot.
-normalText: Increases attack by 25.2% every 40 seconds (20 sec).
-enhancedText: Increases HP by 14%.
-subText: Increases defense by 13.4% when not in CC state.
+normalSkill:
+  normal1: Increases attack by 25.2% every 40 seconds (20 sec).
+passiveSkill:
+  passive1: Increases HP by 14%.
+subSkill:
+  sub1: Increases defense by 13.4% when not in CC state.
 profile:
   height: 167
   artist: Fame

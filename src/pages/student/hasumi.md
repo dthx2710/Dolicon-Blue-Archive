@@ -21,11 +21,14 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 5
-  exText: Deals 574% (1091%) damage to an enemy.
-normalText: Upon defeating an enemy, reloads immediately and increases her
-  critical damage by 30%. (13 sec)
-enhancedText: Increases critical rate by 14%.
-subText: After reloading, increases critical rate by 50% for one attack.
+  ex1: Deals 574% (1091%) damage to an enemy.
+normalSkill:
+  normal1: Upon defeating an enemy, reloads immediately and increases her
+    critical damage by 30%. (13 sec)
+passiveSkill:
+  passive1: Increases critical rate by 14%.
+subSkill:
+  sub1: After reloading, increases critical rate by 50% for one attack.
 profile:
   height: 179
   artist: Mx2j

@@ -21,18 +21,21 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 6
-  exText: |-
+  ex1: |-
     Deals 311% (591%) damage to enemies in a straight line, 
     Damage is multiplied by 1.5× for first charge, and 2× for second.
     After firing, reset energy charge
-normalText: Increase critical rate by 17% for 20 seconds every 25 seconds; and
-  increase energy charge by 1 (up to 2)
-enhancedText: Increases Attack Power by 14%
-subText: >-
-  At the same time as the EX skill is activated, Increase critical rate by 12.1%
-  for 20 seconds. 
+normalSkill:
+  normal1: Increase critical rate by 17% for 20 seconds every 25 seconds; and
+    increase energy charge by 1 (up to 2)
+passiveSkill:
+  passive1: Increases Attack Power by 14%
+subSkill:
+  sub1: >-
+    At the same time as the EX skill is activated, Increase critical rate by 12.1%
+    for 20 seconds. 
 
-  Effect is multiplied by 1.5× for first charge, and 2× for second.
+    Effect is multiplied by 1.5× for first charge, and 2× for second.
 profile:
   height: 152
   artist: DoReMi

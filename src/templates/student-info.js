@@ -24,10 +24,10 @@ export const StudentInfoTemplate = ({
   indoor,
   urban,
   exCost,
-  exText,
-  normalText,
-  enhancedText,
-  subText,
+  ex1,
+  normal1,
+  passive1,
+  sub1,
   fullname,
   jpname,
   club,
@@ -173,16 +173,16 @@ export const StudentInfoTemplate = ({
                   <p className="has-text-weight-bold is-bold-light">EX Skill</p>
                   </div>
                   <div className="column is-8">
-                    <p>{exText} (Cost: {exCost})</p>
+                    <p>{ex1} (Cost: {exCost})</p>
                   </div>
                 </div>
 
                 <div className="columns">
                   <div className="column is-4">
-                    <p className="has-text-weight-bold is-bold-light">Basic Skill</p>
+                    <p className="has-text-weight-bold is-bold-light">Normal Skill</p>
                   </div>
                   <div className="column is-8">
-                    <p>{normalText}</p>
+                    <p>{normal1}</p>
                   </div>
                 </div>
 
@@ -191,7 +191,7 @@ export const StudentInfoTemplate = ({
                     <p className="has-text-weight-bold is-bold-light">Passive Skill</p>
                   </div>
                   <div className="column is-8">
-                    <p>{enhancedText}</p>
+                    <p>{passive1}</p>
                   </div>
                 </div>
 
@@ -200,7 +200,7 @@ export const StudentInfoTemplate = ({
                     <p className="has-text-weight-bold is-bold-light">Sub Skill</p>
                   </div>
                   <div className="column is-8">
-                    <p>{subText}</p>
+                    <p>{sub1}</p>
                   </div>
                 </div>
               </div>
@@ -285,10 +285,10 @@ StudentInfoTemplate.propTypes = {
   indoor: PropTypes.string, 
   urban: PropTypes.string,
   exCost: PropTypes.number,
-  exText: PropTypes.string,
-  normalText: PropTypes.string,
-  enhancedText: PropTypes.string,
-  subText: PropTypes.string,
+  ex1: PropTypes.string,
+  normal1: PropTypes.string,
+  passive1: PropTypes.string,
+  sub1: PropTypes.string,
   fullname: PropTypes.string,
   jpname: PropTypes.string,
   club: PropTypes.string,
@@ -330,10 +330,10 @@ const StudentInfo = ({ data }) => {
         indoor={info.frontmatter.combatEnvironment.indoor}
         urban={info.frontmatter.combatEnvironment.urban}
         exCost={info.frontmatter.exSkill.exCost}
-        exText={info.frontmatter.exSkill.exText}
-        normalText={info.frontmatter.normalText}
-        enhancedText={info.frontmatter.enhancedText}
-        subText={info.frontmatter.subText}
+        ex1={info.frontmatter.exSkill.ex1}
+        normal1={info.frontmatter.normalSkill.normal1}
+        passive1={info.frontmatter.passiveSkill.passive1}
+        sub1={info.frontmatter.subSkill.sub1}
         fullname={info.frontmatter.profile.fullname}
         jpname={info.frontmatter.profile.jpname}
         club={info.frontmatter.profile.club}
@@ -391,11 +391,17 @@ export const pageQuery = graphql`
         }
         exSkill {
           exCost
-          exText
+          ex1
         }
-        normalText
-        enhancedText
-        subText
+        normalSkill {
+          normal1
+        }
+        passiveSkill {
+          passive1
+        }
+        subSkill {
+          sub1
+        }
         profile {
           fullname
           jpname

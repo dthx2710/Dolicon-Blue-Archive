@@ -21,11 +21,14 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: Deals 409% (778%) damage to enemies with 3 AOE circles.
-normalText: Every 20 seconds, install 3 landmines (disappears in 15 sec) that
-  deal 334% damage.
-enhancedText: Increases attack by 14%.
-subText: While attacking, 25% chance to increase accuracy by 30.2% (30 sec) (CD 25 sec).
+  ex1: Deals 409% (778%) damage to enemies with 3 AOE circles.
+normalSkill:
+  normal1: Every 20 seconds, install 3 landmines (disappears in 15 sec) that
+    deal 334% damage.
+passiveSkill:
+  passive1: Increases attack by 14%.
+subSkill:
+  sub1: While attacking, 25% chance to increase accuracy by 30.2% (30 sec) (CD 25 sec).
 profile:
   height: 144
   artist: DoReMi

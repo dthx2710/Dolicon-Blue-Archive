@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Deals 415% (664%) damage to the specified target. There is a 50% chance
+  ex1: Deals 415% (664%) damage to the specified target. There is a 50% chance
     to deal additional 623% damage. Bonus damage increases to 716% at EX level
     3, and chance increases to 75% at EX level 5.
-normalText: Every 20 seconds, she deals 150% damage to enemies within a circular area.
-enhancedText: Increases her critical rate by 14%.
-subText: Increases all allies' accuracy by 9.1%.
+normalSkill:
+  normal1: Every 20 seconds, she deals 150% damage to enemies within a circular area.
+passiveSkill:
+  passive1: Increases her critical rate by 14%.
+subSkill:
+  sub1: Increases all allies' accuracy by 9.1%.
 profile:
   height: 155
   artist: ポップキュン

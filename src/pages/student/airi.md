@@ -21,15 +21,17 @@ combatEnvironment:
   indoor: A
 exSkill:
   exCost: 5
-  exText: >-
+  ex1: >-
     Deals 265% (EX5 464%) damage against enemies within a circular area. Reduces
     movement speed by 22.8% (20 sec). 
 
     Also reduces attack speed by 26.2% (20 sec) after EX level 3
-normalText: Every 25 seconds, she reduces an enemy's attack speed by 18.4%
-  (35.1％) (30 sec).
-enhancedText: Increases attack by 14% (26.6%).
-subText: Increases allies' attack speed by 9.1% (17.3%).
+normalSkill:
+  normal1: Every 25 seconds, she reduces an enemy's attack speed by 18.4% (35.1％) (30 sec).
+passiveSkill:
+  passive1: Increases attack by 14% (26.6%).
+subSkill:
+  sub1: Increases allies' attack speed by 9.1% (17.3%).
 profile:
   height: 160
   artist: まきあっと

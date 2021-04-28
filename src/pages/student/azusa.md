@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Deals (S) consecutive damage to the target and then (M) additional
+  ex1: Deals (S) consecutive damage to the target and then (M) additional
     damage at the end. The attacked target takes (M) more damage over (M) time.
-normalText: Deals (S) damage to one enemy every (S) time and reduces (S) defense
-  for (M) time.
-enhancedText: Increases attack speed (S).
-subText: When attacking an enemy with debuff status, she deals (S) additional damage.
+normalSkill:
+  normal1: Deals (S) damage to one enemy every (S) time and reduces (S) defense
+    for (M) time.
+passiveSkill:
+  passive1: Increases attack speed (S).
+subSkill:
+  sub1: When attacking an enemy with debuff status, she deals (S) additional damage.
 profile:
   height: 149
   artist: NAMYO

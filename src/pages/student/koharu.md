@@ -21,11 +21,14 @@ combatEnvironment:
   urban: S
 exSkill:
   exCost: 5
-  exText: Restores (M) allies' HP in the specified area.
-normalText: When an ally's HP level is low, she restores (M) the one ally's HP
-  with the lowest current HP level.
-enhancedText: Increases her healing power (S).
-subText: Using her skill increases her attack power (S) over (M) time.
+  ex1: Restores (M) allies' HP in the specified area.
+normalSkill:
+  normal1: When an ally's HP level is low, she restores (M) the one ally's HP
+    with the lowest current HP level.
+passiveSkill:
+  passive1: Increases her healing power (S).
+subSkill:
+  sub1: Using her skill increases her attack power (S) over (M) time.
 profile:
   height: 148
   artist: DoReMi

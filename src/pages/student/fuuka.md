@@ -21,12 +21,15 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 5
-  exText: Places a cooking pot that allies in the area will run to, recovering
+  ex1: Places a cooking pot that allies in the area will run to, recovering
     109% (207%) heal potency.
-normalText: Every 20 seconds, increases the defense of an ally with the highest
-  maximum HP by 18.1% (16 sec).
-enhancedText: Increases heal potency by 14%.
-subText: Increases allies' critical resistance by 9.1%.
+normalSkill:
+  normal1: Every 20 seconds, increases the defense of an ally with the highest
+    maximum HP by 18.1% (16 sec).
+passiveSkill:
+  passive1: Increases heal potency by 14%.
+subSkill:
+  sub1: Increases allies' critical resistance by 9.1%.
 profile:
   height: 159
   artist: ヌードル

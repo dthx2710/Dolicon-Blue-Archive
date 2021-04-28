@@ -221,6 +221,23 @@ export const IndexPageTemplate = ({
                 </div>
               </Link>
             </div>
+            <div className="column is-2">
+              <Link to="/guide">
+                <div className="card landingCard">
+                  <div className="card-image">
+                    <figure className="image">
+                      <img
+                        src="../../img/guide.webp"
+                        alt="Guide"
+                      />
+                    </figure>
+                  </div>
+                  <div className="card-content">
+                    <p className="title is-4">Guides</p>
+                  </div>
+                </div>
+              </Link>
+            </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">

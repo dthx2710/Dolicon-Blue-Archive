@@ -21,12 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  exText: Tosses food that attracts 4 enemies to the target location, poisoning
+  ex1: Tosses food that attracts 4 enemies to the target location, poisoning
     and inflicting 58.9% (112%) damage over time (20 sec).
-normalText: Every 20 seconds, reduce the attack speed of an enemy with the
-  highest attack by 18.1%
-enhancedText: Increases attack by 14%.
-subText: Increases allies' maximum HP by 9.1%.
+normalSkill:
+  normal1: Every 20 seconds, reduce the attack speed of an enemy with the
+    highest attack by 18.1%
+passiveSkill:
+  passive1: Increases attack by 14%.
+subSkill:
+  sub1: Increases allies' maximum HP by 9.1%.
 profile:
   height: 170
   artist: nino

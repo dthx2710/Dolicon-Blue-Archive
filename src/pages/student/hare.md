@@ -21,12 +21,15 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  exText: "Deals 271% (EX5 435%) damage to enemies in the circular area, stunning
+  ex1: "Deals 271% (EX5 435%) damage to enemies in the circular area, stunning
     enemies for 2.7 (EX3 3.1, EX5 3.5) seconds. "
-normalText: Every 30 seconds, she reduces the amount an enemy gets healed by
-  26.7% (50.7％) (15 sec).
-enhancedText: Increases critical rate by 14% (26.6%).
-subText: Increases allies' evasion by 9.1% (17.3%).
+normalSkill:
+  normal1: Every 30 seconds, she reduces the amount an enemy gets healed by
+    26.7% (50.7％) (15 sec).
+passiveSkill:
+  passive1: Increases critical rate by 14% (26.6%).
+subSkill:
+  sub1: Increases allies' evasion by 9.1% (17.3%).
 profile:
   height: 153
   artist: 9ml

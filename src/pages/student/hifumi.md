@@ -21,13 +21,16 @@ combatEnvironment:
   urban: D
 exSkill:
   exCost: 5
-  exText: Summons a Peroro stuffed doll with 160% of Hifumi's HP within a
+  ex1: Summons a Peroro stuffed doll with 160% of Hifumi's HP within a
     specified area, dealing 101% (386%) damage while taunting enemies for 3.4
     seconds. Taunt duration increases to 3.9 seconds at EX level 5.
-normalText: Every 35 seconds, deals 212% damage to an enemy and reduces its
-  accuracy by 16.8%.
-enhancedText: Increases maximum HP by 14%.
-subText: While using EX skill, increases cost recovery. (5 sec)
+normalSkill:
+  normal1: Every 35 seconds, deals 212% damage to an enemy and reduces its
+    accuracy by 16.8%.
+passiveSkill:
+  passive1: Increases maximum HP by 14%.
+subSkill:
+  sub1: While using EX skill, increases cost recovery. (5 sec)
 profile:
   height: 158
   artist: Hwansang

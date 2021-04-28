@@ -21,11 +21,14 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 3
-  exText: Changes the normal attack's attribute (M) of her specified ally to
+  ex1: Changes the normal attack's attribute (M) of her specified ally to
     Mystic attribute for a period of time.
-normalText: At regular intervals, she inflicts (S) damage to enemies within a circle.
-enhancedText: Increases her attack power (S).
-subText: Increases all allies' recovery rate (S).
+normalSkill:
+  normal1: At regular intervals, she inflicts (S) damage to enemies within a circle.
+passiveSkill:
+  passive1: Increases her attack power (S).
+subSkill:
+  sub1: Increases all allies' recovery rate (S).
 profile:
   height: 151
   artist: vinoker
