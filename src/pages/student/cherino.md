@@ -8,9 +8,9 @@ rarity: "3"
 affiliation: Red Winter
 weaponType: HG
 equipment:
-  equipment1:
-  equipment2:
-  equipment3: 
+  ? equipment1
+  ? equipment2
+  ? equipment3
 role: Attacker
 position: Middle
 atkType: Penetration
@@ -22,12 +22,12 @@ combatEnvironment:
 exSkill:
   exCost: 8
   ex1: Deals (M) damage to enemies around her. Deals additional damage
-    proportional to the enemy's current HP (M).
+    proportional to current attack power.  (M).
 normalSkill:
   normal1: At regular intervals, she orders the target with the highest attack
     to be focused for (M) time.
 passiveSkill:
-  passive1: Increases maximum HP (S).
+  passive1: Increases attack power.  (S).
 subSkill:
   sub1: If there are 4 or more students from Red Winter School in a battle, she
     increases the cost recovery speed (M).
