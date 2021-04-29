@@ -12,11 +12,15 @@ featuredimage: /img/cherino-event.jfif
 tags:
   - Event
 ---
-![](/img/cherino-event.jfif)
+![Cherino Event](/img/cherino-event.jfif "Cherino Event")
 
 # Basic Overview
 
+WIP
+
 # Map Bonuses
+
+WIP (Researching)
 
 # Student Drop Bonuses
 
@@ -44,9 +48,21 @@ None :(
 
 ![Shop A (Cherino Brand Chocolate)](/img/cherino-shop-a.webp "Shop A (Cherino Brand Chocolate)")
 
+### Priority of purchase:
+
+WIP
+
 ![Shop B (Beard Crepe)](/img/cherino-shop-b.webp "Shop B (Beard Crepe)")
 
+### Priority of purchase:
+
+WIP
+
 ![Shop C (Beard Medallion)](/img/cherino-shop-c.webp "Shop C (Beard Medallion)")
+
+### Priority of purchase:
+
+WIP
 
 # Lottery Box
 
