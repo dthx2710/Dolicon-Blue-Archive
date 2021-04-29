@@ -8,9 +8,9 @@ rarity: "1"
 affiliation: Red Winter
 weaponType: SMG
 equipment:
-  equipment1: ""
-  equipment2: ""
-  equipment3: ""
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Necklace
 role: Supporter
 position: None
 atkType: Explosion
