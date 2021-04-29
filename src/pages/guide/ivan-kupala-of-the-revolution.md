@@ -148,8 +148,6 @@ Here are the translations for some of these commonly spotted words so you can de
 * イベント = Event bonus students
 * Back/Middle/Front = Positions
 
-
-
 #### PM Dolicon#8638 or Set#9193 if you see any other effects that are not listed yet
 
 - - -
@@ -218,7 +216,9 @@ Total Currency Required:
 
 ![Cherino Matryoshka](/img/cherino-lottery.webp "Cherino Matryoshka")
 
-1800 currency is needed for the whole lottery box to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
+This is the best place to dump your AP in.
+
+1800 dolls are needed for a whole lottery box to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
 
 For 450 AP you get:
 
