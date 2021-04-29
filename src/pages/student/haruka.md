@@ -24,11 +24,11 @@ exSkill:
   ex1: Fires repeatedly dealing a total of 821% (1560%) damage to enemies with
     a fan-shaped area as she moves forward.
 normalSkill:
-  normal1: Every 20 seconds, she increases her defense by 18.9%. (20 sec)
+  normal1: Every 20 seconds, she increases her defence by 18.9%. (20 sec)
 passiveSkill:
   passive1: Increases maximum HP by 14%.
 subSkill:
-  sub1: When attacked, 5% chance to increase defense by 18.1% (15 sec) (CD 10 sec).
+  sub1: When attacked, 5% chance to increase defence by 18.1% (15 sec) (CD 10 sec).
 profile:
   height: 157
   artist: DoReMi

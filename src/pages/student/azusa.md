@@ -24,7 +24,7 @@ exSkill:
   ex1: Deals (S) consecutive damage to the target and then (M) additional
     damage at the end. The attacked target takes (M) more damage over (M) time.
 normalSkill:
-  normal1: Deals (S) damage to one enemy every (S) time and reduces (S) defense
+  normal1: Deals (S) damage to one enemy every (S) time and reduces (S) defence
     for (M) time.
 passiveSkill:
   passive1: Increases attack speed (S).

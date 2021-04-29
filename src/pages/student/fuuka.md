@@ -24,7 +24,7 @@ exSkill:
   ex1: Places a cooking pot that allies in the area will run to, recovering
     109% (207%) heal potency.
 normalSkill:
-  normal1: Every 20 seconds, increases the defense of an ally with the highest
+  normal1: Every 20 seconds, increases the defence of an ally with the highest
     maximum HP by 18.1% (16 sec).
 passiveSkill:
   passive1: Increases heal potency by 14%.

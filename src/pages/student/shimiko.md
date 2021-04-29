@@ -21,7 +21,7 @@ combatEnvironment:
   indoor: B
 exSkill:
   exCost: 3
-  ex1: Creates a piece of cover and increases allies' defense within the area
+  ex1: Creates a piece of cover and increases allies' defence within the area
     by 16.3% (26.2%) (30 secs). Increases the cover's HP by 20.1% of Shimiko's
     HP at EX level 3, and 38% at EX level 5.
 normalSkill:
@@ -30,7 +30,7 @@ normalSkill:
 passiveSkill:
   passive1: Increases heal potency by 14%.
 subSkill:
-  sub1: Increases allies' defense by 9.1%.
+  sub1: Increases allies' defence by 9.1%.
 profile:
   height: 157
   artist: あやみ

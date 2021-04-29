@@ -21,7 +21,7 @@ combatEnvironment:
   indoor: D
 exSkill:
   exCost: 2
-  ex1: Deals 547% (EX 5 876%) damage to an enemy. Also reduces defense by 29% (EX3 33.3%, EX5 37.7%) (30 sec).
+  ex1: Deals 547% (EX 5 876%) damage to an enemy. Also reduces defence by 29% (EX3 33.3%, EX5 37.7%) (30 sec).
 normalSkill:
   normal1: Every 40 seconds, she deals 396% (753%) damage to an enemy.
 passiveSkill:

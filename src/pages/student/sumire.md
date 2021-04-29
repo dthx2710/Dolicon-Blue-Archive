@@ -28,7 +28,7 @@ normalSkill:
 passiveSkill:
   passive1: Increases HP by 14%.
 subSkill:
-  sub1: Increases defense by 13.4% when not in CC state.
+  sub1: Increases defence by 13.4% when not in CC state.
 profile:
   height: 167
   artist: Fame

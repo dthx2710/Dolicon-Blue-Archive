@@ -23,7 +23,7 @@ exSkill:
   exCost: 4
   ex1: Heals an ally for 54.1% (102%) heal potency over time (20 sec).
 normalSkill:
-  normal1: Every 25 seconds, increases the defense of an ally with the lowest
+  normal1: Every 25 seconds, increases the defence of an ally with the lowest
     HP by 17.7% (20 sec).
 passiveSkill:
   passive1: Increases heal potency by 14%.

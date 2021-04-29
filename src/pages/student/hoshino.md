@@ -28,7 +28,7 @@ normalSkill:
   normal1: When HP falls below 30%, recover HP by 100% heal potency over time
     (20 sec) (Only once per battle).
 passiveSkill:
-  passive1: Increases defense by 14%.
+  passive1: Increases defence by 14%.
 subSkill:
   sub1: While using her EX skill, creates a shield with strength equal to 108%
     heal potency.

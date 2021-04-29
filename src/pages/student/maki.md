@@ -24,7 +24,7 @@ exSkill:
   ex1: Deal 676% (1081%) damage to an enemy and increases attack by 41.9% (30
     sec). Attack buff increases to 48.2% at EX level 3, and 54.5% at EX level 5.
 normalSkill:
-  normal1: Every 25 seconds, mark and reduce an enemy's defense by 18.3% (15 sec).
+  normal1: Every 25 seconds, mark and reduce an enemy's defence by 18.3% (15 sec).
 passiveSkill:
   passive1: Increases attack speed by 14%.
 subSkill:

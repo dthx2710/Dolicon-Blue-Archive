@@ -21,14 +21,14 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 4
-  ex1: Increases defense by 28.1% (44.9%) (30 sec) and taunts enemies in a
+  ex1: Increases defence by 28.1% (44.9%) (30 sec) and taunts enemies in a
     circular area (4.7 sec). Taunt duration increases to 5.4 seconds at EX level
     3, and 6.2 seconds at EX level 5.
 normalSkill:
   normal1: When her HP falls below 30%, she restores her HP by 349% heal
     potency. (Only once per battle.)
 passiveSkill:
-  passive1: Increases defense by 14%.
+  passive1: Increases defence by 14%.
 subSkill:
   sub1: Reduces damage taken while reloading by 24%.
 profile:

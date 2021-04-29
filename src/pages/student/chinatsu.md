@@ -29,7 +29,7 @@ normalSkill:
 passiveSkill:
   passive1: Increases heal potency by 14%.
 subSkill:
-  sub1: Increases allies' defense by 9.1%.
+  sub1: Increases allies' defence by 9.1%.
 profile:
   height: 159
   artist: Mx2j

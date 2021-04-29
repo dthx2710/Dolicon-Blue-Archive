@@ -27,7 +27,7 @@ exSkill:
 normalSkill:
   normal1: Every 15 seconds, deal 301% damage to an enemy.
 passiveSkill:
-  passive1: Increases her defense by 14%
+  passive1: Increases her defence by 14%
 subSkill:
   sub1: While hidden, recover 75% heal potency (CD 10 sec).
 profile:
