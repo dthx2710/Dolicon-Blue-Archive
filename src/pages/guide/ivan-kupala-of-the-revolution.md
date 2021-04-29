@@ -8,7 +8,7 @@ contributors:
   - Zier
 date: 2021-04-29T13:57:23.001Z
 description: >-
-  Cherino focused story event runs from 29/04/21 till 13/05/21 12:00 (JST)
+  Cherino focused story event runs from 29/04/21 till 13/05/21 12:00 (JST).
 
 
   "A considerably generous event featuring both Contigency Contract... I mean debuff till death with high-risk high reward outcome" - Set
@@ -73,7 +73,7 @@ For 450 AP you get:
 * 2 purple, 8 gold, 16 blue, 40 white reports = 22 runs of Stage 5 330AP worth
 * 1885k credits = 754 currency, \~17.95 runs, \~269 AP 599 AP worth in only credits and reports, NOT COUNTING SHARDS AND OTHER MATS
 
-With lottery box being more efficient than the other shops, it's wise to get skill books, BDs, mats and then move on to farming Stage 7. 
+With lottery box being more efficient than the other shops, it's wise to get skill books, BDs, mats (OOParts) and then move on to farming Stage 7. 
 
 (WIP)
 
@@ -141,7 +141,13 @@ WIP (Researching)
 
 ### Priority of purchase:
 
-As said above, get Red Winter Skill BDs and skill materials then move on to farming stage 7.
+As said above, get Red Winter Skill BDs and skill materials (OOParts) then move on to farming stage 7.
+
+BD > OOParts < Reports (Skip)
+
+Total Currency Required:
+
+960 (BD) + 3875 (OOParts) + 3900 (Reports) = **8735**
 
 ## <a name="shop-b"></a>Shop B (Beard Crepe)
 
@@ -149,7 +155,15 @@ As said above, get Red Winter Skill BDs and skill materials then move on to farm
 
 ### Priority of purchase:
 
-Same as Shop A, except its now skill books instead of BDs. 
+Same as Shop A, except its now skill books instead of BDs.
+
+Skill Books > OOParts < Orbs (Skip)
+
+Total Currency Required:
+
+3175 (Skill Books) + 3875 (OOParts) + 1425 (Reports) = **8475**
+
+
 
 ## <a name="shop-c"></a>Shop C (Beard Medallion)
 
@@ -158,6 +172,12 @@ Same as Shop A, except its now skill books instead of BDs.
 ### Priority of purchase:
 
 WIP
+
+Total Currency Required:
+
+40 (Shards) + 40 (Gems) + 40 (Goddess Crystals) + 20 (Skill Book)
+
++ 25 (Credits 1) + 30 (Credits 2) + 25 (Credits 3) = **220**
 
 - - -
 
