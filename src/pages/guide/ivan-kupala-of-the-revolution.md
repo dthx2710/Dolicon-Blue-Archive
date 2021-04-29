@@ -113,26 +113,44 @@ Here are the translations for some of these commonly spotted words so you can de
 * 最大HP = Maximum HP
 * 攻撃 = Attack
 
-**Attack Type**
+**Attack (攻撃) or Defence (防御) Type**
 
-* 爆発 = Explosive (red)
-* 貫通 = Penetration ATK type (yellow)
-* 神秘 = Mythic ATK type (blue)
+* 爆発 = Explosive (Red)
+* 貫通 = Penetration (Yellow)
+* 神秘 = Mystic (Blue)
 
 **Student Type**
 
 * ストライカー = Striker
-* サポーター = Special/Supporter
+* サポーター = Special
 
 **Affiliation (School)**
 
 * アビドス = Abydos
 * ゲヘナ = Gehenna
-* ミレニアム = Millennium
-* トリニティ = Trinity
 * 百鬼夜行 = Hyakkiyakou
-* 山海経 = Shanhaijing
+* ミレニアム = Millennium
 * レッドウィンター = Red Winter
+* 山海経 = Shanhaijing
+* トリニティ = Trinity
+
+**Combat Environment (Terrain)**
+
+* 市街地 = Urban
+* 屋外 = Outdoors
+* 屋内 = Indoors
+* B以下 = Below B (neutral)
+
+**Others**
+
+* XXの装備 = where XX is weapon type (e.g. SMG or AR)
+* 遮蔽物に隠れられる生徒 = Students who are able to hide under cover
+* イベント = Event bonus students
+* Back/Middle/Front = Positions
+
+
+
+#### PM Dolicon#8638 or Set#9193 if you see any other effects that are not listed yet
 
 - - -
 
