@@ -24,15 +24,17 @@ tags:
 
 - - -
 
-# Basic Overview
+# <a name="basic-overview"></a>Basic Overview
 
 WIP
+- - -
 
-# Map Bonuses
+# <a name="map-bonuses"></a>Map Bonuses
 
 WIP (Researching)
+- - -
 
-# Student Drop Bonuses
+# <a name="student-drop-bonuses"></a>Student Drop Bonuses
 
 ![Striker Drop Bonus](/img/cherino-striker-bonus.webp "Striker Drop Bonus")
 
@@ -54,7 +56,7 @@ Haruna, Akari, Juri +20%
 
 None :(
 
-# Event Shop
+# <a name="event-shop"></a>Event Shop
 
 ![Shop A (Cherino Brand Chocolate)](/img/cherino-shop-a.webp "Shop A (Cherino Brand Chocolate)")
 
@@ -74,6 +76,6 @@ WIP
 
 WIP
 
-# Lottery Box
+# <a name="lottery-box"></a>Lottery Box
 
 ![Cherino Matryoshka](/img/cherino-lottery.webp "Cherino Matryoshka")
