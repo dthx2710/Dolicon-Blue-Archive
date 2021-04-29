@@ -1,16 +1,16 @@
 ---
 templateKey: guide-post
 title: Introduction to [Total War] Mode
+author: Pengent
+contributors:
+  - Hespathus
+  - Set
 date: 2021-04-17T01:35:51.033Z
 description: "Total War (Also commonly known as Raid mode) is a PvE game mode
   that feature a different boss every season, with each boss requires a unique
   team composition and strategy. "
 featuredpost: false
 featuredimage: /img/totalwar.webp
-author: Pengent
-contributors:
-  - Hespathus
-  - Zen
 tags:
   - Raid
 ---
