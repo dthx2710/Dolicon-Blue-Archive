@@ -19,6 +19,8 @@ tags:
 ---
 ![Cherino Event](/img/cherino-event-featured.jfif "Cherino Event")
 
+
+
 # Table Of Contents
 
 * ## [Event Overview](#event-overview)
@@ -56,24 +58,14 @@ This event introduces several new event mechanics, including:
 
 * Lottery box
 
-  Lottery currency drops on every stage (Cherino Matroyshka). Roll and reset the boxes, rinse and repeat.
+  * Lottery currency drops on every stage (Cherino Matroyshka). Roll and reset the boxes, rinse and repeat.
+  * The lottery box is more efficient than the other shops, so it's wise to get skill books, BDs, mats (OOParts) and then move on to farming Stage 7.
 * Choice-based buff/debuffs
 
   Going through the maps, you will notice a popup with 3 different choices. You can either choose a buff effect (red) or be greedy and take a debuff for the team in exchange for some crazy drop bonus. Specific buff translations are in another section below.
 * Challenge Mode
 
   We really don't know much about it yet, but you can bet that we'll update this page when it gets released!
-
-Speedrun:
-
-1800 currency is needed for the whole lottery box to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
-
-For 450 AP you get:
-
-* 2 purple, 8 gold, 16 blue, 40 white reports = 22 runs of Stage 5 330AP worth
-* 1885k credits = 754 currency, \~17.95 runs, \~269 AP 599 AP worth in only credits and reports, NOT COUNTING SHARDS AND OTHER MATS
-
-With lottery box being more efficient than the other shops, it's wise to get skill books, BDs, mats (OOParts) and then move on to farming Stage 7. 
 
 (WIP)
 
@@ -141,7 +133,7 @@ WIP (Researching)
 
 ### Priority of purchase:
 
-As said above, get Red Winter Skill BDs and skill materials (OOParts) then move on to farming stage 7.
+The lottery box is more efficient than the other shops, so it's wise to get BDs & skill materials (OOParts) and then move on to farming Stage 7.
 
 BD > OOParts < Reports (Skip)
 
@@ -163,8 +155,6 @@ Total Currency Required:
 
 3175 (Skill Books) + 3875 (OOParts) + 1425 (Reports) = **8475**
 
-
-
 ## <a name="shop-c"></a>Shop C (Beard Medallion)
 
 ![Shop C (Beard Medallion)](/img/cherino-shop-c.webp "Shop C (Beard Medallion)")
@@ -177,10 +167,19 @@ Total Currency Required:
 
 40 (Shards) + 40 (Gems) + 40 (Goddess Crystals) + 20 (Skill Book)
 
-+ 25 (Credits 1) + 30 (Credits 2) + 25 (Credits 3) = **220**
+* 25 (Credits 1) + 30 (Credits 2) + 25 (Credits 3) = **220**
 
 - - -
 
 # <a name="lottery-box"></a>Lottery Box
 
 ![Cherino Matryoshka](/img/cherino-lottery.webp "Cherino Matryoshka")
+
+1800 currency is needed for the whole lottery box to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
+
+For 450 AP you get:
+
+* 2 purple, 8 gold, 16 blue, 40 white reports = 22 runs of Stage 5 330AP worth
+* 1885k credits = 754 currency, \~17.95 runs, \~269 AP 599 AP worth in only credits and reports, NOT COUNTING SHARDS AND OTHER MATS
+
+The lottery box base rewards up to 6(?) resets, and it is unlimited resets afterwards, with a less rewarding pool.
