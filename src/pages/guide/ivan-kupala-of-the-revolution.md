@@ -12,7 +12,7 @@ featuredimage: /img/cherino-event.jfif
 tags:
   - Event
 ---
-![Cherino Event](/img/cherino-event.jfif "Cherino Event")
+![Cherino Event](/img/cherino-event-featured.jfif "Cherino Event")
 
 # Basic Overview
 
