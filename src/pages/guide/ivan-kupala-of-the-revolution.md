@@ -16,11 +16,11 @@ tags:
 
 # Table Of Contents
 
-* ### [Basic Overview](#Basic Overview)
-* ### [Map Bonuses](#Map Bonuses)
-* ### [Student Drop Bonuses](#Student Drop Bonuses)
-* ### [Event Shop](#Event Shop)
-* ### [Lottery Box](#Lottery Box)
+* ### [Basic Overview](#basic-overview)
+* ### [Map Bonuses](#map-bonuses)
+* ### [Student Drop Bonuses](#student-drop-bonuses)
+* ### [Event Shop](#event-shop)
+* ### [Lottery Box](#lottery-box)
 
 - - -
 
