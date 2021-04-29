@@ -16,6 +16,8 @@ const Navbar = class extends React.Component {
       toolsDropdownActiveClass: '',
       resourcesexpand: false,
       resourcesDropdownActiveClass: '',
+      guidesexpand: false,
+      guidesDropdownActiveClass: '',
     }
   }
 
@@ -96,6 +98,26 @@ const Navbar = class extends React.Component {
     )
   }
 
+  toggleGuidesDropdown = () => {
+    // toggle the active boolean in the state
+    this.setState(
+      {
+        guidesexpand: !this.state.guidesexpand,
+      },
+      // after state has been updated,
+      () => {
+        // set the class in state for the navbar accordingly
+        this.state.guidesexpand
+          ? this.setState({
+              guidesDropdownActiveClass: 'expand',
+            })
+          : this.setState({
+              guidesDropdownActiveClass: '',
+            })
+      }
+    )
+  }
+
   render() {
     return (
       <nav
@@ -143,22 +165,28 @@ const Navbar = class extends React.Component {
                   <Link className="navbar-item dropdown-item" to="/exp">EXP Calculator</Link>
                   <Link className="navbar-item dropdown-item" to="/equip">Equip Drop Optimiser</Link>
                   <Link className="navbar-item dropdown-item" to="/map">Campaign Map Info</Link>
+                  <Link className="navbar-item" to="/gacha">Gacha Simulator</Link>
                 </div>
               </div>
 
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-item navbar-link" onClick={() => this.toggleResourcesDropdown()} onKeyDown={() => this.toggleResourcesDropdown()} role="button" tabIndex="0">Resources</div>
                 <div className={`navbar-dropdown ${this.state.resourcesDropdownActiveClass}`}>
-                <Link className="navbar-item dropdown-item" to="/gift">Student Gifts</Link>
+                  <Link className="navbar-item dropdown-item" to="/gift">Student Gifts</Link>
                   <Link className="navbar-item dropdown-item" to="/reroll">Reroll</Link>
                   <Link className="navbar-item dropdown-item" to="/translations">Menus</Link>
                   <Link className="navbar-item dropdown-item" to="/faq">FAQ</Link>
                 </div>
               </div>
 
-              <Link className="navbar-item" to="/gacha">
-                Gacha
-              </Link>
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-item navbar-link" onClick={() => this.toggleGuidesDropdown()} onKeyDown={() => this.toggleGuidesDropdown()} role="button" tabIndex="0">Guides</div>
+                <div className={`navbar-dropdown ${this.state.guidesDropdownActiveClass}`}>
+                  <Link className="navbar-item dropdown-item" to="/guide">Browse All →</Link>
+                  <hr style={{'margin':'0.2em 0'}}/>
+                  <Link className="navbar-item dropdown-item" to="/guide/introduction-to-total-war-mode/">Raid Introduction</Link>
+                </div>
+              </div>
 
               <Link className="navbar-item" to="/about">
                 About

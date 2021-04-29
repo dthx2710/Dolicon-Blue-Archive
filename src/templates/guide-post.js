@@ -11,7 +11,10 @@ export const GuidePostTemplate = ({
   contentComponent,
   description,
   tags,
+  author,
+  contributors,
   title,
+  date,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -25,8 +28,21 @@ export const GuidePostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <h4>by {author} on {date}</h4>
             <p>{description}</p>
             <PostContent content={content} />
+            {contributors && contributors.length ? (
+              <div style={{ marginTop: `4rem` }}>
+                <h4>Contributors</h4>
+                <ul className="taglist">
+                  {contributors.map((contributor) => (
+                    <li key={contributor + `contributor`}>
+                      <p>{contributor}</p>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
@@ -72,7 +88,10 @@ const GuidePost = ({ data }) => {
             />
           </Helmet>
         }
+        date={post.frontmatter.date}
         tags={post.frontmatter.tags}
+        author={post.frontmatter.author}
+        contributors={post.frontmatter.contributors}
         title={post.frontmatter.title}
       />
     </Layout>
@@ -96,6 +115,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        author
+        contributors
         tags
       }
     }

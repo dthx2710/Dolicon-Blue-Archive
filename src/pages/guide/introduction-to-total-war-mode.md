@@ -7,6 +7,10 @@ description: "Total War (Also commonly known as Raid mode) is a PvE game mode
   team composition and strategy. "
 featuredpost: false
 featuredimage: /img/totalwar.webp
+author: Pengent
+contributors:
+  - Hespathus
+  - Zen
 tags:
   - Raid
 ---
