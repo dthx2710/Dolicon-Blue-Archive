@@ -50,6 +50,7 @@ The basic flow of this is as goes:
   * There are 3 shop currencies and 1 lottery box currency.
   * Using specific students will net you a bonus drop rate for some event currencies.
   * Clearing a map will save your highest bonus rate for when you skip runs in the future.
+  * Farm 5 for Chocolates (A), 6 for Crepes (B), 7 for Dolls (lottery)
 * Buy stuff from the event shop and play the lottery box
 * Wait for week 2 to unlock Challenge Mode
 * Rinse and repeat, farm whatever you need. Recommended shop priority is in another section below
