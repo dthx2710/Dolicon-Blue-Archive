@@ -19,8 +19,6 @@ tags:
 ---
 ![Cherino Event](/img/cherino-event-featured.jfif "Cherino Event")
 
-
-
 # Table Of Contents
 
 * ## [Event Overview](#event-overview)
@@ -29,7 +27,7 @@ tags:
   * [Cherino Matryoshka (Lottery)](#dropbonus-lottery)
   * [Cherino Brand Chocolate (A)](#dropbonus-a)
   * [Beard Crepe (B)](#dropbonus-b)[](#map-bonuses)
-* ## [Map Bonuses](#map-bonuses)
+* ## [Map Bonuses (Buff/Debuff)](#map-bonuses)
 * ## [Quest Guide](#quest-guide)
 * ## [Event Shop](#event-shop)
 
@@ -96,19 +94,45 @@ None :(
 
 - - -
 
-# <a name="map-bonuses"></a>Map Bonuses
+# <a name="map-bonuses"></a>Map Bonuses (Buff/Debuff)
 
 ![Map Bonus Example](/img/map-bonus.webp "Map Bonus Example")
 
-There will be 2 red and 1 blue choice
+As you go across clearing the event quests, you may notice this popup asking you to pick an option.
 
-Red = buff
+Basically, the top 2 reds are **buffs** to your students while the bottom 1 blue is a **debuff** but you get an **event currency bonus**.
 
-Blue = debuff but GIGA drop bonus POG POG POG
+There are 2 types of effects, **HP** and **ATK**
 
-Here's the list of buffs & debuffs in this event:
+The effects will be applied to a specific category of students, e.g. Affiliation, Student Type, Role, or Weapon.
 
-WIP (Researching)
+Here are the translations for some of these commonly spotted words so you can decipher the effects:
+
+**Effect Type**
+
+* 最大HP = Maximum HP
+* 攻撃 = Attack
+
+**Attack Type**
+
+* 爆発 = Explosive (red)
+* 貫通 = Penetration ATK type (yellow)
+* 神秘 = Mythic ATK type (blue)
+
+**Student Type**
+
+* ストライカー = Striker
+* サポーター = Special/Supporter
+
+**Affiliation (School)**
+
+* アビドス = Abydos
+* ゲヘナ = Gehenna
+* ミレニアム = Millennium
+* トリニティ = Trinity
+* 百鬼夜行 = Hyakkiyakou
+* 山海経 = Shanhaijing
+* レッドウィンター = Red Winter
 
 - - -
 
@@ -122,7 +146,7 @@ Stage 6
 
 Stage 7
 
-WIP (Researching)
+WIP
 
 - - -
 
