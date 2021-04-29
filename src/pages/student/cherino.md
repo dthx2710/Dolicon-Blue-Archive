@@ -8,29 +8,30 @@ rarity: "3"
 affiliation: Red Winter
 weaponType: HG
 equipment:
-  ? equipment1
-  ? equipment2
-  ? equipment3
+  equipment1: Shoes
+  equipment2: Badge
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Penetration
 defType: Light Armour
 combatEnvironment:
-  outdoor: D
-  indoor: S
+  outdoor: S
+  indoor: D
   urban: B
 exSkill:
-  exCost: 8
-  ex1: Deals (M) damage to enemies around her. Deals additional damage
-    proportional to current attack power.  (M).
+  exCost: 7
+  ex1: Deals 515% damage to enemies around her.
 normalSkill:
-  normal1: At regular intervals, she orders the target with the highest attack
-    to be focused for (M) time.
+  normal1: "Every 40s, designates the enemy with the highest attack value as the
+    priority target for all allies. Inflicts a 18.7% critical damage resistance
+    down debuff to the target (15s). "
 passiveSkill:
-  passive1: Increases attack power.  (S).
+  passive1: Increases attack power by 14%.
 subSkill:
-  sub1: If there are 4 or more students from Red Winter School in a battle, she
-    increases the cost recovery speed (M).
+  sub1: Increase SP cost regen by 269. For every Red Winter student present in the
+    party (excluding Cherino herself), further increases SP cost regen by 77,
+    stacks up to three times maximum.
 profile:
   height: 128
   artist: Hwansang
