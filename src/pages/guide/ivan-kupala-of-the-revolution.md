@@ -5,6 +5,7 @@ author: Dolicon
 contributors:
   - Hespathus
   - Set
+  - Zier
 date: 2021-04-29T13:57:23.001Z
 description: >-
   Cherino focused story event runs from 29/04/21 till 13/05/21 12:00 (JST)
@@ -65,12 +66,14 @@ This event introduces several new event mechanics, including:
 
 Speedrun:
 
-1800 currency is needed for the whole shop to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
+1800 currency is needed for the whole lottery box to be bought out, and with max bonuses you only need 30 runs of Stage 7 which takes up 450 AP.
 
 For 450 AP you get:
 
 * 2 purple, 8 gold, 16 blue, 40 white reports = 22 runs of Stage 5 330AP worth
 * 1885k credits = 754 currency, \~17.95 runs, \~269 AP 599 AP worth in only credits and reports, NOT COUNTING SHARDS AND OTHER MATS
+
+With lottery box being more efficient than the other shops, it's wise to get skill books, BDs, mats and then move on to farming Stage 7. 
 
 (WIP)
 
@@ -138,7 +141,7 @@ WIP (Researching)
 
 ### Priority of purchase:
 
-WIP
+As said above, get Red Winter Skill BDs and skill materials then move on to farming stage 7.
 
 ## <a name="shop-b"></a>Shop B (Beard Crepe)
 
@@ -146,7 +149,7 @@ WIP
 
 ### Priority of purchase:
 
-WIP
+Same as Shop A, except its now skill books instead of BDs. 
 
 ## <a name="shop-c"></a>Shop C (Beard Medallion)
 
