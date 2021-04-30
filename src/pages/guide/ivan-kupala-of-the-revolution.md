@@ -106,6 +106,8 @@ There are 2 types of effects, **HP** and **ATK**
 
 The effects will be applied to a specific category of students, e.g. Affiliation, Student Type, Role, or Weapon.
 
+Modifiers are **random** on each run, so if you get a bad debuff that hinders your dps or tank you can restart and hope to get a different debuff.
+
 Here are the translations for some of these commonly spotted words so you can decipher the effects:
 
 **Effect Type**
