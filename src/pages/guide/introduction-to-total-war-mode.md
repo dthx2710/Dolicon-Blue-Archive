@@ -57,9 +57,9 @@ Your ranking points depend on how fast can you kill the boss. It is used by the 
 
 ![](/img/binahreward.webp "End of season trophy")
 
-![]( "Placeholder4: Bracket")
+![](/img/raid11.webp "Bracket")
 
-![]( "Placeholder5: Progression Milestone")
+![](/img/raid12.webp "Progression Milestone")
 
 However, If it is not an active season you will be greeted by sad Arona instead.
 
@@ -67,18 +67,30 @@ However, If it is not an active season you will be greeted by sad Arona instead.
 
 # List of Total War Bosses.
 
-\-Binah
+Binah
 
-\-Chesed
+Armor Type: Heavy Armor
 
-\-Shiro & Kuro
+A large mechanical beast that engulf its surrounding in sandstorm. Your students need to shred through Binah's defense while also fending off against its attack.
 
-\-That Red dude I can't spell Mayonnaise
+Appeared in: BETA, Season 3
 
-# Recommended Student.
 
-\-Kotama
 
-\-Iori
+Chesed
 
-\-Hibiki
+Armor Type: Heavy Armor
+
+A corrupted system core with the ability to reinforce itself with endless robots. Can your students survive endless wave of onslaught?
+
+Appeared in: Season 1, Season 4
+
+
+
+Shiro & Kuro
+
+Armor Type: Normal Armor
+
+A playful duo that plague the abandoned themepark. Mobility is required in order to keep up with their game.
+
+Appeared in: Season 3
