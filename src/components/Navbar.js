@@ -185,6 +185,7 @@ const Navbar = class extends React.Component {
                   <Link className="navbar-item dropdown-item" to="/guide">Browse All →</Link>
                   <hr style={{'margin':'0.2em 0'}}/>
                   <Link className="navbar-item dropdown-item" to="/guide/ivan-kupala-of-the-revolution/">Cherino Event</Link>
+                  <Link className="navbar-item dropdown-item" to="/guide/chesed/">Chesed Overview</Link>
                   <Link className="navbar-item dropdown-item" to="/guide/introduction-to-total-war-mode/">Raid Introduction</Link>
                 </div>
               </div>
