@@ -1,8 +1,8 @@
 ---
 templateKey: guide-post
-title: "Chesed "
+title: "Chesed"
 author: Pengent, Hespathus
-contributors: ""
+contributors:
 date: 2021-04-30T01:10:29.607Z
 description: "The only guide you need in order to tackle Chesed :serikasurprised:"
 featuredpost: true

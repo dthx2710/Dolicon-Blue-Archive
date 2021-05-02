@@ -22,7 +22,7 @@ collections:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "guide-post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Contributors", name: "contributors", widget: "list", required: false, default: ""}
+      - {label: "Contributors", name: "contributors", widget: "list", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
