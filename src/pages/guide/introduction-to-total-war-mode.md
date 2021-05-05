@@ -67,7 +67,9 @@ However, If it is not an active season you will be greeted by sad Arona instead.
 
 # List of Total War Bosses.
 
-Binah
+![](/img/boss_portrait_binah_lobby.webp)
+
+#### Binah
 
 Armor Type: Heavy Armor
 
@@ -75,9 +77,9 @@ A large mechanical beast that engulf its surrounding in sandstorm. Your students
 
 Appeared in: BETA, Season 3
 
+![](/img/boss_portrait_chesed_lobby.webp)
 
-
-Chesed
+#### Chesed
 
 Armor Type: Heavy Armor
 
@@ -85,9 +87,9 @@ A corrupted system core with the ability to reinforce itself with endless robots
 
 Appeared in: Season 1, Season 4
 
+![](/img/boss_portrait_shirokuro_lobby.webp)
 
-
-Shiro & Kuro
+#### Shiro & Kuro
 
 Armor Type: Normal Armor
 
