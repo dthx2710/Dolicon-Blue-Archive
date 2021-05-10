@@ -12,7 +12,7 @@ equipment:
   equipment2: Hairpin
   equipment3: Watch
 role: Attacker
-position: Middle
+position: Back
 atkType: Explosion
 defType: Light Armour
 combatEnvironment:
