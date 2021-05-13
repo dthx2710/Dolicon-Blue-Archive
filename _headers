@@ -1,2 +1,6 @@
 /static/*
   Cache-Control: "public, max-age=360000"
+/public/page-data/*
+  Cache-Control: "public, max-age=0, must-revalidate"
+/sw.js   # Gatsby's default service worker file path
+   Cache-Control: "public, max-age=0, must-revalidate"
