@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import discord from '../img/social/discord.svg'
 import kofi from '../img/social/Ko-fi_Icon_RGB_rounded.png'
 import github from '../img/github-icon.svg'
+import facebook from '../img/social/facebook_old.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -56,13 +57,6 @@ const Footer = class extends React.Component {
               </div>
               
               <div className="column is-4 social">
-                <a title="discord" href="https://discord.gg/bluearchive">
-                    <img
-                      src={discord}
-                      alt="Discord"
-                      style={{ width: '2em', height: '2em' }}
-                    />
-                  </a>
                   <a title="ko-fi" href="https://ko-fi.com/dolicon">
                     <img
                       src={kofi}
@@ -74,6 +68,20 @@ const Footer = class extends React.Component {
                     <img
                       src={github}
                       alt="Github"
+                      style={{ width: '2em', height: '2em' }}
+                    />
+                  </a>
+                  <a title="discord" href="https://discord.gg/bluearchive">
+                    <img
+                      src={discord}
+                      alt="Discord"
+                      style={{ width: '2em', height: '2em' }}
+                    />
+                  </a>
+                  <a title="facebook" href="https://www.facebook.com/groups/311889543327097/">
+                    <img
+                      src={facebook}
+                      alt="Facebook"
                       style={{ width: '2em', height: '2em' }}
                     />
                   </a>
