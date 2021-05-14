@@ -16,9 +16,9 @@ position: Middle
 atkType: Penetration
 defType: Special Armour
 combatEnvironment:
-  outdoor: Unknown
-  urban: Unknown
-  indoor: Unknown
+  outdoor: B
+  urban: S
+  indoor: D
 exSkill:
   exCost: 4
   ex1: Deals 312% damage to an enemy and enemies near it in a circular area.
@@ -51,7 +51,7 @@ passiveSkill:
   passive9: ""
 subSkill:
   sub1: Upon activating EX or normal skill, increase critical damage by 22.3% for
-    x seconds.
+    6 seconds.
   sub2: ""
   sub3: ""
   sub4: ""
