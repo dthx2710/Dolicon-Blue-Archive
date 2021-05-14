@@ -20,16 +20,16 @@ combatEnvironment:
   urban: Unknown
   indoor: Unknown
 exSkill:
-  exCost: 0
-  ex1: Deals x% damage to an enemy and enemies near it in a circular area.
+  exCost: 4
+  ex1: Deals 312% damage to an enemy and enemies near it in a circular area.
   ex2: ""
   ex3: ""
   ex4: ""
   ex5: ""
 normalSkill:
   normal10: ""
-  normal1: Every x seconds, deals damage to the enemy with the highest attack and
-    enemies near it in a circular area.
+  normal1: Every 25 seconds, deals 147% damage to the enemy with the highest
+    attack and enemies near it in a circular area.
   normal2: ""
   normal3: ""
   normal4: ""
@@ -50,8 +50,8 @@ passiveSkill:
   passive8: ""
   passive9: ""
 subSkill:
-  sub1: Upon activating EX or normal skill, increase critical damage by X% for x
-    seconds.
+  sub1: Upon activating EX or normal skill, increase critical damage by 22.3% for
+    x seconds.
   sub2: ""
   sub3: ""
   sub4: ""
