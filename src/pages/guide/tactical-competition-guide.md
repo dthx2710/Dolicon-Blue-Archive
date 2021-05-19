@@ -88,7 +88,7 @@ As for the student who played a major part in Tactical Competition, here's a lis
 3. [Kakudate Karin](https://dolicon-bluearchive.netlify.app/student/karin/) (Single-Target Nuker)
 4. [Shizuyama Mashiro](https://dolicon-bluearchive.netlify.app/student/mashiro/) (Single-Target Nuker)
 5. [Yakushi Saya](https://dolicon-bluearchive.netlify.app/student/saya/) (Aerial Burst-DMG)
-6. [Omagari Hare](https://dolicon-bluearchive.netlify.app/student/hare/) (Offensive Stun)
+6. [Omagari Hare](https://dolicon-bluearchive.netlify.app/student/hare/) (Offensive Stun + Evasion + Healing Reduction)
 7. [Otose Kotama](https://dolicon-bluearchive.netlify.app/student/kotama/) (Major ATK Power Buff + Enemy Debuff)
 
 This should have give you the major view on how will the battle goes on when you engage other teacher to claim the peak of Tactical Competition.
@@ -122,13 +122,9 @@ When Shun's normal skill animation stopped and if Shun's EX is active at the sam
 
 Still, the whole ordeal entirely depends on the RNG. But with a better positioning, you can have a better chance on raising ranks in Tactical Competition.
 
-
-
 Image to show the positioning of students in the field compared to preview, offence and defence.
 
 ![Student Positioning in field](/img/pvp_off_def_position.png "Student Positioning in field")
-
-
 
 **Meta Formations**
 
