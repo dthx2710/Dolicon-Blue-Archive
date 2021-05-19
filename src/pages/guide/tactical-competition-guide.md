@@ -24,7 +24,7 @@ After my major research on Tactical Competition, i shall guide you on how to sur
 
 \=========================================================
 
-**1. Well-versed on every student**
+### **1. Well-versed on every student**
 
 Knowing on how each student work out in the field will give you the advantage of choosing what's the best option to fight an opponent of your choice. You don't want to spend pyroxenes just to get the sweet first time position reward.
 Every students has its own unique skills which plays their important role in the battle. Lets take example from our proud mama Shun.
@@ -95,7 +95,7 @@ This should have give you the major view on how will the battle goes on when you
 
 \=========================================================
 
-**2. Student's Positioning**
+### **2. Student's Positioning**
 
 Without doubt, this also played a major role on Tactical Competition. As i already mention before, each students has their own unique skills that can work perfectly depending on how do you position them on the battle.
 One thing that you should aware when you attempt to position your student before getting into combat is "Cover" mechanics. Some of the student which has this ability will seek cover that entirely depends on the formation.
@@ -121,6 +121,16 @@ In this battle, the enemy is also deploying their Shun way out of my Shun's rang
 When Shun's normal skill animation stopped and if Shun's EX is active at the same time, the RNG will begin to calculate on which cover is best for Shun to aim at the highest ATK Power student at the time and to continue engaging other backline. 
 
 Still, the whole ordeal entirely depends on the RNG. But with a better positioning, you can have a better chance on raising ranks in Tactical Competition.
+
+
+
+Image to show the positioning of students in the field compared to preview, offence and defence.
+
+![Student Positioning in field](/img/pvp_off_def_position.png "Student Positioning in field")
+
+
+
+**Meta Formations**
 
 As for the Meta Formation, I have 3 kinds of formation that i used to outwit the whales in PvP. Keep in mind that you can change the position yourself for better chance of winning the battle. You can also customize your own backline for yourself to further increase the chance of winning the battle.
 
