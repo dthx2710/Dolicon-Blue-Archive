@@ -1,16 +1,16 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Kirino
+name: Kirino (CBT)
 image: /img/kirino_01.webp
 portrait: /img/Student_Portrait_Kirino_Collection.webp
 rarity: "1"
 affiliation: Valkyrie
 weaponType: HG
 equipment:
-  equipment1:
-  equipment2:
-  equipment3:
+  ? equipment1
+  ? equipment2
+  ? equipment3
 role: Attacker
 position: Middle
 atkType: Explosion
@@ -24,8 +24,8 @@ exSkill:
   ex1: Throws a smoke grenade in the specified area and reduces the enemy's
     accuracy (M) for a (very) short time.
 normalSkill:
-  normal1: At regular intervals, she inflicts (S) damage to the enemy and
-    reduces (S) enemy's accuracy for (S) time.
+  normal1: At regular intervals, she inflicts (S) damage to the enemy and reduces
+    (S) enemy's accuracy for (S) time.
 passiveSkill:
   passive1: Increases her maximum HP (S).
 subSkill:
