@@ -1,16 +1,16 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Koharu
+name: Koharu (CBT)
 image: /img/koharu_01.webp
 portrait: /img/Student_Portrait_Koharu_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: SR
 equipment:
-  equipment1:
-  equipment2:
-  equipment3:
+  ? equipment1
+  ? equipment2
+  ? equipment3
 role: Supporter
 position: Back
 atkType: Mystic
@@ -23,8 +23,8 @@ exSkill:
   exCost: 5
   ex1: Restores (M) allies' HP in the specified area.
 normalSkill:
-  normal1: When an ally's HP level is low, she restores (M) the one ally's HP
-    with the lowest current HP level.
+  normal1: When an ally's HP level is low, she restores (M) the one ally's HP with
+    the lowest current HP level.
 passiveSkill:
   passive1: Increases her healing power (S).
 subSkill:
