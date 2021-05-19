@@ -1,16 +1,16 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Azusa
+name: Azusa (CBT)
 image: /img/azusa_01.webp
 portrait: /img/Student_Portrait_Azusa_Collection.webp
 rarity: "3"
 affiliation: Trinity
 weaponType: AR
 equipment:
-  equipment1:
-  equipment2:
-  equipment3:
+  ? equipment1
+  ? equipment2
+  ? equipment3
 role: Attacker
 position: Middle
 atkType: Penetration
@@ -21,8 +21,8 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 3
-  ex1: Deals (S) consecutive damage to the target and then (M) additional
-    damage at the end. The attacked target takes (M) more damage over (M) time.
+  ex1: Deals (S) consecutive damage to the target and then (M) additional damage
+    at the end. The attacked target takes (M) more damage over (M) time.
 normalSkill:
   normal1: Deals (S) damage to one enemy every (S) time and reduces (S) defence
     for (M) time.
