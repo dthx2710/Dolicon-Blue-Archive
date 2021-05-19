@@ -12,7 +12,7 @@ description: >-
 
 
   "A considerably generous event featuring both Contigency Contract... I mean debuff till death with high-risk high reward outcome" - Set
-featuredpost: true
+featuredpost: false
 featuredimage: /img/cherino-event-featured.webp
 tags:
   - Event
