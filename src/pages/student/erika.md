@@ -1,16 +1,16 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Erika
+name: Erika (CBT)
 image: /img/erika_01.webp
 portrait: /img/Student_Portrait_Erika_Collection.webp
 rarity: "1"
 affiliation: Gehenna
 weaponType: SG
 equipment:
-  equipment1:
-  equipment2:
-  equipment3:
+  ? equipment1
+  ? equipment2
+  ? equipment3
 role: Attacker
 position: Front
 atkType: Explosion
@@ -21,13 +21,13 @@ combatEnvironment:
   urban: A
 exSkill:
   exCost: 3
-  ex1: Reloads immediately after the skill is activated and then the normal
-    attack is enhanced and changed to a circular ranged attack. Increases (M)
-    critical rate for time (M).
+  ex1: Reloads immediately after the skill is activated and then the normal attack
+    is enhanced and changed to a circular ranged attack. Increases (M) critical
+    rate for time (M).
 normalSkill:
-  normal1: At regular intervals, she throws a handful of smoke grenade to
-    reduce enemies's accuracy rate in the smoke screen for a (very) short period
-    of time (S).
+  normal1: At regular intervals, she throws a handful of smoke grenade to reduce
+    enemies's accuracy rate in the smoke screen for a (very) short period of
+    time (S).
 passiveSkill:
   passive1: Increases her attack power (S).
 subSkill:
