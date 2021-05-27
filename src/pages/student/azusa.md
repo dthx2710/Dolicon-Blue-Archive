@@ -20,16 +20,15 @@ combatEnvironment:
   indoor: D
   urban: B
 exSkill:
-  exCost: 3
-  ex1: Deals (S) consecutive damage to the target and then (M) additional damage
-    at the end. The attacked target takes (M) more damage over (M) time.
+  exCost: ""
+  ex1: Deals x% of attack power to one enemy.
 normalSkill:
-  normal1: Deals (S) damage to one enemy every (S) time and reduces (S) defence
-    for (M) time.
+  normal1: Deals x% damage to one enemy and reduces their defense for ???% every
+    ??? seconds.
 passiveSkill:
-  passive1: Increases attack speed (S).
+  passive1: Increases critical rate.
 subSkill:
-  sub1: When attacking an enemy with debuff status, she deals (S) additional damage.
+  sub1: When attacking an enemy with debuff status, she deals additional damage.
 profile:
   height: 149
   artist: NAMYO
