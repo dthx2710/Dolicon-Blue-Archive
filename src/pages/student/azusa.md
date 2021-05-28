@@ -13,7 +13,7 @@ equipment:
   ? equipment3
 role: Attacker
 position: Middle
-atkType: Penetration
+atkType: Explosion
 defType: Special Armour
 combatEnvironment:
   outdoor: S
