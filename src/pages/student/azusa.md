@@ -1,7 +1,7 @@
 ---
 templateKey: student-info
 studentType: Striker
-name: Azusa (CBT)
+name: Azusa
 image: /img/azusa_01.webp
 portrait: /img/Student_Portrait_Azusa_Collection.webp
 rarity: "3"
@@ -20,11 +20,10 @@ combatEnvironment:
   indoor: D
   urban: B
 exSkill:
-  exCost: ""
+  exCost: 5
   ex1: Deals x% of attack power to one enemy.
 normalSkill:
-  normal1: Deals x% damage to one enemy and reduces their defense for ???% every
-    ??? seconds.
+  normal1: Deals damage to one enemy and reduces their defense every 30 seconds.
 passiveSkill:
   passive1: Increases critical rate.
 subSkill:
