@@ -8,9 +8,9 @@ rarity: "3"
 affiliation: Trinity
 weaponType: AR
 equipment:
-  ? equipment1
-  ? equipment2
-  ? equipment3
+  equipment1: Gloves
+  equipment2: Hairpin
+  equipment3: Watch
 role: Attacker
 position: Middle
 atkType: Explosion
