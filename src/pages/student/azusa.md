@@ -21,13 +21,15 @@ combatEnvironment:
   urban: B
 exSkill:
   exCost: 5
-  ex1: Deals x% of attack power to one enemy.
+  ex1: Deals 1065% of attack power to one enemy.
 normalSkill:
-  normal1: Deals damage to one enemy and reduces their defense every 30 seconds.
+  normal1: Deals 297% of attack as damage to one enemy and reduces their defense
+    by 18.9% every 30 seconds.
 passiveSkill:
-  passive1: Increases critical rate.
+  passive1: Increases critical rate by 14%.
 subSkill:
-  sub1: When attacking an enemy with debuff status, she deals additional damage.
+  sub1: When attacking an enemy with debuff status, Azusa deals 46.6% additional
+    damage.
 profile:
   height: 149
   artist: NAMYO
