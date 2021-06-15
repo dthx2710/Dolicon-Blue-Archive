@@ -1,3 +1,15 @@
+### Project Discontinued (1 June Update)
+Hey guys, it's Dolicon here. As you all know, DoliconBA has been discontinued since 1 June 2021. Reasons are mainly due to me losing motivation in Blue Archive as a mobage (getting burnt out) and my other commitments.
+
+There were also many negative feedback & hurtful comments regarding the site which I've seen over in 4chan and facebook about the usefulness and relevance of DoliconBA which definitely negatively impacted my love for the community; but I will not go in-depth regarding this topic as it is another can of worms.
+
+My contingency plans for my main reasons was to create a team to lessen the sole dependency of any new updates on me, but it hasn't worked out thus far due to the differing commitment level of the members. Furthermore, I felt that it isn't fair to pass on the responsibility onto someone if they do not want to, or are not prepared to shoulder it; so I felt it was suitable to close down the entire project.
+
+Thank you everyone for using the site since day 1 of BA's release, and I hope the tools in DoliconBA has served useful in at least one instance in your Blue Archive adventure! Hope yo see you guys in the future, maybe when BA eng comes out (rip nexon) or in another gacha game (probably only in waafuri en / pgr en)
+
+PS: If anyone would like to inherit/revive this project or need any help with it, always feel free to contact me on discord :D
+
+
 ### DoliconBA
 DoliconBA is a fan-made Blue Archive Progressive Web App developed upon the JAMstack architecture using Gatsbyjs (SSG) and NetlifyCMS (HeadlessCMS), hosted on Netlify Pages. Made this as a side-project to learn the JAMstack architecture :smile:
 

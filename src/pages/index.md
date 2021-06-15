@@ -5,7 +5,7 @@ image: /img/home-jumbotron.webp
 heading: Test
 subheading: A Blue Archive Site
 mainpitch:
-  title: Not working on anything at the moment. DM me for requests!
+  title: DoliconBA has been discontinued as of 1st June 2021. Read "About" page for more info.
   description: >
     
 ---
