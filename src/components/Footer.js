@@ -5,7 +5,7 @@ import discord from '../img/social/discord.svg'
 import kofi from '../img/social/Ko-fi_Icon_RGB_rounded.png'
 import github from '../img/github-icon.svg'
 import facebook from '../img/social/facebook_old.svg'
-
+const ads = <script data-ad-client="ca-pub-8500505837042857" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> ;
 const Footer = class extends React.Component {
   render() {
     return (
@@ -90,6 +90,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+        {ads}
       </footer>
     )
   }
