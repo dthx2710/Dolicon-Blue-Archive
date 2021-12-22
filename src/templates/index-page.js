@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { graphql, Link } from "gatsby";
 
 import Layout from "../components/Layout";
-
+const ads = <script data-ad-client="ca-pub-8500505837042857" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> ;
 export const IndexPageTemplate = ({
   image,
   title,
@@ -256,6 +256,7 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
+    {ads}
   </div>
 );
 
