@@ -6,6 +6,7 @@ class Map extends React.Component {
     super()
     this.state = {map:''};
     this.selectMap=this.selectMap.bind(this);
+    const ads = <script data-ad-client="ca-pub-8500505837042857" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> ;
   }
   selectMap(map){
     this.setState({map:map});
@@ -27,6 +28,7 @@ class Map extends React.Component {
         <p className="column is-12 is-size-6">
             Map images sourced from wikiru.jp - Area 3/4 hard images unavailable for now
         </p>
+        {ads}
       </div>
     )
   }
